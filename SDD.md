@@ -47,10 +47,10 @@ BAB 3 DFD
 
 3.1 Diagram konteks <br>
 
-<p align="center">![enter image description here](https://lh3.googleusercontent.com/-cDkCYioQKxQ/WqjJKJS_v3I/AAAAAAAAFKw/03yotj4fIHIbCpuJTYnRKHLZYyxC1O4pACLcBGAs/w530-h344-n-rw/KONTEXS%2BDIAGRAM.PNG)</p>
+![enter image description here](https://lh3.googleusercontent.com/-cDkCYioQKxQ/WqjJKJS_v3I/AAAAAAAAFKw/03yotj4fIHIbCpuJTYnRKHLZYyxC1O4pACLcBGAs/w530-h344-n-rw/KONTEXS%2BDIAGRAM.PNG)</p>
 <p align="center"> diagram konteks </p>
 
-3.2 Diagram level 0
+3.2 Diagram level 0 <br>
 <p align="center">![enter image description here](https://lh3.googleusercontent.com/-z67GIW_p25o/WqjLPr7PbbI/AAAAAAAAFLM/nK4ZaNETbigXqio2_5bN0i02a8c59nG2gCLcBGAs/w530-h404-n-rw/diagram%2Blevel%2B0.png)</p>
 <p align="center"> diagram level 0 </p>
 
