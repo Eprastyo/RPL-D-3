@@ -1,3 +1,4 @@
+
 <p align="center"> Software Design Document (SDD) </p>
 
 <p align="center"> Versi 01 </p>
@@ -17,6 +18,8 @@
 <p align="center">JURUSAN TEKNIK INFORMATIKA</p>
 
 <p align="center">POLITEKNIK NEGRI INDRAMAYU</p>
+
+
 
 BAB 1
 
@@ -43,19 +46,26 @@ BAB 2 Referensi
 [1]IEEE Software Engineering Standards Committee, IEEE Std 830-1998, IEEERecommended
 [2]https://en.wikipedia.org/wiki/SDD
 
-BAB 3 DFD 
+BAB 3 DFD  
 
-3.1 Diagram konteks <br>
+<!DOCTYPE html>
+<html>
+<head>
 
-![enter image description here](https://lh3.googleusercontent.com/-cDkCYioQKxQ/WqjJKJS_v3I/AAAAAAAAFKw/03yotj4fIHIbCpuJTYnRKHLZYyxC1O4pACLcBGAs/w530-h344-n-rw/KONTEXS%2BDIAGRAM.PNG)</p>
-<p align="center"> diagram konteks </p>
+</head>
+<body><center>
 
-3.2 Diagram level 0 <br>
-<p align="center">![enter image description here](https://lh3.googleusercontent.com/-z67GIW_p25o/WqjLPr7PbbI/AAAAAAAAFLM/nK4ZaNETbigXqio2_5bN0i02a8c59nG2gCLcBGAs/w530-h404-n-rw/diagram%2Blevel%2B0.png)</p>
-<p align="center"> diagram level 0 </p>
+<p align="left"> 3.1 Diagram konteks <br> </p>
+![enter image description here](https://lh3.googleusercontent.com/-cDkCYioQKxQ/WqjJKJS_v3I/AAAAAAAAFKw/03yotj4fIHIbCpuJTYnRKHLZYyxC1O4pACLcBGAs/w530-h344-n-rw/KONTEXS%2BDIAGRAM.PNG)
+
+<p align="left"> 3.2 Diagram level 0 <br> </p>
+
+![enter image description here](https://lh3.googleusercontent.com/-z67GIW_p25o/WqjLPr7PbbI/AAAAAAAAFLM/nK4ZaNETbigXqio2_5bN0i02a8c59nG2gCLcBGAs/w530-h404-n-rw/diagram%2Blevel%2B0.png)
 
 
-
+</center>
+</body>
+</html>
 3.3 Diagram level 1
 
 
