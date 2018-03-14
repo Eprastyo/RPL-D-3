@@ -1,22 +1,22 @@
-Software Design Document (SDD)
+<p align="center"> Software Design Document (SDD) </p>
 
-Versi 01
+<p align="center"> Versi 01 </p>
 
-08 Maret 2018
+<p align="center"> 08 Maret 2018 </p>
 
-Disusun Oleh :
+<p align="center"> Disusun Oleh : </p>
 
-Eko Prastyo 		 (1603096)
+<p align="center">Eko Prastyo 		 (1603096) </p>
 
-Syahrul Gunawan 	 (1603113)
+<p align="center">Syahrul Gunawan 	 (1603113)</p>
 
-Tuti Nurafni Amalia  (1603116)
+<p align="center">Tuti Nurafni Amalia  (1603116)</p>
 
-Wulan Diani			 (1603118)
+<p align="center">Wulan Diani			 (1603118)</p>
 
-JURUSAN TEKNIK INFORMATIKA
+<p align="center">JURUSAN TEKNIK INFORMATIKA</p>
 
-POLITEKNIK NEGRI INDRAMAYU
+<p align="center">POLITEKNIK NEGRI INDRAMAYU</p>
 
 BAB 1
 
@@ -47,17 +47,20 @@ BAB 3 DFD
 
 3.1 Diagram konteks <br>
 
-![enter image description here](https://lh3.googleusercontent.com/-cDkCYioQKxQ/WqjJKJS_v3I/AAAAAAAAFKw/03yotj4fIHIbCpuJTYnRKHLZYyxC1O4pACLcBGAs/w530-h344-n-rw/KONTEXS%2BDIAGRAM.PNG)
+<p align="center">![enter image description here](https://lh3.googleusercontent.com/-cDkCYioQKxQ/WqjJKJS_v3I/AAAAAAAAFKw/03yotj4fIHIbCpuJTYnRKHLZYyxC1O4pACLcBGAs/w530-h344-n-rw/KONTEXS%2BDIAGRAM.PNG)</p>
 <p align="center"> diagram konteks </p>
+
 3.2 Diagram level 0
+<p align="center">![enter image description here](https://lh3.googleusercontent.com/-z67GIW_p25o/WqjLPr7PbbI/AAAAAAAAFLM/nK4ZaNETbigXqio2_5bN0i02a8c59nG2gCLcBGAs/w530-h404-n-rw/diagram%2Blevel%2B0.png)</p>
+<p align="center"> diagram level 0 </p>
 
 
 
 3.3 Diagram level 1
-![level1](https://lh3.googleusercontent.com/X7HtnrLlk_HOzLk-IKIIdrEm5XQqYzrHkpza3QWu_EwXpQdK5Ly2_LTV-JZBGjlQJKM6lxpclz52cAKUgPdhhfQ7_spLKX9Pwx_Rh5u0uer579qu3zi4NvDJp8InpuybxycGITqfV5NTwYcJklnZmE8IFdTNC2n-lJcOsc8m_vp3Id3KO7pGhobVe2uN2EGzgRMdzy0uBlUfeVMOW6YpMEyz4nUccWZCxHW6jl1JxYyicvKJhA7GUZlM0tzmSJbT6RJkge1gcE96WJEgZyJnw-ip7qIeZ3keKGupkdJ7fh3_ntaXnsMvC3DAfNBkzW8H0JlHdmQIbhzBQbMprvfR2uIa2GSlm67JgwRekeiNoPo-18zdMvPV6ydhgRfM-JToOmtHP95nO93XPjMjV90IyI95N_1fAG47zkn_OZyQ4gc93pSe7523XvAu7ZAP_cDwFRc48ax37L8hbraE9POcYDHccNB9dTQ5qex1HpuLfzihdg_qxGh0_T7CqAJaXqRCRVFVI1k4azOg9k7Zgb6XxeZ_m8-EH5GaPtfikZ9aTVeOrQaNZ2khmlUQCp1EwRKDW-0DDFDVb7ziH-Zh-kaImAWhCOWt2ARGlSioDh8=w849-h451-no)
+
 
 3.4 Diagram level 2
-![level2](https://lh3.googleusercontent.com/kK24ZUbtG9ncHRcQ33wodBrqGRWdIYvddH0SkL-go3dCdya6Aw2PytaTybnuJ9HHqbGCap2ApT2CkZfN7k3pw9n-YXy88XC4qwMR-GMfGiIcDtfT5oen1eCWRZA0KRrd8pbrGAXko4WXiIgX2YErpHIIZHJcb9MNqowazxs58_a4KxU-vCQioNAohwWvLeA1wan-F0OYMT_IuLRKornvkKPcwyT5NoYRC-8ZKBYyLjO3wyxb6Hq2o0-2DvCQX7s-khuiwk25aaWQFt6BEXPrkahUV1FD7CE6N5WcD-08OfjJTA2BQWtjwS6A3MBuggSmTc5kHp76mh96HBK7tmU_nfienQer5bmA1dTXUIIDb9oXU-mnlRATB1VGaI4HxOGzao8bZvS3CAQr2ABmpqHWOzRziQRJODK8i3xD6kdUG9peQFXJ_DNXjpIVIveUbiN3f8vc3Ia0yVm9jPC-2WAvKjstsbi1RALD1NzpQQhPWB8ND1pJjELxpOIGF4n0CaxCqMFSKDRC34bq25PXysRKAQXRj0OWna_rBRDt6ryegB8IC9kdUxjdG4pZU2BjLjdg_OBurWeraFUrwR7TNZvl9bkXrJ2wL3BGR8Y3dQM=w714-h450-no)
+
 
 
 
