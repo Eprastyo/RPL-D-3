@@ -45,8 +45,10 @@ BAB 2 Referensi
 
 BAB 3 DFD 
 
-3.1 Diagram konteks
+3.1 Diagram konteks <br>
+
 ![enter image description here](https://lh3.googleusercontent.com/-cDkCYioQKxQ/WqjJKJS_v3I/AAAAAAAAFKw/03yotj4fIHIbCpuJTYnRKHLZYyxC1O4pACLcBGAs/w530-h344-n-rw/KONTEXS%2BDIAGRAM.PNG)
+<p align="center"> diagram konteks </p>
 3.2 Diagram level 0
 
 
