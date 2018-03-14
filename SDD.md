@@ -5,6 +5,8 @@
 
 <p align="center"> 08 Maret 2018 </p>
 
+![enter image description here](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/POLINDRA.png)
+
 <p align="center"> Disusun Oleh : </p>
 
 <p align="center">Eko Prastyo 		 (1603096) </p>
@@ -56,6 +58,7 @@ BAB 3 DFD
 <body><center>
 
 <p align="left"> 3.1 Diagram konteks <br> </p>
+
 ![enter image description here](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/KONTEXS%20DIAGRAM.PNG)
 
 <p align="left"> 3.2 Diagram level 0 <br> </p>
