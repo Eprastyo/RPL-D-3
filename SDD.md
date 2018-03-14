@@ -1,26 +1,28 @@
+<div align ="center">
 
-<p align="center"> Software Design Document (SDD) </p>
+Software Design Document (SDD) 
 
-<p align="center"> Versi 01 </p>
+Versi 01 
 
-<p align="center"> 08 Maret 2018 </p>
+08 Maret 2018>
 
 ![logo](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/POLINDRA.png)<br>
 
-<p align="center"> Disusun Oleh : </p>
+Disusun Oleh: 
 
-<p align="center">Eko Prastyo 		 (1603096) </p>
+Eko Prastyo 			(1603096) 
 
-<p align="center">Syahrul Gunawan 	 (1603113)</p>
+Syahrul Gunawan 		(1603113)
 
-<p align="center">Tuti Nurafni Amalia  (1603116)</p>
+Tuti Nurafni Amalia		(1603116)
 
-<p align="center">Wulan Diani			 (1603118)</p>
+Wulan Diani			(1603118)
 
-<p align="center">JURUSAN TEKNIK INFORMATIKA</p>
+JURUSAN TEKNIK INFORMATIKA
 
-<p align="center">POLITEKNIK NEGRI INDRAMAYU</p>
+POLITEKNIK NEGRI INDRAMAYU
 
+</div>
 
 
 BAB 1
