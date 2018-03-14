@@ -5,7 +5,7 @@
 
 <p align="center"> 08 Maret 2018 </p>
 
-![enter image description here](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/POLINDRA.png)
+<p align="center">![enter image description here](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/POLINDRA.png)</p>
 
 <p align="center"> Disusun Oleh : </p>
 
