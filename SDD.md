@@ -56,7 +56,7 @@ BAB 3 DFD
 <body><center>
 
 <p align="left"> 3.1 Diagram konteks <br> </p>
-![enter image description here](https://lh3.googleusercontent.com/-krRc9-eQWQI/WqjPJ4l5bQI/AAAAAAAAFLk/P1T0Qg-VRHcV5Xc4hdQECwYYcPRL_X31wCLcBGAs/w530-h344-n-rw/KONTEXS%2BDIAGRAM.PNG)
+![enter image description here](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/KONTEXS%20DIAGRAM.PNG)
 
 <p align="left"> 3.2 Diagram level 0 <br> </p>
 
