@@ -64,7 +64,7 @@ BAB 3 DFD
 ![DFD](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/DFD%20LEVEL%201%20-%20MENGELOLA%20DATA%20BOOKING.PNG)
 <br>
 3.3.2 DFD Level 1 Mengelola Data Pelanggan<br>
-![DFD](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/DFD%20LEVEL%201%20-%20MENGELOLA%20DATA%20PELANGGAN.PNG)
+![DFD](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/DFD%20LEVEL%201%20-%20MENGELOLA%20DATA%20PELANGGAN.PNG)<br>
 3.3.3 DFD level 1 Mengelola Data Transaksi<br>
 ![DFD](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/DFD%20LEVEL%201%20-%20MENGELOLA%20DATA%20TRANSAKSI.PNG)
 <br>
