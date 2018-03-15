@@ -96,7 +96,9 @@ Gambar 2.4 Tampilan list lapangan
 
 ​ Tampilan list lapangan terdapat header berwarna merah dengan tulisan berwarna putih dandi sisi kiri terdapat icon panah berwarna putih. Kemudian dibawahnya terdapat 3textview dan 2 button.
 
+<div alignment="center">
 ![img4](https://lh3.googleusercontent.com/-Sf8iaxYabm4/Wp9qqfazAzI/AAAAAAAAANo/zLstdCq4wQ016zSE_Y4PuYPK33z_uN_wACL0BGAs/w414-d-h736-n-rw/daftar%2Bpemesan.jpg)
+</div
 
 Gambar 2.5 Tampilan daftar pemesan
 
