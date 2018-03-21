@@ -174,10 +174,10 @@ Sebuah aplikasi web berkomunikasi dengan perangkat lunak client melalui HTTP. HT
 
 ​ A. Usecase admin
 
-![img2](https://lh3.googleusercontent.com/-oMzaRahEeOc/Wp9sFFv2HGI/AAAAAAAAAOk/ySSSblqSDlAPgUcRWB5r1jyM16dF9GLdQCL0BGAs/w530-d-h416-n-rw/Use%2BCase%2BMember%2B-%2BUse%2Bcase%2Bdiagram%2Badmin%25281%2529.png)
+![enter image description here](https://lh3.googleusercontent.com/iyU4PLXp9uIK9PLOMsr7zTGQ84dUIXiJpdvAu__cMrYRFrCa6go8Kl4xCLZZp31hxaOE1T4V2-YVPdiICen0PibHhUkjxou-U8oO=w286-h220-rw)
 
  B. Usecase calon pelanggan<br>
- ![img1](https://lh3.googleusercontent.com/-uRmM-vI1VvA/Wp9r9D9d9PI/AAAAAAAAAOY/C6hPd-uAw5wF_YrJG_qqST7Xo_qe-qL7ACL0BGAs/w530-d-h433-n-rw/Use%2BCase%2BMember%2B-%2BUse%2Bcase%2Bdiagram%2Bpelanggan%25282%2529.png) 
+ ![enter image description here](https://lh3.googleusercontent.com/Rhjc3sB-PSDg9PHil122pixnUecv4fvBp_XZ-7L8oYR6OXpatDP_nWuqdSwd5i1fLXPi7BY87F1bP3XxpOI31K4VQmIj4pAieEcf=w289-h220-rw) 
 
 2.2.1 Usecase pelanggan<br>
 Use case: Login
