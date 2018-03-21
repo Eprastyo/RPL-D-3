@@ -1,3 +1,4 @@
+
 <div align="center">
 SOFTWARE REQUIREMENTS SPESIFICATION<br>
 <br>
@@ -5,7 +6,6 @@ Version 1.0
 <br>
 <br>
 7 Maret 2018
-<br>
 <br>
 
 ![enter image description here](https://lh3.googleusercontent.com/f5f0-BxI6LDzD6bvooQXbVf8_EN2BxwaRxZdRM5CdSzp5OL9bh1lqaNDw8wCkIAYtjYvHENJuuo5=s300 "img01")
@@ -22,6 +22,7 @@ Wulandiani (1603118)
 JURUSAN TEKNIK INFORMATIKA <br>
 POLITEKNIKNEGERI INDRAMAYU 2018<br>
 </div>
+
 <br>
 <br>
 <br>
@@ -56,7 +57,7 @@ BAB 2
 
 GAMBARAN UMUM
 
-Aplikasipemesana lapangan futsal membantu user atau calon pelanggan untuk memesanlapangan
+Aplikasi pemesanan lapangan futsal membantu user atau calon pelanggan untuk memesan lapangan
 
 2.1 Perspektif Produk
 
@@ -65,7 +66,7 @@ Produk ini memiliki fungsi pemesanan lapangan futsal melalui_mobile apps_. Pengg
 2.1.1 Antarmuka sistem
 
 ![img9](https://lh3.googleusercontent.com/-ZHr32IgPcuc/Wp_HunwALqI/AAAAAAAAARE/0XQbDM7HrC4hppc7lRaCL5cYhV9lU7k6wCL0BGAs/w530-d-h187-n-rw/Antarmuka+Sistem.png)
-
+<div align="center">Gambar 2.1 Antarmuka sistem</div><br>
 Bagian sistem aplikasi untuk sisiuser menggunakan *mobile apps* yang bisa menampilkan menu daftar dan loginsebagai autentifikasi awal masuk ke sistem, kemudian bisa menampilkan formpemesanan lapangan kepada calon pelanggan, selanjutnya sistem mampu menampilkandaftar lapangan yang tersedia dan belum dipesan atau kosong. Disamping itusistem memliki fitur tampilan bukti pemesanan yang dapat dicetak oleh calonpelanggan kemudian mampu mengirim bukti pembayaran ke server.
 
 Bagian sistem aplikasi untuk sisiadmin menggunakan _web apps_. Sistem mampumenampilkan tampilan login admin. Kemudian menampilkan fitur menipulasi datalapangan dan tarif, kemudian memiliki fitur menampilkan konfirmasi pembayaran,selanjutnya sistem mampu menampilkan daftar pelanggan yang memesan. Disampingitu sistem melakukan transaksi pemesanan lapangan.
@@ -73,39 +74,65 @@ Bagian sistem aplikasi untuk sisiadmin menggunakan _web apps_. Sistem mampumenam
 2.1.2 Antarmuka pengguna
 
 ![img8](https://lh3.googleusercontent.com/-82R76oif8eA/Wp9qnbhVVBI/AAAAAAAAANc/OMISVh_uyfskuiNxZTuE5dJxkbBatYItwCL0BGAs/w414-d-h736-n-rw/daftar.jpg)
-
-Gambar 2.1 Daftar user
+<div align="center">Gambar 2.2 Daftar user </div>
 
 ​ Menudaftar user menggunakan form tampilan text edit,password dan button menggunakanwarna merah dan memiliki latar belakang orang menendang bola ,kemudian terdapatlink login berwaran biru.
 
 ![img7](https://lh3.googleusercontent.com/-Yzb95U1nufc/Wp9qkgZTegI/AAAAAAAAANQ/q_fNGhPBNKADYXes5v9yuh2b5aY55aJ0gCL0BGAs/w414-d-h736-n-rw/login.jpg)
-
-Gambar 2.2 Tampilan login
+<div align="center">Gambar 2.3 Tampilan login</div>
 
 ​ Tampilanlogin terdapat text edit email dan password dilengkapi icon email dan kunci. Disisiatas terdapat header berwarna merah dengan tulisan berwarna putih. Disisi bawahterdapat button login,link lupa password,dan link register.
 
 ![img6](https://lh3.googleusercontent.com/-PIzm7F4EZyE/Wp9qhuFa51I/AAAAAAAAANE/m33W0qFaQY45VH-yL0cVt_4DfoHG5A3UQCL0BGAs/w414-d-h736-n-rw/menu%2Bawal.jpg)
 
-Gambar 2.3 Menu awal
+<div align="center">Gambar 2.4 Menu awal</div>
 
-​ Tampilanmenu awal terdapat header berwarna merah dengan tulisan berwarna putih. Kemudiandibawah header terdapat icon fitur utama berwarna merah.
+​ Tampilan menu awal terdapat header berwarna merah dengan tulisan berwarna putih. Kemudiandibawah header terdapat icon fitur utama berwarna merah.
 
 ![img5](https://lh3.googleusercontent.com/-FEWKudkYP9E/Wp9odATlfuI/AAAAAAAAAMQ/qOPc5y4f5FQ5RPAqPxVC15BRyK9w6rsgQCJoC/w414-h736-n-rw/daftar%2Bllapangan.jpg)
 
-Gambar 2.4 Tampilan list lapangan
+<div align="center">Gambar 2.5 Tampilan pemesanan lapangan</div>
 
-​ Tampilan list lapangan terdapat header berwarna merah dengan tulisan berwarna putih dandi sisi kiri terdapat icon panah berwarna putih. Kemudian dibawahnya terdapat 3textview dan 2 button.
+​ Tampilan list lapangan terdapat header berwarna merah dengan tulisan berwarna putih dandi sisi kiri terdapat icon panah berwarna putih. Kemudian dibawahnya terdapat 3 textview dan 2 button.
 
 ![img4](https://lh3.googleusercontent.com/-Sf8iaxYabm4/Wp9qqfazAzI/AAAAAAAAANo/zLstdCq4wQ016zSE_Y4PuYPK33z_uN_wACL0BGAs/w414-d-h736-n-rw/daftar%2Bpemesan.jpg)
 
-Gambar 2.5 Tampilan daftar pemesan
+<div align="center">Gambar 2.6 Tampilan daftar pemesan</div>
 
-​ Tampilandaftar menggunakan data tabel berwarana abu dengan jumlah kolom sebanyak 4 kemudiandisetiap baris divarriasi warna putih dan abu-abu.
+​Tampilan daftar menggunakan data tabel berwarana abu dengan jumlah kolom sebanyak 4 kemudian di setiap baris divariasi warna putih dan abu-abu.<br>
+
+![enter image description here](https://lh3.googleusercontent.com/-FPJYslKQrnE/WrH2_tY_E-I/AAAAAAAAABk/6GRnaA0PXQk7ArDABgqvq0sg15dqa5MwACJoC/w424-h318-n/login.png)
+<div align="center">Gambar 2.7 Login</div>
+Tampilan login terdapat sebuah logo aplikasi dan dua form input login untuk username dan password.<br>
+
+![enter image description here](https://lh3.googleusercontent.com/-IhpZVMMgxkM/WrH4zNJO-iI/AAAAAAAAACg/Id_FRfgfxUUOBbCXIp5HpbFJ2pQMm_ZswCJoC/w530-h397-n/dashboard.png)
+<div align="center">Gambar 2.8 Dashboard</div>
+Tampilan dashboard terdapat 3 kotak berwarna biru,kuning,dan hijau untuk menampilkan ketersediaan lapangan dan jumlah pemesan.<br>
+
+![enter image description here](https://lh3.googleusercontent.com/-E33TG0VMh0Q/WrH2_ptoOuI/AAAAAAAAABk/T5wNiMARIV03Enplg_Knwz-bHxxn7ydzgCJoC/w424-h318-n-rw/kelola+data+lapangan.png)
+<div align="center">Gambar 2.9 Kelola data lapangan</div>
+Tampilan kelolda data lapangan berupa data tabel berwarna abu-abu untu mengelola data lapangan.<br>
+
+![enter image description here](https://lh3.googleusercontent.com/-zlgMrRdrQDY/WrH2_mpjInI/AAAAAAAAABk/SJM9EUM8HvA7t8XBkAtFnzkEnpomaNuAQCJoC/w424-h318-n/input+data+lapangan.png)
+<div align="center">Gambar 2.10 Input data lapangan</div>
+Tampilan input data lapangan berupa dua from input berwarna putih untuk memasukan nama lapangan dan tarif.<br>
+
+![enter image description here](https://lh3.googleusercontent.com/-pB0XKk3hhGY/WrH2_skBB3I/AAAAAAAAABk/P8KZ6gIImpAccqxWJAUjICzIDGBUi2vVwCJoC/w424-h318-n/data+pemesan.png)
+<div align="center">Gambar 2.12 Data pemesan</div>
+Tampilan input data pemesan menggunakan data tabel untuk mengetahu data pemesan lapangan kemudian terdapat sebuah aksi untuk memproses transaksi.<br>
+
+![enter image description here](https://lh3.googleusercontent.com/-DAWgrb4IuxY/WrH2_hOpV3I/AAAAAAAAABk/YME0-itF5Y0YUbsV6E4VNLHjlepzcQ9agCJoC/w424-h318-n/Transaksi.png)
+<div align="center">Gambar 2.13 Transaksi</div>
+Tampilan transaksi berupada data tabel untuk memproses pencetakan transaksi pemesanan lapangan.<br>
+
+![enter image description here](https://lh3.googleusercontent.com/-eZ3kATU4GKA/WrH2_lid1II/AAAAAAAAABk/yTXG18ZrEbMCVtJVlb5ZpFw4za2SBZQjACJoC/w424-h318-n/Member.png)
+<div align="center">Gambar 2.14 Data Member</div>
+Tampilan data member menggunakan data tabel berwarna abu-abu untuk menampilkan daftar pelanggan.<br>
 
 2.1.3 Antarmuka perangkat keras
 
 ![img3](https://lh3.googleusercontent.com/-oBNUr2ecXmM/Wp9r1nNk8AI/AAAAAAAAAOM/slNzD-hEA8cWXpx9QV7D04ue047uR3DxACJoC/w530-h336-n/Antarmuka+Hardware+-+Antarmuka+Hardware%25281%2529.png)
-
+<div align="center">Gambar</div>
 Antarmuka perangkat keras calon pemesan menggunakandevice \*smartphone \*android untuk bisamemesan pertama kali device harus terhubung ke internet kemudian membukaaplikasi sistem maka terhubung ke server. Kemudiann antarmuka perangkat kerasadmin menggunakan device computer atau laptop dan pastikan terhubung denganinternet selanjutnya buka website sistem admin.
 
 2.1.4 Antarmuka perangkat lunak
@@ -198,35 +225,82 @@ Aplikasi ini dapat diakses jika terhubung dengan internet dan memiliki OS androi
 
 3.2 Persyaratan Fungsional
 
-	3.2.1 Daftar user
+3.2.1 Daftar user
 	
 | Nama fungsi | Daftar pelanggan |
 |--|--|
-| Ref | Bag 2.1.2,Daftar pelanggan |
+| Ref | Bag 2.1.2,Daftar user |
 | Trigger | Membuka aplikasi SSAL |
 | Precondition | Halaman pendaftaran pelanggan  |
 | Basic patch | 1. Pelanggan mengklik fungsi register<br>2. Sistem menampilkan halaman pendaftaran<br>3. Pelanggan memasukan nama lengkap,nama pengguna,email,password,dan no handphone<br>4. Pelanggan mengklik tombol register<br>5. Sistem menyimpan ke database |
 | Alternative | Tidak ada |
-| Post Condition | Pelanggan dapat daftar kemudian bisa mengakses aplikasi |
+| Post Condition | Pelanggan bisa mendaftarkan akun kemudian bisa mengakses aplikasi |
 | Exception push | Tidak ada koneksi |
 
-	3.2.2 Halaman booking lapangan
+3.2.2 Menu Login
 	
-|Nama fungsi  | Halaman booking lapangan |
+| Nama fungsi | Login pelanggan |
 |--|--|
-|Ref  |Bag 2.1.2,Menu   |
-|Trigger | Membuka aplikasi SSAL,user sudah terdaftar |
-| Precondition | Halaman pemesanan |
-| Basic Path | 1. Pelanggan menekan fitur booking lapangan<br>2. Sistem membuka halaman pemesanan<br>3. Pelanggan memilih lapangan dan waktu main  |
+| Ref | Bag 2.1.2,Login |
+| Trigger | Membuka aplikasi SSAL |
+| Precondition | Halaman login  |
+| Basic patch | 1. Pelanggan membuka aplikasi<br>2. Sistem menampilkan halaman login<br>3. Pelanggan mengisi form login<br>4. Pelanggan mengklik tombol login<br>5. Sistem melakukan validasi login<br>6. Jika benar, sistem menampilkan menu utama<br>7. Jika salah kembali menu login   |
 | Alternative | Tidak ada |
-| Post Condition | Pelanggan dapat memesan lapangan  |
-| Exception push | Halaman pemesanan |<br>
+| Post Condition | Pelanggan bisa masuk ke menu aplikasi |
+| Exception push | Tidak ada koneksi |
+
+3.2.3 Menu pemesanan lapangan
+| Nama fungsi | Pemesanan lapangan |
+|--|--|
+| Ref | Bag 2.1.2,Pemesanan lapangan |
+| Trigger | Membuka aplikasi SSAL |
+| Precondition | Halaman pemesanan lapangan  |
+| Basic patch | 1. Pelanggan membuka aplikasi<br>2. Pelanggan login aplikasi <br>3. Pelanggan megklik menu pesan lapangan <br>4. Pelanggan mengisi nama lapangan dan jam<br>5. Jika benar, sistem menyimpan ke database<br>7. Jika salah kembali ke menu pemesanan   |
+| Alternative | Tidak ada |
+| Post Condition | Pelanggan bisa memesan lapangan |
+| Exception push | Tidak ada koneksi |
+
+3.2.4 Menu lihat lapangan
+| Nama fungsi | Melihat lapangan  |
+|--|--|
+| Ref | Bag 2.1.2,Lihat lapangan  |
+| Trigger | Membuka aplikasi SSAL |
+| Precondition | Halaman daftar lapangan   |
+| Basic patch | 1. Pelanggan membuka aplikasi<br>2. Pelanggan login aplikasi <br>3. Pelanggan lihat lapangan <br>4. Sistem menampilkan daftar lapangan yang tersedia |
+| Alternative | Tidak ada |
+| Post Condition | Pelanggan bisa melihat daftar lapangan |
+| Exception push | Tidak ada koneksi |
 
 3.3 Struktur detail kebutuhan Non-Fungsional
 
 3.3.1 Logika Struktur Data
 
 ![img](https://lh3.googleusercontent.com/-S5Ss0ZEHb-8/Wp_45OtZhlI/AAAAAAAAASA/plSBKH2JflgeUzG5p1dLOxHUg8Na_-_NACL0BGAs/w530-d-h379-n-rw/ERD.png)
+Pembayaran
+<html>
+<table>
+<tr>
+<th>Data item</th>
+<th>Type</th>
+<th>Deskripsi</th>
+</tr>
+<tr>
+<td>id_pembayaran</td>
+<td>Integer</td>
+<td>Nomor id pembayaran</td>
+</tr>
+<tr>
+<td>id_pemesanan</td>
+<td>Integer</td>
+<td>Nomor id pemesanan</td>
+</tr>
+<tr>
+<td>pembayaran</td>
+<td>Integer</td>
+<td>Jumlah pembayaran</td>
+</tr>
+</table>
+</html>
 
 3.3.2 Keamanan
 
