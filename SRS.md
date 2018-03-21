@@ -181,14 +181,14 @@ Sebuah aplikasi web berkomunikasi dengan perangkat lunak client melalui HTTP. HT
 
 2.2.1 Login Admin
 ![enter image description here](https://lh3.googleusercontent.com/-EnMLWKoYQl0/WrK4J-zzCwI/AAAAAAAAAKk/nYA2h1cS9nw8HtUFskunsIL_bpLCjlo1ACL0BGAs/w530-d-h233-n-rw/Login+Admin.png)
-Admin bisa login ke aplikasi website dengan cara	:
+<br>Admin bisa login ke aplikasi website dengan cara	:
 1. Admin membuka aplikasi website
 2. Admin mengisi username dan password
 3. Admin mengkllik menu login Xref : bagian 3.2.7 <br>
 
 2.2.2 Mengelola data lapangan
 ![enter image description here](https://lh3.googleusercontent.com/bmgu-ozN_LOpWdiv3uh4yA2OBe9pjFGvAYxcaTJ8EuOTsMjhpOTXYSeUoju6pCXnJhJf-fzZuAcYi3T_XiE2dJY0FHxYDuVBDlSgaw=w293-h81-rw)
-Admin bisa mengelola data lapangan dengan cara	:
+<br>Admin bisa mengelola data lapangan dengan cara	:
 1. Admin membuka aplikasi website
 2. Admin login aplikasi
 3. Admin mengklik menu kelola data lapangan  
@@ -196,7 +196,7 @@ Admin bisa mengelola data lapangan dengan cara	:
 
 2.2.3 Konfirmasi pembayaran
 ![enter image description here](https://lh3.googleusercontent.com/UzCCK0tjwzZmWFpkcqVWYlTKnW5kpZSX_yr9XH2ILMap5ZwgWfX9swbbhqk5F0z6yBCp25GiaVUCs7F896lTbC3oXLorFBUlNKYETQ=w293-h81-rw)
-Admin bisa mengonfirmasi pembayaran dengan cara	:
+<br>Admin bisa mengonfirmasi pembayaran dengan cara	:
 1. Admin membuka aplikasi website
 2. Admin login aplikasi
 3. Admin mengklik menu kelola data lapangan  
@@ -205,7 +205,7 @@ Admin bisa mengonfirmasi pembayaran dengan cara	:
 
 2.2.4 Menampilkan daftar pemesan
 ![enter image description here](https://lh3.googleusercontent.com/LhLWsEVJW2MzTCUwnIp__bPb8JBXj_zkS6C-XwhFB1WErNZIRJEfRWPzUz0OT_28YGhFenmwLzyMsoKZSgCvGj61rrPx_o1d-PSrBw=w293-h81-rw)
-Admin bisa menampilkan data pemesan dengan cara	:
+<br>Admin bisa menampilkan data pemesan dengan cara	:
 1. Admin membuka aplikasi website
 2. Admin login aplikasi
 3. Admin mengklik menu data pemesan  
@@ -213,7 +213,7 @@ Admin bisa menampilkan data pemesan dengan cara	:
 
 2.2.5 Transaksi pembayaran
 ![enter image description here](https://lh3.googleusercontent.com/Is0OA9n2A_2bs8kg6XWzBb0UOEJVGjr41KpFWKVMw_3DoxpaNgf7PqmrXBsvpgjMEJANVUxJL_JNOV7CIO0ZWSKA3aQ-bMfxU1X78g=w293-h81-rw)
-Admin bisa mengonfirmasi pembayaran dengan cara	:
+<br>Admin bisa mengonfirmasi pembayaran dengan cara	:
 1. Admin membuka aplikasi website
 2. Admin login aplikasi
 3. Admin mengklik menu transaksi 
@@ -221,7 +221,7 @@ Admin bisa mengonfirmasi pembayaran dengan cara	:
 
 2.2.6 Pendaftaran Pelanggan
 ![enter image description here](https://lh3.googleusercontent.com/-PCMeo5YOweQ/WrK9S-K68NI/AAAAAAAAAMM/pCciC5Sbo-ESASmP0R1Mgvfsw8BElijYgCL0BGAs/w530-d-h184-n-rw/pendaftaran+pelanggan.png)
-Calon pelanggan bisa mendaftarkan dengan cara	:
+<br>Calon pelanggan bisa mendaftarkan dengan cara	:
 1. Calon pelanggan membuka aplikasi android
 2. Calon pelanggan mengklik tombol daftar
 3. Calon pelanggan mengisi biodata  
@@ -229,7 +229,7 @@ Calon pelanggan bisa mendaftarkan dengan cara	:
 
 2.2.7 Login calon pelanggan
 ![enter image description here](https://lh3.googleusercontent.com/uOOSa-HSXUXUJh9TPIdZrE1UKJ8V-hoEflKkGkevh1wEFdKstaish_5MKX-TjQvgXxu4rYnUxae0bXOqH0kPTaDqGau2faJ3J-8Fww=w530-h220-rw)
-Calon pelanggan bisa login dengan cara	:
+<br>Calon pelanggan bisa login dengan cara	:
 1. Calon pelanggan membuka aplikasi android
 2. Calon pelanggan mengisi username dan password
 3. Calon pelanggan mengklik login
@@ -237,7 +237,7 @@ Calon pelanggan bisa login dengan cara	:
 
 2.2.8 Menampilkan data lapangan
 ![enter image description here](https://lh3.googleusercontent.com/fO6gnS82-vAEU5XzKsLiACaIxctDC6EjFlzdxlumH0bEX5_2PGNlIWeHKJusDwQd1lZbL2FkVOfVRsIdJLX4xRbE25j2bq6efhMjLA=w322-h81-rw)
-Calon pelanggan bisa melihat lapangan kosong dengan cara	:
+<br>Calon pelanggan bisa melihat lapangan kosong dengan cara	:
 1. Calon pelanggan membuka aplikasi android
 2. Calon pelanggan login aplikasi
 3. Calon pelanggan mengklik menu lihat lapangan  
@@ -245,7 +245,7 @@ Calon pelanggan bisa melihat lapangan kosong dengan cara	:
 
 2.2.9 Memesan lapangan
 ![enter image description here](https://lh3.googleusercontent.com/K43ityKT7vxL9vIFj0fpkQWDUdDvPvY8dn2AB6ktiw8e0T8F5x4ykDagjO60EOPjmgEFiEtzhMNoJe3-4A-2qQGCDz-GNB-1boLu0A=w322-h81-rw)
-Calon pelanggan bisa memesan lapangan dengan cara	:
+<br>Calon pelanggan bisa memesan lapangan dengan cara	:
 1. Calon pelanggan membuka aplikasi android
 2. Calon pelanggan login aplikasi
 3. Calon pelanggan mengklik menu pesan lapangan  
@@ -253,7 +253,7 @@ Calon pelanggan bisa memesan lapangan dengan cara	:
 
 2.2.10 Cetak bukti pemesanan
 ![enter image description here](https://lh3.googleusercontent.com/Y7oyJbpNMsOdoH3f4PczKxNsoSCz_18HCxa9To2xKOOuT8kpSd2cAjjAPsh-BBRY0nJ21BagtsPYA8sndJUwuehN9pCvWkYSczlfxA=w530-h220-rw)
-Calon pelanggan bisa cetak bukti pemesanan dengan cara	:
+<br>Calon pelanggan bisa cetak bukti pemesanan dengan cara	:
 1. Calon pelanggan membuka aplikasi android
 2. Calon pelanggan login aplikasi
 3. Calon pelanggan mengklik menu cetak bukti pemesanan  
@@ -261,7 +261,7 @@ Calon pelanggan bisa cetak bukti pemesanan dengan cara	:
 
 2.2.11 Mengirim bukti pembayaran
 ![enter image description here](https://lh3.googleusercontent.com/skUHZIikDpq4JvMEFNgATyVj--J34qJOyxY6AwmlwX1xbd8mg4-t-k9H63j-8QKTisa1ptvYgr1eX88g3YMlWl4qGGPY7h19CmPrmw=w530-h220-rw)
-Calon pelanggan bisa kirim bukti pembayaran dengan cara	:
+<br>Calon pelanggan bisa kirim bukti pembayaran dengan cara	:
 1. Calon pelanggan membuka aplikasi android
 2. Calon pelanggan login aplikasi
 3. Calon pelanggan mengklik menu kirim bukti pembayaran  
