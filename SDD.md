@@ -1,3 +1,5 @@
+referensi dari weeb https://yohanesgunawan.files.wordpress.com/2007/10/sdd-aeromodeling-store_final.pdf
+
 <div align ="center">
 	
 <b>SOFTWARE DESIGN DOCUMENT (SDD)</b>
