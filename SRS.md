@@ -275,7 +275,7 @@ Aplikasi ini dapat diakses jika terhubung dengan internet dan memiliki OS androi
 
 3.3.1 Logika Struktur Data
 
-![img](https://lh3.googleusercontent.com/-S5Ss0ZEHb-8/Wp_45OtZhlI/AAAAAAAAASA/plSBKH2JflgeUzG5p1dLOxHUg8Na_-_NACL0BGAs/w530-d-h379-n-rw/ERD.png)
+![enter image description here](https://lh3.googleusercontent.com/-KKQoGuQlU5g/WrIgGcnEX5I/AAAAAAAAAEs/iVC0e4s42XcSvt-k--89FOAeeZ0DI-4CACL0BGAs/w530-d-h354-n-rw/ERD.png)
 Pembayaran
 <html>
 <table>
@@ -295,9 +295,136 @@ Pembayaran
 <td>Nomor id pemesanan</td>
 </tr>
 <tr>
-<td>pembayaran</td>
+<tr>
+<td>bukti_pembayaran</td>
+<td>Image</td>
+<td>Gambar bukti pengiriman</td>
+</tr>
+<tr>
+<td>total_harga</td>
 <td>Integer</td>
 <td>Jumlah pembayaran</td>
+</tr>
+</table>
+</html>
+
+Pelanggan
+<html>
+<table>
+<tr>
+<th>Data item</th>
+<th>Type</th>
+<th>Deskripsi</th>
+</tr>
+<tr>
+<td>id_member</td>
+<td>Integer</td>
+<td>Nomor id anggota</td>
+</tr>
+<tr>
+<td>username</td>
+<td>Varchar</td>
+<td>Username pengguna</td>
+</tr>
+<tr>
+<td>Password</td>
+<td>Varchar</td>
+<td>Password pengguna</td>
+</tr>
+<tr>
+<td>Alamat</td>
+<td>Varchar</td>
+<td>Alamat pengguna</td>
+</tr>
+<tr>
+<td>telepon</td>
+<td>Integer</td>
+<td>Nomor telepon pengguna</td>
+</tr>
+<tr>
+</table>
+</html>
+
+Tarif
+<html>
+<table>
+<tr>
+<th>Data item</th>
+<th>Type</th>
+<th>Deskripsi</th>
+</tr>
+<tr>
+<td>id_tarif</td>
+<td>Integer</td>
+<td>Nomor id tarif</td>
+</tr>
+<tr>
+<td>id_lapangan</td>
+<td>Integer</td>
+<td>Nomor id lapangan</td>
+</tr>
+<tr>
+<td>harga</td>
+<td>Integer</td>
+<td>Tarif harga lapangan</td>
+</tr>
+</table>
+</html>
+
+Lapangan
+<html>
+<table>
+<tr>
+<th>Data item</th>
+<th>Type</th>
+<th>Deskripsi</th>
+</tr>
+<tr>
+<td>id_lapangan</td>
+<td>Integer</td>
+<td>Nomor id lapangan</td>
+</tr>
+<tr>
+<td>nama</td>
+<td>Varchar</td>
+<td>Nama lapangan</td>
+</tr>
+</table>
+</html>
+
+Pemesanan
+<html>
+<table>
+<tr>
+<th>Data item</th>
+<th>Type</th>
+<th>Deskripsi</th>
+</tr>
+<tr>
+<td>id_pemesanan</td>
+<td>Integer</td>
+<td>Nomor id pemesanan</td>
+</tr>
+<tr>
+<td>id_tarif</td>
+<td>Integer</td>
+<td>Nomor id tarif</td>
+</tr>
+<tr>
+<td>id_member</td>
+<td>Integer</td>
+<td>Nomor id pelanggan</td>
+</tr>
+<tr>
+<td>Tanggal</td>
+<td>Integer</td>
+<td>Tanggal pemesanan</td>
+</tr>
+<tr>
+<tr>
+<td>Durasi</td>
+<td>Integer</td>
+<td>Waktu pemesanan</td>
 </tr>
 </table>
 </html>
