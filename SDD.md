@@ -41,8 +41,15 @@ POLITEKNIK NEGRI INDRAMAYU <br>
 	    
 **1.1 Tujuan**
  
-Dokumen Software Design Document (SDD) merupakkan dokumen spesifikasi perangkat lunak 
-untuk membangun "Aplikasi Pemesanan Lapangan Futsal". Dokumen ini dibangun untuk memudahkan Prima  Fusal dan Sintia Sinta Futsal .Dalam melakukan proses pemesanan lapanganfutsal yang dilakukan oleh penyewa lapangan. Sehingga dokumen ini dapat dijadikan acuan teknis untuk membangun perangkat lunak "S'Sal" Aplikasi Pemesanan Lapangan Futsal.
+Tujuan pembuatan SDD(Software Design Description) ini adalah untuk menjelaskan langkah-langkah design dan proses-proses dalam pembuatan sistem aplikasi "Pemesanan Lapangangan Futsal " yang disebut dengan nama S'SAL, dan juga memberikan definisi untuk sistem , spesifikasi kebutuhan fungsional. 
+Fungsi utama dari S'SAL ini adalah pemesanan lapangan futsal secara online. 
+Secara ringkas , fungsi S'SAL dapat dituliskan sbb:
+<ol>
+	<li> </li>
+	<li>mm </li>
+	
+</ol>
+
 
 **1.2  Lingkup proyek**
 
@@ -53,6 +60,8 @@ S'sal merupakan aplikasi untuk pengguna kalangan umum untuk pemesanan dan penjad
 | Istilah | Arti                                             |
 | ------- | ------------------------------------------------ |
 | SDD     | *Software Design Document*                       |
+| SDD     | *Software Design Document*                       |
+| S'SAL   | Satria Shintia futsal			     |
 | IEEE    | Institute of Electrical and Electronics Engineer |
 
 <div align="center">
