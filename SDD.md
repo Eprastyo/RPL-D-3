@@ -1,4 +1,4 @@
-<div align ="justifi">
+<div align ="justify">
 	
 <div align ="center">
 	
@@ -74,18 +74,16 @@ Hasil dari SDD ini adalah aplikasi yang berbasis web dan android , yang digunaka
 **1.4 Referensi**
 
 [1]IEEE Software Engineering Standards Committee, IEEE Std 830-1998, IEEERecommended
-[2]https://en.wikipedia.org/wiki/SDD
+[2]https://en.wikipedia.org/wiki/SDD<br>
 [3]https://yohanesgunawan.files.wordpress.com/2007/10/sdd-aeromodeling-store_final.pdf
 
 **1.5 Ikhtisar Dokumen**
 Penulisan dokumen ini dibagi menjadi beberapa bab sbb : 
 
 <ul>
-	<li> Bab 1 adalah pendahuluan yang menjelaskan mengenai tujuan perangkat lunak, ruang lingkup, definisi , referensi serta ikhtiar dokumen </li>
-	<li> </li>
-	<li> </li>
-	<li> </li>
-	<li> </li>
+	<li> Bab 1, adalah pendahuluan yang menjelaskan mengenai tujuan perangkat lunak, ruang lingkup, definisi, referensi serta ikhtiar dokumen </li>
+	<li> Bab 2, adalah Deskripsi perancangan global, yang bersisi tengtang rancangan lingkungan iplementasi, deskripsi data dan deskripsi modul.</li>
+	<li> Bab 3, adalah Deskripsi perancangan rinci, yang berisi tentang Diagram konteks, Deskripsi rinci tabel, Deskripsi rinci modul, dan matriks kerunutan.</li>
 </ul>
 
 
@@ -96,32 +94,71 @@ Penulisan dokumen ini dibagi menjadi beberapa bab sbb :
 </div>
 <br>
 
+**2.1 Rancangan Lingkungan Implementasi**
+
+**2.2 Deskripsi Data**
+
+***2.2.1 Definisi Domain/type***
+
+***2.2.2 Conceptual Data Model***
+
+***2.2.3 Physical Data Model***
+
+***2.2.4 Daftar tabel Aplikasi***
+
+**2.3 Deskripsi Modul**
+
 
 <div align="center"> 
 <b>BAB 3 DFD</b>
 </div>
 <br>
 
-
-
 **3.1 Diagram konteks**<br>
 ![enter image description here](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/KONTEXS%20DIAGRAM.PNG)
 
-**3.2 DFD level 0** <br>
+***3.1.1 DFD level 0*** <br>
 ![enter image description here](https://lh3.googleusercontent.com/-z67GIW_p25o/WqjLPr7PbbI/AAAAAAAAFLM/nK4ZaNETbigXqio2_5bN0i02a8c59nG2gCLcBGAs/w530-h404-n-rw/diagram%2Blevel%2B0.png)
 
-**3.3 DFD level 1<br>**
-
-**3.3.1 DFD Level 1 Mengelola Data Booking**<br>
+****3.1.1.1 DFD level 1 Proses Mengelola Data Pemesanan <br>****
 ![DFD](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/DFD%20LEVEL%201%20-%20MENGELOLA%20DATA%20BOOKING.PNG)
 <br>
-**3.3.2 DFD Level 1 Mengelola Data Pelanggan**<br>
+
+****3.1.1.2 DFD Level 1 Proses Mengelola Data Pelanggan****<br>
 ![DFD](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/DFD%20LEVEL%201%20-%20MENGELOLA%20DATA%20PELANGGAN.PNG)<br>
-**3.3.3 DFD level 1 Mengelola Data Transaksi**<br>
+
+****3.1.1.3 DFD Level 1 Proses Mengelola Data Transaksi****<br>
 ![DFD](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/DFD%20LEVEL%201%20-%20MENGELOLA%20DATA%20TRANSAKSI.PNG)
 <br>
-**3.4 DFD level 2** 
-**3.4.1 DFD level 2 Menambah data booking**<br>
+
+****3.1.1.4 DFD level 2 Menambah data booking****<br>
 ![DFD](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/DFD%20LEVEL%202%20-%20MENAMBAH%20DATA%20BOOKING.PNG)
+<br>
+
+**3.2 Deskripsi Rinci Tabel**
+
+***3.2.1 Tabel A***
+
+***3.2.2 Tabel B***
+
+**3.3 Deskripsi Rinci Modul**
+
+***3.3.1 "modul"***
+
+****3.3.1.1 Fungsi modul****
+
+****3.3.1.2 Spesifikasi Layar Utama****
+
+****3.3.1.3 Spesifikasi Query (jika ada)****
+
+****3.3.1.4 Spesifikasi Field Data Layar****
+
+****3.3.1.5 Spesifikasi Obyek Pada layer****
+
+****3.3.1.6 Spesifikasi Proses/Algoritma****
+
+***3.3.2 "modul"***
+
+**3.4 Matriks Kerunutan**
 
 </div>
