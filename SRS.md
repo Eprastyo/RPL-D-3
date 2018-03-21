@@ -273,7 +273,8 @@ Kebutuhan yang digunakan dalam aplikasi untuk mempermudah pemakaian. Seperti pen
 -	Security
 Untuk keamanan user dan admin harus login terlebih dahulu sebelum mengakses sistem aplikasi.
 
-2.4 Karakteristik pengguna<br>
+2.4 Karakteristik pengguna
+
 |  Kategori Pengguna| Tugas |
 |--|--|
 | Administrator |  Mengelola data lapangan|
