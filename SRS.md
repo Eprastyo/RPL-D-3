@@ -179,14 +179,14 @@ Sebuah aplikasi web berkomunikasi dengan perangkat lunak client melalui HTTP. HT
  B. Usecase calon pelanggan<br>
  ![enter image description here](https://lh3.googleusercontent.com/-Vlo5snIVF6Y/WrK8QKFtiAI/AAAAAAAAALk/Msd2KO--qek-wooeuTxpGMHzn3V3doWCQCL0BGAs/w530-d-h441-n-rw/Use+Case+Member.png) 
 
-2.2.1 Login Admin
+2.2.1 Login Admin<br>
 ![enter image description here](https://lh3.googleusercontent.com/-EnMLWKoYQl0/WrK4J-zzCwI/AAAAAAAAAKk/nYA2h1cS9nw8HtUFskunsIL_bpLCjlo1ACL0BGAs/w530-d-h233-n-rw/Login+Admin.png)
 <br>Admin bisa login ke aplikasi website dengan cara	:
 1. Admin membuka aplikasi website
 2. Admin mengisi username dan password
 3. Admin mengkllik menu login Xref : bagian 3.2.7 <br>
 
-2.2.2 Mengelola data lapangan
+2.2.2 Mengelola data lapangan<br>
 ![enter image description here](https://lh3.googleusercontent.com/bmgu-ozN_LOpWdiv3uh4yA2OBe9pjFGvAYxcaTJ8EuOTsMjhpOTXYSeUoju6pCXnJhJf-fzZuAcYi3T_XiE2dJY0FHxYDuVBDlSgaw=w293-h81-rw)
 <br>Admin bisa mengelola data lapangan dengan cara	:
 1. Admin membuka aplikasi website
@@ -194,7 +194,7 @@ Sebuah aplikasi web berkomunikasi dengan perangkat lunak client melalui HTTP. HT
 3. Admin mengklik menu kelola data lapangan  
 4. Admin bisa mengelola data lapangan Xref : bagian 3.2.8 <br>
 
-2.2.3 Konfirmasi pembayaran
+2.2.3 Konfirmasi pembayaran<br>
 ![enter image description here](https://lh3.googleusercontent.com/UzCCK0tjwzZmWFpkcqVWYlTKnW5kpZSX_yr9XH2ILMap5ZwgWfX9swbbhqk5F0z6yBCp25GiaVUCs7F896lTbC3oXLorFBUlNKYETQ=w293-h81-rw)
 <br>Admin bisa mengonfirmasi pembayaran dengan cara	:
 1. Admin membuka aplikasi website
@@ -203,7 +203,7 @@ Sebuah aplikasi web berkomunikasi dengan perangkat lunak client melalui HTTP. HT
 4. Admin mengklik tombol konfirmasi
 5. Admin bisa mengonfirmasi pembayaran Xref : bagian 3.2.9 <br>
 
-2.2.4 Menampilkan daftar pemesan
+2.2.4 Menampilkan daftar pemesan<br>
 ![enter image description here](https://lh3.googleusercontent.com/LhLWsEVJW2MzTCUwnIp__bPb8JBXj_zkS6C-XwhFB1WErNZIRJEfRWPzUz0OT_28YGhFenmwLzyMsoKZSgCvGj61rrPx_o1d-PSrBw=w293-h81-rw)
 <br>Admin bisa menampilkan data pemesan dengan cara	:
 1. Admin membuka aplikasi website
@@ -211,7 +211,7 @@ Sebuah aplikasi web berkomunikasi dengan perangkat lunak client melalui HTTP. HT
 3. Admin mengklik menu data pemesan  
 4. Admin bisa melihat data pemesan Xref : bagian 3.2.10 <br>
 
-2.2.5 Transaksi pembayaran
+2.2.5 Transaksi pembayaran<br>
 ![enter image description here](https://lh3.googleusercontent.com/Is0OA9n2A_2bs8kg6XWzBb0UOEJVGjr41KpFWKVMw_3DoxpaNgf7PqmrXBsvpgjMEJANVUxJL_JNOV7CIO0ZWSKA3aQ-bMfxU1X78g=w293-h81-rw)
 <br>Admin bisa mengonfirmasi pembayaran dengan cara	:
 1. Admin membuka aplikasi website
@@ -219,7 +219,7 @@ Sebuah aplikasi web berkomunikasi dengan perangkat lunak client melalui HTTP. HT
 3. Admin mengklik menu transaksi 
 4. Admin bisa melakukan transaksi pembayaran Xref : bagian 3.2.11<br>
 
-2.2.6 Pendaftaran Pelanggan
+2.2.6 Pendaftaran Pelanggan<br>
 ![enter image description here](https://lh3.googleusercontent.com/-PCMeo5YOweQ/WrK9S-K68NI/AAAAAAAAAMM/pCciC5Sbo-ESASmP0R1Mgvfsw8BElijYgCL0BGAs/w530-d-h184-n-rw/pendaftaran+pelanggan.png)
 <br>Calon pelanggan bisa mendaftarkan dengan cara	:
 1. Calon pelanggan membuka aplikasi android
@@ -227,7 +227,7 @@ Sebuah aplikasi web berkomunikasi dengan perangkat lunak client melalui HTTP. HT
 3. Calon pelanggan mengisi biodata  
 4. Calon pelanggan memiliki akun untuk login Xref : bagian 3.2.1 <br>
 
-2.2.7 Login calon pelanggan
+2.2.7 Login calon pelanggan<br>
 ![enter image description here](https://lh3.googleusercontent.com/uOOSa-HSXUXUJh9TPIdZrE1UKJ8V-hoEflKkGkevh1wEFdKstaish_5MKX-TjQvgXxu4rYnUxae0bXOqH0kPTaDqGau2faJ3J-8Fww=w530-h220-rw)
 <br>Calon pelanggan bisa login dengan cara	:
 1. Calon pelanggan membuka aplikasi android
@@ -235,7 +235,7 @@ Sebuah aplikasi web berkomunikasi dengan perangkat lunak client melalui HTTP. HT
 3. Calon pelanggan mengklik login
 4. Calon pelanggan bisa masuk ke aplikasi Xref : bagian 3.2.2 <br>
 
-2.2.8 Menampilkan data lapangan
+2.2.8 Menampilkan data lapangan<br>
 ![enter image description here](https://lh3.googleusercontent.com/fO6gnS82-vAEU5XzKsLiACaIxctDC6EjFlzdxlumH0bEX5_2PGNlIWeHKJusDwQd1lZbL2FkVOfVRsIdJLX4xRbE25j2bq6efhMjLA=w322-h81-rw)
 <br>Calon pelanggan bisa melihat lapangan kosong dengan cara	:
 1. Calon pelanggan membuka aplikasi android
@@ -243,7 +243,7 @@ Sebuah aplikasi web berkomunikasi dengan perangkat lunak client melalui HTTP. HT
 3. Calon pelanggan mengklik menu lihat lapangan  
 4. Calon pelanggan bisa melihat daftar lapangan tersedia Xref : bagian 3.2.3 <br>
 
-2.2.9 Memesan lapangan
+2.2.9 Memesan lapangan<br>
 ![enter image description here](https://lh3.googleusercontent.com/K43ityKT7vxL9vIFj0fpkQWDUdDvPvY8dn2AB6ktiw8e0T8F5x4ykDagjO60EOPjmgEFiEtzhMNoJe3-4A-2qQGCDz-GNB-1boLu0A=w322-h81-rw)
 <br>Calon pelanggan bisa memesan lapangan dengan cara	:
 1. Calon pelanggan membuka aplikasi android
@@ -251,7 +251,7 @@ Sebuah aplikasi web berkomunikasi dengan perangkat lunak client melalui HTTP. HT
 3. Calon pelanggan mengklik menu pesan lapangan  
 4. Calon pelanggan bisa memesan lapangan Xref : bagian 3.2.4 <br>
 
-2.2.10 Cetak bukti pemesanan
+2.2.10 Cetak bukti pemesanan<br>
 ![enter image description here](https://lh3.googleusercontent.com/Y7oyJbpNMsOdoH3f4PczKxNsoSCz_18HCxa9To2xKOOuT8kpSd2cAjjAPsh-BBRY0nJ21BagtsPYA8sndJUwuehN9pCvWkYSczlfxA=w530-h220-rw)
 <br>Calon pelanggan bisa cetak bukti pemesanan dengan cara	:
 1. Calon pelanggan membuka aplikasi android
@@ -259,7 +259,7 @@ Sebuah aplikasi web berkomunikasi dengan perangkat lunak client melalui HTTP. HT
 3. Calon pelanggan mengklik menu cetak bukti pemesanan  
 4. Calon pelanggan bisa mengunduh bukti pemesanan Xref : bagian 3.2.5 <br>
 
-2.2.11 Mengirim bukti pembayaran
+2.2.11 Mengirim bukti pembayaran<br>
 ![enter image description here](https://lh3.googleusercontent.com/skUHZIikDpq4JvMEFNgATyVj--J34qJOyxY6AwmlwX1xbd8mg4-t-k9H63j-8QKTisa1ptvYgr1eX88g3YMlWl4qGGPY7h19CmPrmw=w530-h220-rw)
 <br>Calon pelanggan bisa kirim bukti pembayaran dengan cara	:
 1. Calon pelanggan membuka aplikasi android
