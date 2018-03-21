@@ -174,30 +174,118 @@ Sebuah aplikasi web berkomunikasi dengan perangkat lunak client melalui HTTP. HT
 
 ​ A. Usecase admin
 
-![enter image description here](https://lh3.googleusercontent.com/iyU4PLXp9uIK9PLOMsr7zTGQ84dUIXiJpdvAu__cMrYRFrCa6go8Kl4xCLZZp31hxaOE1T4V2-YVPdiICen0PibHhUkjxou-U8oO=w286-h220-rw)
+![enter image description here](https://lh3.googleusercontent.com/-hgIXjw99-WY/WrK3akXSV7I/AAAAAAAAAKE/OWeRuaU9i_kSMU3b8sjcPnpluLW9PfvgACL0BGAs/w530-d-h431-n-rw/Use+Case+Admin.png)
 
  B. Usecase calon pelanggan<br>
- ![enter image description here](https://lh3.googleusercontent.com/Rhjc3sB-PSDg9PHil122pixnUecv4fvBp_XZ-7L8oYR6OXpatDP_nWuqdSwd5i1fLXPi7BY87F1bP3XxpOI31K4VQmIj4pAieEcf=w289-h220-rw) 
+ ![enter image description here](https://lh3.googleusercontent.com/-Vlo5snIVF6Y/WrK8QKFtiAI/AAAAAAAAALk/Msd2KO--qek-wooeuTxpGMHzn3V3doWCQCL0BGAs/w530-d-h441-n-rw/Use+Case+Member.png) 
 
-2.2.1 Usecase pelanggan<br>
-Use case: Login
+2.2.1 Login Admin
+![enter image description here](https://lh3.googleusercontent.com/-EnMLWKoYQl0/WrK4J-zzCwI/AAAAAAAAAKk/nYA2h1cS9nw8HtUFskunsIL_bpLCjlo1ACL0BGAs/w530-d-h233-n-rw/Login+Admin.png)
+Admin bisa login ke aplikasi website dengan cara	:
+1. Admin membuka aplikasi website
+2. Admin mengisi username dan password
+3. Admin mengkllik menu login Xref : bagian 3.2.7 <br>
+
+2.2.2 Mengelola data lapangan
+![enter image description here](https://lh3.googleusercontent.com/bmgu-ozN_LOpWdiv3uh4yA2OBe9pjFGvAYxcaTJ8EuOTsMjhpOTXYSeUoju6pCXnJhJf-fzZuAcYi3T_XiE2dJY0FHxYDuVBDlSgaw=w293-h81-rw)
+Admin bisa mengelola data lapangan dengan cara	:
+1. Admin membuka aplikasi website
+2. Admin login aplikasi
+3. Admin mengklik menu kelola data lapangan  
+4. Admin bisa mengelola data lapangan Xref : bagian 3.2.8 <br>
+
+2.2.3 Konfirmasi pembayaran
+![enter image description here](https://lh3.googleusercontent.com/UzCCK0tjwzZmWFpkcqVWYlTKnW5kpZSX_yr9XH2ILMap5ZwgWfX9swbbhqk5F0z6yBCp25GiaVUCs7F896lTbC3oXLorFBUlNKYETQ=w293-h81-rw)
+Admin bisa mengonfirmasi pembayaran dengan cara	:
+1. Admin membuka aplikasi website
+2. Admin login aplikasi
+3. Admin mengklik menu kelola data lapangan  
+4. Admin mengklik tombol konfirmasi
+5. Admin bisa mengonfirmasi pembayaran Xref : bagian 3.2.9 <br>
+
+2.2.4 Menampilkan daftar pemesan
+![enter image description here](https://lh3.googleusercontent.com/LhLWsEVJW2MzTCUwnIp__bPb8JBXj_zkS6C-XwhFB1WErNZIRJEfRWPzUz0OT_28YGhFenmwLzyMsoKZSgCvGj61rrPx_o1d-PSrBw=w293-h81-rw)
+Admin bisa menampilkan data pemesan dengan cara	:
+1. Admin membuka aplikasi website
+2. Admin login aplikasi
+3. Admin mengklik menu data pemesan  
+4. Admin bisa melihat data pemesan Xref : bagian 3.2.10 <br>
+
+2.2.5 Transaksi pembayaran
+![enter image description here](https://lh3.googleusercontent.com/Is0OA9n2A_2bs8kg6XWzBb0UOEJVGjr41KpFWKVMw_3DoxpaNgf7PqmrXBsvpgjMEJANVUxJL_JNOV7CIO0ZWSKA3aQ-bMfxU1X78g=w293-h81-rw)
+Admin bisa mengonfirmasi pembayaran dengan cara	:
+1. Admin membuka aplikasi website
+2. Admin login aplikasi
+3. Admin mengklik menu transaksi 
+4. Admin bisa melakukan transaksi pembayaran Xref : bagian 3.2.11<br>
+
+2.2.6 Pendaftaran Pelanggan
+![enter image description here](https://lh3.googleusercontent.com/-PCMeo5YOweQ/WrK9S-K68NI/AAAAAAAAAMM/pCciC5Sbo-ESASmP0R1Mgvfsw8BElijYgCL0BGAs/w530-d-h184-n-rw/pendaftaran+pelanggan.png)
+Calon pelanggan bisa mendaftarkan dengan cara	:
+1. Calon pelanggan membuka aplikasi android
+2. Calon pelanggan mengklik tombol daftar
+3. Calon pelanggan mengisi biodata  
+4. Calon pelanggan memiliki akun untuk login Xref : bagian 3.2.1 <br>
+
+2.2.7 Login calon pelanggan
+![enter image description here](https://lh3.googleusercontent.com/uOOSa-HSXUXUJh9TPIdZrE1UKJ8V-hoEflKkGkevh1wEFdKstaish_5MKX-TjQvgXxu4rYnUxae0bXOqH0kPTaDqGau2faJ3J-8Fww=w530-h220-rw)
+Calon pelanggan bisa login dengan cara	:
+1. Calon pelanggan membuka aplikasi android
+2. Calon pelanggan mengisi username dan password
+3. Calon pelanggan mengklik login
+4. Calon pelanggan bisa masuk ke aplikasi Xref : bagian 3.2.2 <br>
+
+2.2.8 Menampilkan data lapangan
+![enter image description here](https://lh3.googleusercontent.com/fO6gnS82-vAEU5XzKsLiACaIxctDC6EjFlzdxlumH0bEX5_2PGNlIWeHKJusDwQd1lZbL2FkVOfVRsIdJLX4xRbE25j2bq6efhMjLA=w322-h81-rw)
+Calon pelanggan bisa melihat lapangan kosong dengan cara	:
+1. Calon pelanggan membuka aplikasi android
+2. Calon pelanggan login aplikasi
+3. Calon pelanggan mengklik menu lihat lapangan  
+4. Calon pelanggan bisa melihat daftar lapangan tersedia Xref : bagian 3.2.3 <br>
+
+2.2.9 Memesan lapangan
+![enter image description here](https://lh3.googleusercontent.com/K43ityKT7vxL9vIFj0fpkQWDUdDvPvY8dn2AB6ktiw8e0T8F5x4ykDagjO60EOPjmgEFiEtzhMNoJe3-4A-2qQGCDz-GNB-1boLu0A=w322-h81-rw)
+Calon pelanggan bisa memesan lapangan dengan cara	:
+1. Calon pelanggan membuka aplikasi android
+2. Calon pelanggan login aplikasi
+3. Calon pelanggan mengklik menu pesan lapangan  
+4. Calon pelanggan bisa memesan lapangan Xref : bagian 3.2.4 <br>
+
+2.2.10 Cetak bukti pemesanan
+![enter image description here](https://lh3.googleusercontent.com/Y7oyJbpNMsOdoH3f4PczKxNsoSCz_18HCxa9To2xKOOuT8kpSd2cAjjAPsh-BBRY0nJ21BagtsPYA8sndJUwuehN9pCvWkYSczlfxA=w530-h220-rw)
+Calon pelanggan bisa cetak bukti pemesanan dengan cara	:
+1. Calon pelanggan membuka aplikasi android
+2. Calon pelanggan login aplikasi
+3. Calon pelanggan mengklik menu cetak bukti pemesanan  
+4. Calon pelanggan bisa mengunduh bukti pemesanan Xref : bagian 3.2.5 <br>
+
+2.2.11 Mengirim bukti pembayaran
+![enter image description here](https://lh3.googleusercontent.com/skUHZIikDpq4JvMEFNgATyVj--J34qJOyxY6AwmlwX1xbd8mg4-t-k9H63j-8QKTisa1ptvYgr1eX88g3YMlWl4qGGPY7h19CmPrmw=w530-h220-rw)
+Calon pelanggan bisa kirim bukti pembayaran dengan cara	:
+1. Calon pelanggan membuka aplikasi android
+2. Calon pelanggan login aplikasi
+3. Calon pelanggan mengklik menu kirim bukti pembayaran  
+4. Calon pelanggan upload foto bukti pembayaran Xref : bagian 3.2.6 <br>
+
 2.3 Spesifikasi kebutuhan Non-Fungsional
+-   Usability
+Kebutuhan yang digunakan dalam aplikasi untuk mempermudah pemakaian. Seperti penggunaan Bootsrap yang digunakan untuk mebuat tampilan aplikasi yang lebih menarik.  
+-	Security
+Untuk keamanan user dan admin harus login terlebih dahulu sebelum mengakses sistem aplikasi.
 
 2.4 Karakteristik pengguna
-	  
 |  Kategori Pengguna| Tugas |
 |--|--|
 | Administrator |  Mengelola data lapangan|
-|  |  Mengelola data tarif|
 |  |  Melihat daftar pemesan|
-|  |  Mengonfirmasi pemesan|
-|  |  Cetak transaksi|
-| Pelanggan |  Input username dan password|
-|  |  Input data pendaftaran|
-|  |  Pesan lapangan|
-|  |  Konfirmasi pemesan|
+|  |  Mengonfirmasi pembayaran|
+|  |  Mencetak transaksi pembayaran|
+| Pelanggan |  Input data pendaftaran|
+|  | Masuk aplikasi |
+|  |  Memesan lapangan|
 |  |  Melihat data lapangan|
 |  |  Mencetak bukti pemesanan|
+|  |  Mengirim bukti pembayaran|
 
 2.5 Batasan-batasan<br>
 	Batasan-batasan yang digunakan pada pengembangan perangkat lunak ini 		adalah :
@@ -220,8 +308,7 @@ Pemilik Futsal dan Pelanggan sebagai user yang dapat mengoperasikan aplikasi sis
 
 	3.1.2 Antarmuka perangkat lunak
 
-Aplikasi ini dapat diakses jika terhubung dengan internet dan memiliki OS android.
-
+Aplikasi ini dapat diakses jika terhubung dengan internet dan memiliki sistem operasi android.
 
 3.2 Persyaratan Fungsional
 
@@ -229,7 +316,7 @@ Aplikasi ini dapat diakses jika terhubung dengan internet dan memiliki OS androi
 	
 | Nama fungsi | Daftar pelanggan |
 |--|--|
-| Ref | Bag 2.1.2,Daftar user |
+| Ref | Bag 2.2.6,Daftar user |
 | Trigger | Membuka aplikasi SSAL |
 | Precondition | Halaman pendaftaran pelanggan  |
 | Basic patch | 1. Pelanggan mengklik fungsi register<br>2. Sistem menampilkan halaman pendaftaran<br>3. Pelanggan memasukan nama lengkap,nama pengguna,email,password,dan no handphone<br>4. Pelanggan mengklik tombol register<br>5. Sistem menyimpan ke database |
@@ -241,7 +328,7 @@ Aplikasi ini dapat diakses jika terhubung dengan internet dan memiliki OS androi
 	
 | Nama fungsi | Login pelanggan |
 |--|--|
-| Ref | Bag 2.1.2,Login |
+| Ref | Bag 2.2.7,Login |
 | Trigger | Membuka aplikasi SSAL |
 | Precondition | Halaman login  |
 | Basic patch | 1. Pelanggan membuka aplikasi<br>2. Sistem menampilkan halaman login<br>3. Pelanggan mengisi form login<br>4. Pelanggan mengklik tombol login<br>5. Sistem melakukan validasi login<br>6. Jika benar, sistem menampilkan menu utama<br>7. Jika salah kembali menu login   |
@@ -249,30 +336,105 @@ Aplikasi ini dapat diakses jika terhubung dengan internet dan memiliki OS androi
 | Post Condition | Pelanggan bisa masuk ke menu aplikasi |
 | Exception push | Tidak ada koneksi |
 
-3.2.3 Menu pemesanan lapangan
+3.2.3 Menu melihat lapangan
+| Nama fungsi | Melihat data lapangan |
+|--|--|
+| Ref | Bag 2.2.8,Melihat data lapangan |
+| Trigger | Membuka aplikasi SSAL |
+| Precondition | Halaman lihat data lapangan  |
+| Basic patch | 1. Pelanggan membuka aplikasi<br>2. Pelanggan login aplikasi <br>3. Pelanggan megklik menu lihat lapangan <br>4. Sistem menampilkan data lapangan   |
+| Alternative | Tidak ada |
+| Post Condition | Pelanggan bisa melihat data lapangan |
+| Exception push | Tidak ada koneksi |
+3.2.4 Menu pemesanan lapangan
 | Nama fungsi | Pemesanan lapangan |
 |--|--|
-| Ref | Bag 2.1.2,Pemesanan lapangan |
+| Ref | Bag 2.2.9,Pemesanan lapangan |
 | Trigger | Membuka aplikasi SSAL |
 | Precondition | Halaman pemesanan lapangan  |
-| Basic patch | 1. Pelanggan membuka aplikasi<br>2. Pelanggan login aplikasi <br>3. Pelanggan megklik menu pesan lapangan <br>4. Pelanggan mengisi nama lapangan dan jam<br>5. Jika benar, sistem menyimpan ke database<br>7. Jika salah kembali ke menu pemesanan   |
+| Basic patch | 1. Pelanggan membuka aplikasi<br>2. Pelanggan login aplikasi <br>3. Pelanggan megklik menu pesan lapangan <br>4. Pelanggan mengisi nama lapangan dan durasi<br>5. Jika benar, sistem menyimpan ke database pemesanan
 | Alternative | Tidak ada |
 | Post Condition | Pelanggan bisa memesan lapangan |
 | Exception push | Tidak ada koneksi |
 
-3.2.4 Menu lihat lapangan
-| Nama fungsi | Melihat lapangan  |
+3.2.5 Menu cetak bukti pemesanan
+| Nama fungsi | Mencetak bukti pemesanan  |
 |--|--|
-| Ref | Bag 2.1.2,Lihat lapangan  |
+| Ref | Bag 2.1.10,Mencetak bukti pemesanan  |
 | Trigger | Membuka aplikasi SSAL |
-| Precondition | Halaman daftar lapangan   |
-| Basic patch | 1. Pelanggan membuka aplikasi<br>2. Pelanggan login aplikasi <br>3. Pelanggan lihat lapangan <br>4. Sistem menampilkan daftar lapangan yang tersedia |
+| Precondition | Halaman cetak bukti pemesanan   |
+| Basic patch | 1. Pelanggan membuka aplikasi<br>2. Pelanggan login aplikasi <br>3. Pelanggan memilih menu cetak bukti pemesanan <br>4. Sistem menampilkan download bukti pemesanan |
 | Alternative | Tidak ada |
-| Post Condition | Pelanggan bisa melihat daftar lapangan |
+| Post Condition | Pelanggan bisa mengunduh bukti pemesanan |
+| Exception push | Tidak ada koneksi |
+3.2.6 Mengirim bukti pembayaran
+| Nama fungsi | Mengirim bukti pembayaran  |
+|--|--|
+| Ref | Bag 2.2.11,Mengirim bukti pembayaran  |
+| Trigger | Membuka aplikasi SSAL |
+| Precondition | Halaman kirim bukti pembayaran  |
+| Basic patch | 1. Pelanggan membuka aplikasi<br>2. Pelanggan login aplikasi <br>3. Pelanggan mengklik menu kirim bukti pembayaran <br>4. Sistem menampilkan form upload gambar bukti pembayaran |
+| Alternative | Tidak ada |
+| Post Condition | Pelanggan bisa mengirim bukti pembayaran |
+| Exception push | Tidak ada koneksi |
+
+3.2.7 Login Admin
+| Nama fungsi | Login Admin  |
+|--|--|
+| Ref | Bag 2.2.1,Login Admin  |
+| Trigger | Membuka aplikasi SSAL |
+| Precondition | Halaman login  |
+| Basic patch | 1. Admin membuka aplikasi website<br>2. Admin mengisi username dan password <br>3. Admin mengklik tombol login<br>4. Sistem menampilkan halaman dashboard admin |
+| Alternative | Tidak ada |
+| Post Condition | Admin bisa masuk aplikasi |
+| Exception push | Tidak ada koneksi |
+
+3.2.8 Mengelola data lapangan
+| Nama fungsi | Mengelola data lapangan  |
+|--|--|
+| Ref | Bag 2.2.2,Mengelola data lapangan  |
+| Trigger | Membuka aplikasi SSAL |
+| Precondition | Tampilan kelola data lapangan  |
+| Basic patch | 1. Admin membuka aplikasi website<br>2. Login aplikasi<br>3. Admin mengklik kelola data lapangan<br>4. Sistem menampilkan halaman kelola data lapangan |
+| Alternative | Tidak ada |
+| Post Condition | Admin bisa mengelola data lapangan |
+| Exception push | Tidak ada koneksi |
+
+3.2.9 Konfirmasi Pembayaran
+| Nama fungsi | Konfirmasi pembayaran  |
+|--|--|
+| Ref | Bag 2.2.3,Mengonfirmasi pembayaran  |
+| Trigger | Membuka aplikasi SSAL |
+| Precondition | Tampilan konfirmasi pembayaran  |
+| Basic patch | 1. Admin membuka aplikasi website<br>2. Login aplikasi<br>3. Admin mengklik kelola data lapangan<br>4. Admin mengklik tombol konfirmasi |
+| Alternative | Tidak ada |
+| Post Condition | Admin bisa mengonfirmasi |
+| Exception push | Tidak ada koneksi |
+
+
+3.2.10 Data pemesan
+| Nama fungsi | Melihat data pemesan  |
+|--|--|
+| Ref | Bag 2.2.4,Melihat data pemesan  |
+| Trigger | Membuka aplikasi SSAL |
+| Precondition | Tampilan data pemesan  |
+| Basic patch | 1. Admin membuka aplikasi website<br>2. Login aplikasi<br>3. Admin mengklik data pemesan<br>4. Sistem menampilkan semua data pemesan |
+| Alternative | Tidak ada |
+| Post Condition | Admin bisa melihat data pemesan lapangan |
+| Exception push | Tidak ada koneksi |
+
+3.2.11 Transaksi
+| Nama fungsi | Proses transaksi pembayaran  |
+|--|--|
+| Ref | Bag 2.2.5,Transaksi pembayaran  |
+| Trigger | Membuka aplikasi SSAL |
+| Precondition | Tampilan kelola data lapangan  |
+| Basic patch | 1. Admin membuka aplikasi website<br>2. Login aplikasi<br>3. Admin mengklik kelola data lapangan<br>4. Admin mengklik tombol transaksi |5. Sistem menampilkan hasil transaksi
+| Alternative | Tidak ada |
+| Post Condition | Admin bisa mengunduh atau mencetak transaksi |
 | Exception push | Tidak ada koneksi |
 
 3.3 Struktur detail kebutuhan Non-Fungsional
-
 3.3.1 Logika Struktur Data
 
 ![enter image description here](https://lh3.googleusercontent.com/-KKQoGuQlU5g/WrIgGcnEX5I/AAAAAAAAAEs/iVC0e4s42XcSvt-k--89FOAeeZ0DI-4CACL0BGAs/w530-d-h354-n-rw/ERD.png)
