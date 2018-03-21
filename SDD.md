@@ -1,5 +1,4 @@
-referensi dari weeb https://yohanesgunawan.files.wordpress.com/2007/10/sdd-aeromodeling-store_final.pdf
-
+<div align ="justifi"
 <div align ="center">
 	
 <b>SOFTWARE DESIGN DOCUMENT (SDD)</b>
@@ -43,36 +42,59 @@ POLITEKNIK NEGRI INDRAMAYU <br>
 	    
 **1.1 Tujuan**
  
-Tujuan pembuatan SDD(Software Design Description) ini adalah untuk menjelaskan langkah-langkah design dan proses-proses dalam pembuatan sistem aplikasi "Pemesanan Lapangangan Futsal " yang disebut dengan nama S'SAL, dan juga memberikan definisi untuk sistem , spesifikasi kebutuhan fungsional. 
-Fungsi utama dari S'SAL ini adalah pemesanan lapangan futsal secara online. 
-Secara ringkas , fungsi S'SAL dapat dituliskan sbb:
-<ol>
-	<li> </li>
-	<li>mm </li>
-	
-</ol>
-
+Tujuan pembuatan SDD(Software Design Description) ini adalah untuk menjelaskan langkah-langkah design dan proses-proses dalam pembuatan sistem aplikasi "Pemesanan Lapangangan Futsal " yang disebut dengan nama S'SAL, dan juga memberikan definisi untuk sistem , spesifikasi kebutuhan fungsional. Fungsi utama dari S'SAL ini adalah pemesanan lapangan futsal secara online berbasis android untuk pengguna dan pemilik, serta berbasis web untuk admin dan juga dapat mengetahui informasi lapangan kosong, serta transaksi pemesanan lapangan futsal. <br> 
+Aplikasi ini digunakan untuk kalangan kaum umum untuk pemesanan dan penjadwalan penggunaan lapangan futsal, serta dapat memberikan informasi pemesanan lapangan dan penjadwalan futsal. dan mempermudah pelangganuntuk pemesanan lapangan futsal.
 
 **1.2  Lingkup proyek**
 
-S'sal merupakan aplikasi untuk pengguna kalangan umum untuk pemesanan dan penjadwalan penggunaan lapangan futsal, serta dapat memberikan informasi pemesanan lapangan dan penjadwalan futsal. dan mempermudah pelanggan untuk pemesanan lapangan futsal.
+Hasil dari SDD ini adalah aplikasi yang berbasis web dan android , yang digunakan untuk membantu pemesanan lapangan futsal di sebuah tempat futsal "Satria Shinta" dalam hal : 
 
+<ul>
+	<li>mencatat lapangan yang kosong</li>
+	<li> pengguna melihat lapangan yang kosong </li>
+	<li> pengguna memesan lapangan yang kosong </li>
+	<li> pengguna dapat mengupload bukti konfirmasi pembayaran</li>
+	<li> pengguna dapat mencetak bukti pemesanan </li>
+	<li> mencatat transaksi pemesanan lapangan oleh admin(DP)</li>
+	<li> mengkonfirmasi pembayaran oleh admin</li>
+	<li> membuat laporan harian oleh admin</li>
+	<li> pemilik dapat melihat laporan harian </li>
+</ul>
 **1.3  Definsi,akronim,singkatan**
 
 | Istilah | Arti                                             |
 | ------- | ------------------------------------------------ |
 | SDD     | *Software Design Document*                       |
-| SDD     | *Software Design Document*                       |
+| SBB     | sebagai berikut	                             |
+| DP      | Down Payment (uang muka)                         |
 | S'SAL   | Satria Shintia futsal			     |
 | IEEE    | Institute of Electrical and Electronics Engineer |
 
-<div align="center">
-<b>BAB 2 Referensi </b>
-</div>
-<br>
+**1.4 Referensi**
 
 [1]IEEE Software Engineering Standards Committee, IEEE Std 830-1998, IEEERecommended
 [2]https://en.wikipedia.org/wiki/SDD
+[3]https://yohanesgunawan.files.wordpress.com/2007/10/sdd-aeromodeling-store_final.pdf
+
+**1.5 Ikhtisar Dokumen**
+Penulisan dokumen ini dibagi menjadi beberapa bab sbb : 
+
+<ul>
+	<li> Bab 1 adalah pendahuluan yang menjelaskan mengenai tujuan perangkat lunak, ruang lingkup, definisi , referensi serta ikhtiar dokumen </li>
+	<li> </li>
+	<li> </li>
+	<li> </li>
+	<li> </li>
+</ul>
+
+
+
+
+<div align="center">
+<b>BAB 2 Deskripsi Perancangan Global </b>
+</div>
+<br>
+
 
 <div align="center"> 
 <b>BAB 3 DFD</b>
@@ -100,3 +122,5 @@ S'sal merupakan aplikasi untuk pengguna kalangan umum untuk pemesanan dan penjad
 **3.4 DFD level 2** 
 **3.4.1 DFD level 2 Menambah data booking**<br>
 ![DFD](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/DFD%20LEVEL%202%20-%20MENAMBAH%20DATA%20BOOKING.PNG)
+
+</div>
