@@ -52,30 +52,22 @@ BAB 2 Referensi
 
 BAB 3 DFD  
 
-<!DOCTYPE html>
-<html>
-<head>
-
-</head>
-<body><center>
-
-<p align="left"> 3.1 Diagram konteks <br> </p>
-
+3.1 Diagram konteks<br>
 ![enter image description here](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/KONTEXS%20DIAGRAM.PNG)
 
-<p align="left"> 3.2 Diagram level 0 <br> </p>
-
+3.2 DFD level 0 <br>
 ![enter image description here](https://lh3.googleusercontent.com/-z67GIW_p25o/WqjLPr7PbbI/AAAAAAAAFLM/nK4ZaNETbigXqio2_5bN0i02a8c59nG2gCLcBGAs/w530-h404-n-rw/diagram%2Blevel%2B0.png)
 
+3.3 DFD level 1<br>
 
-</center>
-</body>
-</html>
-3.3 Diagram level 1
-
-
-3.4 Diagram level 2
-
-
-
-
+3.3.1 DFD Level 1 Mengelola Data Booking<br>
+![DFD](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/DFD%20LEVEL%201%20-%20MENGELOLA%20DATA%20BOOKING.PNG)
+<br>
+3.3.2 DFD Level 1 Mengelola Data Pelanggan<br>
+![DFD](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/DFD%20LEVEL%201%20-%20MENGELOLA%20DATA%20PELANGGAN.PNG)<br>
+3.3.3 DFD level 1 Mengelola Data Transaksi<br>
+![DFD](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/DFD%20LEVEL%201%20-%20MENGELOLA%20DATA%20TRANSAKSI.PNG)
+<br>
+3.4 DFD level 2 
+3.4.1 DFD level 2 Menambah data booking<br>
+![DFD](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/DFD%20LEVEL%202%20-%20MENAMBAH%20DATA%20BOOKING.PNG)
