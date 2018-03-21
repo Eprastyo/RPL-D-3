@@ -1,6 +1,6 @@
 <div align ="center">
 	
-SOFTWARE DESIGN DOCUMENT (SDD) 
+<b>SOFTWARE DESIGN DOCUMENT (SDD)<b>
 
 Versi 1.0
 
