@@ -1,33 +1,30 @@
 <div align ="center">
-
-Software Design Document (SDD) 
-
-Versi 01 
-
-08 Maret 2018
-
+SOFTWARE DESIGN DOCUMENT (SDD) 
+Versi 1.0
+10 Maret 2018
+<br>
+<br>
 ![logo](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/POLINDRA.png)<br>
+
 
 Disusun Oleh: 
 
 Eko Prastyo 			(1603096) 
-
 Syahrul Gunawan 		(1603113)
-
 Tuti Nurafni Amalia		(1603116)
-
 Wulan Diani			(1603118)
 
-JURUSAN TEKNIK INFORMATIKA
-
-POLITEKNIK NEGRI INDRAMAYU
+JURUSAN TEKNIK INFORMATIKA<br>
+POLITEKNIK NEGRI INDRAMAYU <br>
 
 </div>
 
+<br>
+<br>
 
-BAB 1
-
-PENDAHULUAN 
+<div align="center>
+<b>BAB 1<br>
+	    PENDAHULUAN</b>
 
 	1.1 Tujuan
  
