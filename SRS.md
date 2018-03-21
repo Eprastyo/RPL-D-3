@@ -337,6 +337,7 @@ Aplikasi ini dapat diakses jika terhubung dengan internet dan memiliki sistem op
 | Exception push | Tidak ada koneksi |
 
 3.2.3 Menu melihat lapangan
+
 | Nama fungsi | Melihat data lapangan |
 |--|--|
 | Ref | Bag 2.2.8,Melihat data lapangan |
@@ -347,6 +348,7 @@ Aplikasi ini dapat diakses jika terhubung dengan internet dan memiliki sistem op
 | Post Condition | Pelanggan bisa melihat data lapangan |
 | Exception push | Tidak ada koneksi |
 3.2.4 Menu pemesanan lapangan
+
 | Nama fungsi | Pemesanan lapangan |
 |--|--|
 | Ref | Bag 2.2.9,Pemesanan lapangan |
@@ -358,6 +360,7 @@ Aplikasi ini dapat diakses jika terhubung dengan internet dan memiliki sistem op
 | Exception push | Tidak ada koneksi |
 
 3.2.5 Menu cetak bukti pemesanan
+
 | Nama fungsi | Mencetak bukti pemesanan  |
 |--|--|
 | Ref | Bag 2.1.10,Mencetak bukti pemesanan  |
@@ -368,6 +371,7 @@ Aplikasi ini dapat diakses jika terhubung dengan internet dan memiliki sistem op
 | Post Condition | Pelanggan bisa mengunduh bukti pemesanan |
 | Exception push | Tidak ada koneksi |
 3.2.6 Mengirim bukti pembayaran
+
 | Nama fungsi | Mengirim bukti pembayaran  |
 |--|--|
 | Ref | Bag 2.2.11,Mengirim bukti pembayaran  |
@@ -379,6 +383,7 @@ Aplikasi ini dapat diakses jika terhubung dengan internet dan memiliki sistem op
 | Exception push | Tidak ada koneksi |
 
 3.2.7 Login Admin
+
 | Nama fungsi | Login Admin  |
 |--|--|
 | Ref | Bag 2.2.1,Login Admin  |
@@ -390,6 +395,7 @@ Aplikasi ini dapat diakses jika terhubung dengan internet dan memiliki sistem op
 | Exception push | Tidak ada koneksi |
 
 3.2.8 Mengelola data lapangan
+
 | Nama fungsi | Mengelola data lapangan  |
 |--|--|
 | Ref | Bag 2.2.2,Mengelola data lapangan  |
@@ -401,6 +407,7 @@ Aplikasi ini dapat diakses jika terhubung dengan internet dan memiliki sistem op
 | Exception push | Tidak ada koneksi |
 
 3.2.9 Konfirmasi Pembayaran
+
 | Nama fungsi | Konfirmasi pembayaran  |
 |--|--|
 | Ref | Bag 2.2.3,Mengonfirmasi pembayaran  |
@@ -413,6 +420,7 @@ Aplikasi ini dapat diakses jika terhubung dengan internet dan memiliki sistem op
 
 
 3.2.10 Data pemesan
+
 | Nama fungsi | Melihat data pemesan  |
 |--|--|
 | Ref | Bag 2.2.4,Melihat data pemesan  |
@@ -424,6 +432,7 @@ Aplikasi ini dapat diakses jika terhubung dengan internet dan memiliki sistem op
 | Exception push | Tidak ada koneksi |
 
 3.2.11 Transaksi
+
 | Nama fungsi | Proses transaksi pembayaran  |
 |--|--|
 | Ref | Bag 2.2.5,Transaksi pembayaran  |
