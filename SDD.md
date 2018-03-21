@@ -4,7 +4,7 @@ Software Design Document (SDD)
 
 Versi 01 
 
-08 Maret 2018>
+08 Maret 2018
 
 ![logo](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/POLINDRA.png)<br>
 
