@@ -35,6 +35,9 @@ POLITEKNIK NEGRI INDRAMAYU <br>
 
 <br>
 <br>
+<br>
+<br>
+<br>
 
 
 <div align="center">
@@ -49,9 +52,8 @@ Aplikasi ini digunakan untuk kalangan kaum umum untuk pemesanan dan penjadwalan 
 **1.2  Lingkup proyek**
 
 Hasil dari SDD ini adalah aplikasi yang berbasis web dan android , yang digunakan untuk membantu pemesanan lapangan futsal di sebuah tempat futsal "Satria Shinta" dalam hal : 
-
 <ul>
-	<li>mencatat lapangan yang kosong</li>
+	<li> mencatat lapangan yang kosong</li>
 	<li> pengguna melihat lapangan yang kosong </li>
 	<li> pengguna memesan lapangan yang kosong </li>
 	<li> pengguna dapat mengupload bukti konfirmasi pembayaran</li>
@@ -61,6 +63,7 @@ Hasil dari SDD ini adalah aplikasi yang berbasis web dan android , yang digunaka
 	<li> membuat laporan harian oleh admin</li>
 	<li> pemilik dapat melihat laporan harian </li>
 </ul>
+
 **1.3  Definsi,akronim,singkatan**
 
 | Istilah | Arti                                             |
@@ -70,6 +73,8 @@ Hasil dari SDD ini adalah aplikasi yang berbasis web dan android , yang digunaka
 | DP      | Down Payment (uang muka)                         |
 | S'SAL   | Satria Shintia futsal			     |
 | IEEE    | Institute of Electrical and Electronics Engineer |
+| CI       | Code Igniter				     |
+| IEEE    | Institute of Electrical and Electronics Engineer |
 
 **1.4 Referensi**
 
@@ -77,7 +82,9 @@ Hasil dari SDD ini adalah aplikasi yang berbasis web dan android , yang digunaka
 [2]https://en.wikipedia.org/wiki/SDD<br>
 [3]https://yohanesgunawan.files.wordpress.com/2007/10/sdd-aeromodeling-store_final.pdf
 
+
 **1.5 Ikhtisar Dokumen**
+
 Penulisan dokumen ini dibagi menjadi beberapa bab sbb : 
 
 <ul>
@@ -87,15 +94,20 @@ Penulisan dokumen ini dibagi menjadi beberapa bab sbb :
 </ul>
 
 
-
-
 <div align="center">
 <b>BAB 2 Deskripsi Perancangan Global </b>
 </div>
 <br>
 
 **2.1 Rancangan Lingkungan Implementasi**
+pada proses pembuatan aplikasi ini , hal-hal yang mendukung dalam pemrosesan pembuatan aplikasi seperti sistem operasi yang digunakan untuk membuat aplikasi SSAL ini adalah : 
 
+<ul>
+	<li> Pada Admin yang berbasis Web menggunakan PHP, HTML, Framework model code igninter (CI) , Bootstrap dan CSS sebagai pendukung pembuatan design  </li>
+	<li> pada pengguna dan pemilik dalam pembuatannya menggunakan android studio , DBMS yang di gunakan adalah firebase </li>
+	<li> sublime </li>
+</ul>
+	
 **2.2 Deskripsi Data**
 
 ***2.2.1 Definisi Domain/type***
