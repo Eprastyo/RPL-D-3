@@ -33,7 +33,7 @@ PENDAHULUAN</b>
 
 **1.1 Gambaran Proyek**
 
-Proyek yang sedang kami buat adalah membangun sebuah aplikasi *mobile* pemesanan lapangan shintiyan futsal. Dalam rencana pembangunan software,banyak hal yang harus diperhatikan oleh konsumen maupun produsen (programmer) terutama dalam hal pengelolaan waktu dan nilai yang harus dikeluarkan. Adanya kesalahan perhitungan tentu akan memberikan kerugian pada kedua pihak, hal-hal seperti yang harus kita minimalisir. Untuk itu sistem ini dibangun dengan fungsi utama melakukan planing terhadap proyek yang akan dibuat atau dipesan oleh konsumen. Dengan adanya fungsi tersebut, sistem ini dapat merencanakan pembuatan sebuah software dengan baik, dan pasti. Tentunya dalam membangun sistem ini kami butuh sebuah tim yang solid agar dalam proses pembuatannya tidak mengalami banyak kendala, tim kami terdiri dari manager,programmer, sekertaris, dan tester. Dengan struktur tim tersebut, kami bermaksud membagi beberapa tugas sesuai kriteria kemampuan masing-masing, yang nantinya satu sama lain diharapkan dapat bekerja sama dan melengkapi satu sama lain, sehingga dapat membangun sistem yang baik sesuai yang konsumen/pasar butuhkan.
+Proyek yang sedang kami buat adalah membangun sebuah aplikasi *mobile* pemesanan lapangan Satria Shintia futsal. Dalam rencana pembangunan software,banyak hal yang harus diperhatikan oleh konsumen maupun produsen (programmer) terutama dalam hal pengelolaan waktu dan nilai yang harus dikeluarkan. Adanya kesalahan perhitungan tentu akan memberikan kerugian pada kedua pihak, hal-hal seperti yang harus kita minimalisir. Untuk itu sistem ini dibangun dengan fungsi utama melakukan planing terhadap proyek yang akan dibuat atau dipesan oleh konsumen. Dengan adanya fungsi tersebut, sistem ini dapat merencanakan pembuatan sebuah software dengan baik, dan pasti. Tentunya dalam membangun sistem ini kami butuh sebuah tim yang solid agar dalam proses pembuatannya tidak mengalami banyak kendala, tim kami terdiri dari manager,programmer, sekertaris, dan tester. Dengan struktur tim tersebut, kami bermaksud membagi beberapa tugas sesuai kriteria kemampuan masing-masing, yang nantinya satu sama lain diharapkan dapat bekerja sama dan melengkapi satu sama lain, sehingga dapat membangun sistem yang baik sesuai yang konsumen/pasar butuhkan.
 
 **1.2 Dokumen-dokumen Dalam Proyek**
 
@@ -63,6 +63,9 @@ Tabel 1.1 Akronim
 | --------- | --------------------------- |
 | ESA       | *European Space  Agency*    |
 | APK       | *Application  Package File* |
+| BSSC      | *Board for Software Standardization andControl* |
+| ECSS      | *European Cooperation for SpaceStandardization* |
+
 
  
 
