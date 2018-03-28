@@ -76,28 +76,24 @@ Bagian sistem aplikasi untuk sisiadmin menggunakan _web apps_. Sistem mampumenam
 ![img8](https://lh3.googleusercontent.com/-82R76oif8eA/Wp9qnbhVVBI/AAAAAAAAANc/OMISVh_uyfskuiNxZTuE5dJxkbBatYItwCL0BGAs/w414-d-h736-n-rw/daftar.jpg)
 <div align="center">Gambar 2.2 Daftar user </div>
 
-​ Menudaftar user menggunakan form tampilan text edit,password dan button menggunakanwarna merah dan memiliki latar belakang orang menendang bola ,kemudian terdapatlink login berwaran biru.
+![daftar](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/2.%20daftar.PNG)
 
-![img7](https://lh3.googleusercontent.com/-Yzb95U1nufc/Wp9qkgZTegI/AAAAAAAAANQ/q_fNGhPBNKADYXes5v9yuh2b5aY55aJ0gCL0BGAs/w414-d-h736-n-rw/login.jpg)
-<div align="center">Gambar 2.3 Tampilan login</div>
+![login](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/1.%20login.PNG)
 
-​ Tampilanlogin terdapat text edit email dan password dilengkapi icon email dan kunci. Disisiatas terdapat header berwarna merah dengan tulisan berwarna putih. Disisi bawahterdapat button login,link lupa password,dan link register.
+![menuutama](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/tampilan%20awal.PNG)
 
-![img6](https://lh3.googleusercontent.com/-PIzm7F4EZyE/Wp9qhuFa51I/AAAAAAAAANE/m33W0qFaQY45VH-yL0cVt_4DfoHG5A3UQCL0BGAs/w414-d-h736-n-rw/menu%2Bawal.jpg)
+![pemesananlapangan](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/3%20booking.PNG)
 
-<div align="center">Gambar 2.4 Menu awal</div>
+![jadwal](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/4%20jadwal.PNG)
 
-​ Tampilan menu awal terdapat header berwarna merah dengan tulisan berwarna putih. Kemudiandibawah header terdapat icon fitur utama berwarna merah.
+![konfirmasipembayaran](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/5%20konfirmasi%20pembayar.PNG)
 
-![img5](https://lh3.googleusercontent.com/-FEWKudkYP9E/Wp9odATlfuI/AAAAAAAAAMQ/qOPc5y4f5FQ5RPAqPxVC15BRyK9w6rsgQCJoC/w414-h736-n-rw/daftar%2Bllapangan.jpg)
+![biodata](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/6%20biodata.PNG)
 
-<div align="center">Gambar 2.5 Tampilan pemesanan lapangan</div>
+![editbiodata](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/7%20edit%20biodata.PNG)
 
-​ Tampilan list lapangan terdapat header berwarna merah dengan tulisan berwarna putih dandi sisi kiri terdapat icon panah berwarna putih. Kemudian dibawahnya terdapat 3 textview dan 2 button.
+![tentang](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/8.PNG)
 
-![img4](https://lh3.googleusercontent.com/-Sf8iaxYabm4/Wp9qqfazAzI/AAAAAAAAANo/zLstdCq4wQ016zSE_Y4PuYPK33z_uN_wACL0BGAs/w414-d-h736-n-rw/daftar%2Bpemesan.jpg)
-
-<div align="center">Gambar 2.6 Tampilan daftar pemesan</div>
 
 ​Tampilan daftar menggunakan data tabel berwarana abu dengan jumlah kolom sebanyak 4 kemudian di setiap baris divariasi warna putih dan abu-abu.<br>
 
