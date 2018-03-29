@@ -508,6 +508,7 @@ Jam
 <td>Varchar</td>
 <td>keterangangan waktu selesai</td>
 </tr>
+</html>
 
 Member
 <html>
