@@ -32,11 +32,11 @@ PENDAHULUAN
 </div>
 1.1 Tujuan
 
-DokumenSoftware Requirement Specification (SRS) merupakan dokumen spesifikasiperangkat lunak untuk membangun ”Aplikasi Pemesanan Lapangan Futsal ”. Dokumenini dibangun untuk memudahkan Prima Fusal dan Sintia Sinta Futsal .Dalam melakukan proses pemesanan lapanganfutsal yang dilakukan oleh penyewa lapangan. Sehingga dokumen ini dapatdijadikan acuan teknis untuk membangun perangkat lunak "Let's Ball" AplikasiPemesanan Lapangan Futsal.
+DokumenSoftware Requirement Specification (SRS) merupakan dokumen spesifikasiperangkat lunak untuk membangun ”Aplikasi Pemesanan Lapangan Futsal ”. Dokumen ini dibangun untuk memudahkan Prima Fusal dan Sintia Sinta Futsal .Dalam melakukan proses pemesanan lapangan futsal yang dilakukan oleh penyewa lapangan. Sehingga dokumen ini dapat di jadikan acuan teknis untuk membangun perangkat lunak "Let's Ball" Aplikasi Pemesanan Lapangan Futsal.
 
 1.2 Lingkup proyek
 
-Lets'sBall merupakan aplikasi yang kita untuk pengguna bagi kalangan kaum umum untukpemesanan dan penjadwalan penggunaan lapangan futsal, serta dapat memberikaninformasi pemesanan lapangan dan penjadwalan futsal. dan mempermudah pelangganuntuk pemesanan lapangan futsal.
+Ssal merupakan aplikasi yang kita untuk pengguna bagi kalangan kaum umum untukpemesanan dan penjadwalan penggunaan lapangan futsal, serta dapat memberikaninformasi pemesanan lapangan dan penjadwalan futsal. dan mempermudah pelangganuntuk pemesanan lapangan futsal.
 
 1.3 Definsi,akronim,singkatan
 
@@ -463,7 +463,6 @@ Pembayaran
 <td>Nomor id pemesanan</td>
 </tr>
 <tr>
-<tr>
 <td>status</td>
 <td>Varchar</td>
 <td>Status Pembayaran</td>
@@ -507,7 +506,7 @@ Jam
 <tr>
 <td>selesai</td>
 <td>Varchar</td>
-<keterangangan waktu selesai</td>
+<td>keterangangan waktu selesai</td>
 </tr>
 
 Member
