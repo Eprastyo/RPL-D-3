@@ -557,9 +557,24 @@ Lapangan
 <td>Varchar</td>
 <td>Nama lapangan</td>
 </tr>
+<tr>
+<td>harga_sewa</td>
+<td>Integer</td>
+<td>Harga sewa lapangan</td>
+</tr>
+<tr>
+<td>keterangan</td>
+<td>Varchar</td>
+<td>Keterangan lapangan</td>
+</tr>
+<tr>
+<td>gambar</td>
+<td>Image</td>
+<td>Gambar lapangan</td>
+</tr>
+</tr>
 </table>
 </html>
-
 Pemesanan
 <html>
 <table>
@@ -572,11 +587,6 @@ Pemesanan
 <td>id_pemesanan</td>
 <td>Integer</td>
 <td>Nomor id pemesanan</td>
-</tr>
-<tr>
-<td>id_tarif</td>
-<td>Integer</td>
-<td>Nomor id tarif</td>
 </tr>
 <tr>
 <td>id_member</td>
