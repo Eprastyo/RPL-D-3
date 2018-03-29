@@ -94,36 +94,21 @@ Bagian sistem aplikasi untuk sisiadmin menggunakan _web apps_. Sistem mampumenam
 
 ![tentang](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/8.PNG)
 
+![dashbord](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/dashboard.png)
 
-​Tampilan daftar menggunakan data tabel berwarana abu dengan jumlah kolom sebanyak 4 kemudian di setiap baris divariasi warna putih dan abu-abu.<br>
+![datapemesanan](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/data%20pemesan.png)
 
-![enter image description here](https://lh3.googleusercontent.com/-FPJYslKQrnE/WrH2_tY_E-I/AAAAAAAAABk/6GRnaA0PXQk7ArDABgqvq0sg15dqa5MwACJoC/w424-h318-n/login.png)
-<div align="center">Gambar 2.7 Login</div>
-Tampilan login terdapat sebuah logo aplikasi dan dua form input login untuk username dan password.<br>
+![editdatalapangan](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/edit%20data%20lapangan.png)
 
-![enter image description here](https://lh3.googleusercontent.com/-IhpZVMMgxkM/WrH4zNJO-iI/AAAAAAAAACg/Id_FRfgfxUUOBbCXIp5HpbFJ2pQMm_ZswCJoC/w530-h397-n/dashboard.png)
-<div align="center">Gambar 2.8 Dashboard</div>
-Tampilan dashboard terdapat 3 kotak berwarna biru,kuning,dan hijau untuk menampilkan ketersediaan lapangan dan jumlah pemesan.<br>
+![keloladatalapangan](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/kelola%20data%20lapangan.png)
 
-![enter image description here](https://lh3.googleusercontent.com/-E33TG0VMh0Q/WrH2_ptoOuI/AAAAAAAAABk/T5wNiMARIV03Enplg_Knwz-bHxxn7ydzgCJoC/w424-h318-n-rw/kelola+data+lapangan.png)
-<div align="center">Gambar 2.9 Kelola data lapangan</div>
-Tampilan kelolda data lapangan berupa data tabel berwarna abu-abu untu mengelola data lapangan.<br>
+![laporantransaksi](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/Laporan%20transaksi.png)
 
-![enter image description here](https://lh3.googleusercontent.com/-zlgMrRdrQDY/WrH2_mpjInI/AAAAAAAAABk/SJM9EUM8HvA7t8XBkAtFnzkEnpomaNuAQCJoC/w424-h318-n/input+data+lapangan.png)
-<div align="center">Gambar 2.10 Input data lapangan</div>
-Tampilan input data lapangan berupa dua from input berwarna putih untuk memasukan nama lapangan dan tarif.<br>
+![login](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/login.png)
 
-![enter image description here](https://lh3.googleusercontent.com/-pB0XKk3hhGY/WrH2_skBB3I/AAAAAAAAABk/P8KZ6gIImpAccqxWJAUjICzIDGBUi2vVwCJoC/w424-h318-n/data+pemesan.png)
-<div align="center">Gambar 2.12 Data pemesan</div>
-Tampilan input data pemesan menggunakan data tabel untuk mengetahu data pemesan lapangan kemudian terdapat sebuah aksi untuk memproses transaksi.<br>
+![member](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/Member.png)
 
-![enter image description here](https://lh3.googleusercontent.com/-DAWgrb4IuxY/WrH2_hOpV3I/AAAAAAAAABk/YME0-itF5Y0YUbsV6E4VNLHjlepzcQ9agCJoC/w424-h318-n/Transaksi.png)
-<div align="center">Gambar 2.13 Transaksi</div>
-Tampilan transaksi berupada data tabel untuk memproses pencetakan transaksi pemesanan lapangan.<br>
-
-![enter image description here](https://lh3.googleusercontent.com/-eZ3kATU4GKA/WrH2_lid1II/AAAAAAAAABk/yTXG18ZrEbMCVtJVlb5ZpFw4za2SBZQjACJoC/w424-h318-n/Member.png)
-<div align="center">Gambar 2.14 Data Member</div>
-Tampilan data member menggunakan data tabel berwarna abu-abu untuk menampilkan daftar pelanggan.<br>
+![transaksi](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/Transaksi.png)
 
 2.1.3 Antarmuka perangkat keras
 
