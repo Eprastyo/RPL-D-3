@@ -443,7 +443,7 @@ Aplikasi ini dapat diakses jika terhubung dengan internet dan memiliki sistem op
 3.3 Struktur detail kebutuhan Non-Fungsional
 3.3.1 Logika Struktur Data
 
-![enter image description here](https://lh3.googleusercontent.com/-KKQoGuQlU5g/WrIgGcnEX5I/AAAAAAAAAEs/iVC0e4s42XcSvt-k--89FOAeeZ0DI-4CACL0BGAs/w530-d-h354-n-rw/ERD.png)
+![enter image description here](https://github.com/Eprastyo/RPL-D-3/blob/master/Gambar/IMG-20180328-WA0014.jpg)
 Pembayaran
 <html>
 <table>
@@ -464,19 +464,53 @@ Pembayaran
 </tr>
 <tr>
 <tr>
-<td>bukti_pembayaran</td>
-<td>Image</td>
-<td>Gambar bukti pengiriman</td>
+<td>status</td>
+<td>Varchar</td>
+<td>Status Pembayaran</td>
 </tr>
 <tr>
-<td>total_harga</td>
+<td>no_rekening</td>
+<td>Integer</td>
+<td>Nomer rekening pembayaran</td>
+</tr>
+<tr>
+<td>ke_rekening</td>
+<td>Varchar</td>
+<td>keterangan</td>
+</tr>
+<tr>
+<td>total_bayar</td>
 <td>Integer</td>
 <td>Jumlah pembayaran</td>
 </tr>
 </table>
 </html>
 
-Pelanggan
+Jam
+<html>
+<table>
+<tr>
+<th>Data item</th>
+<th>Type</th>
+<th>Deskripsi</th>
+</tr>
+<tr>
+<td>id_jam</td>
+<td>Integer</td>
+<td>Jam pemesanan</td>
+</tr>
+<tr>
+<td>mulai</td>
+<td>Varchar</td>
+<td>keterangan waktu</td>
+</tr>
+<tr>
+<td>selesai</td>
+<td>Varchar</td>
+<keterangangan waktu selesai</td>
+</tr>
+
+Member
 <html>
 <table>
 <tr>
@@ -500,6 +534,11 @@ Pelanggan
 <td>Password pengguna</td>
 </tr>
 <tr>
+<td>level</td>
+<td>Varchar</td>
+<td>Admin</td>
+</tr>
+<tr>
 <td>Alamat</td>
 <td>Varchar</td>
 <td>Alamat pengguna</td>
@@ -513,31 +552,7 @@ Pelanggan
 </table>
 </html>
 
-Tarif
-<html>
-<table>
-<tr>
-<th>Data item</th>
-<th>Type</th>
-<th>Deskripsi</th>
-</tr>
-<tr>
-<td>id_tarif</td>
-<td>Integer</td>
-<td>Nomor id tarif</td>
-</tr>
-<tr>
-<td>id_lapangan</td>
-<td>Integer</td>
-<td>Nomor id lapangan</td>
-</tr>
-<tr>
-<td>harga</td>
-<td>Integer</td>
-<td>Tarif harga lapangan</td>
-</tr>
-</table>
-</html>
+
 
 Lapangan
 <html>
@@ -575,6 +590,7 @@ Lapangan
 </tr>
 </table>
 </html>
+
 Pemesanan
 <html>
 <table>
@@ -603,6 +619,11 @@ Pemesanan
 <td>Durasi</td>
 <td>Integer</td>
 <td>Waktu pemesanan</td>
+</tr>
+<tr>
+<td>bukti_pembayaran</td>
+<td>Image</td>
+<td>Mencetak bukti pembayaran</td>
 </tr>
 </table>
 </html>
