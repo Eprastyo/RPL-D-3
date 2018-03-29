@@ -486,6 +486,7 @@ Pembayaran
 </html>
 
 Jam
+
 <html>
 <table>
 <tr>
@@ -508,9 +509,12 @@ Jam
 <td>Varchar</td>
 <td>keterangangan waktu selesai</td>
 </tr>
+</table>
 </html>
 
+
 Member
+
 <html>
 <table>
 <tr>
