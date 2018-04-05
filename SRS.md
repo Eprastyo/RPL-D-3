@@ -428,7 +428,7 @@ Aplikasi ini dapat diakses jika terhubung dengan internet dan memiliki sistem op
 3.3 Struktur detail kebutuhan Non-Fungsional
 3.3.1 Logika Struktur Data
 
-![enter image description here](https://lh3.googleusercontent.com/-Qrsxt_SsBG4/WsXN7IHZfmI/AAAAAAAAA18/5TSJ0Bflj28g1uE-v0FpZ7pcYAB5l11EgCL0BGAs/w530-d-h372-n-rw/ERD.png)
+![enter image description here](https://lh3.googleusercontent.com/-Mj1A3Gw089w/WsXPzyQ7gVI/AAAAAAAAA20/vf53InwHcQ8hWyb-U82-7oAjusPt6GXEwCL0BGAs/w530-d-h372-n-rw/ERD.png)
 <br>
 Pembayaran
 <html>
