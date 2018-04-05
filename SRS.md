@@ -450,6 +450,12 @@ Pembayaran
 <td>Nomor id pemesanan</td>
 </tr>
 <tr>
+<tr>
+<td>bukti pembayaran</td>
+<td>Integer</td>
+<td>gambar bukti pembayaran</td>
+</tr>
+<tr>
 <td>status</td>
 <td>Varchar</td>
 <td>Status Pembayaran</td>
@@ -561,7 +567,7 @@ Lapangan
 <tr>
 <td>nama</td>
 <td>Varchar</td>
-<td>Nama lapangan</td>
+<td>Nama</td>
 </tr>
 <tr>
 <td>harga_sewa</td>
@@ -571,7 +577,7 @@ Lapangan
 <tr>
 <td>keterangan</td>
 <td>Varchar</td>
-<td>Keterangan lapangan</td>
+<td>Keterangan</td>
 </tr>
 <tr>
 <td>gambar</td>
@@ -595,26 +601,25 @@ Pemesanan
 <td>Integer</td>
 <td>Nomor id pemesanan</td>
 </tr>
-<tr>
+<tr><tr>
 <td>id_member</td>
 <td>Integer</td>
 <td>Nomor id pelanggan</td>
 </tr>
-<tr>
+<tr><tr>
+<td>id_lapangan</td>
+<td>Integer</td>
+<td>Nomor id lapangan</td>
+</tr>
 <td>Tanggal</td>
 <td>Integer</td>
 <td>Tanggal pemesanan</td>
 </tr>
 <tr>
 <tr>
-<td>Durasi</td>
+<td>id_jam</td>
 <td>Integer</td>
 <td>Waktu pemesanan</td>
-</tr>
-<tr>
-<td>bukti_pembayaran</td>
-<td>Image</td>
-<td>Mencetak bukti pembayaran</td>
 </tr>
 </table>
 </html>
