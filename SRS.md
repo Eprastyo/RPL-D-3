@@ -32,11 +32,11 @@ PENDAHULUAN
 </div>
 1.1 Tujuan
 
-DokumenSoftware Requirement Specification (SRS) merupakan dokumen spesifikasiperangkat lunak untuk membangun ”Aplikasi Pemesanan Lapangan Futsal ”. Dokumen ini dibangun untuk memudahkan Prima Fusal dan Sintia Sinta Futsal .Dalam melakukan proses pemesanan lapangan futsal yang dilakukan oleh penyewa lapangan. Sehingga dokumen ini dapat di jadikan acuan teknis untuk membangun perangkat lunak "Let's Ball" Aplikasi Pemesanan Lapangan Futsal.
+Dokumen Software Requirement Specification (SRS) merupakan dokumen spesifikasi perangkat lunak untuk membangun ”Aplikasi Pemesanan Lapangan Futsal ”. Dokumen ini dibangun untuk memudahkan Satria Shintia Futsal .Dalam melakukan proses pemesanan lapangan futsal yang dilakukan oleh penyewa lapangan. Sehingga dokumen ini dapat di jadikan acuan teknis untuk membangun perangkat lunak "S'sal" Aplikasi Pemesanan Lapangan Futsal.
 
 1.2 Lingkup proyek
 
-Ssal merupakan aplikasi yang kita untuk pengguna bagi kalangan kaum umum untukpemesanan dan penjadwalan penggunaan lapangan futsal, serta dapat memberikaninformasi pemesanan lapangan dan penjadwalan futsal. dan mempermudah pelangganuntuk pemesanan lapangan futsal.
+Ssal merupakan aplikasi yang di gunakan untuk pengguna bagi kalangan kaum umum untuk pemesanan dan penjadwalan penggunaan lapangan futsal, serta dapat memberikan informasi pemesanan lapangan dan penjadwalan futsal.
 
 1.3 Definsi,akronim,singkatan
 
@@ -53,23 +53,24 @@ Practicefor Software Requirements Specifications”, October 20, 1998.
 
 \[2\]Feldt R,”re\_lecture5b\_100914”, unpublished.
 
-BAB 2
-
+<div align="center">
+BAB 2<br>
 GAMBARAN UMUM
+</div>
 
 Aplikasi pemesanan lapangan futsal membantu user atau calon pelanggan untuk memesan lapangan
 
 2.1 Perspektif Produk
 
-Produk ini memiliki fungsi pemesanan lapangan futsal melalui_mobile apps_. Penggunaan sistemterbagi menjadi dua yaitu antar muka pelaggan menggunakan _mobile apps \*dan antarmuka admi menggunakan \*web apps_.Dibandingkan dengan aplikasi yang sudah ada sebagian besarberbasis website disamping itu belum ada aplikasi yang bernar-benar digunakan.Kemudian aplikasi memiliki keunggulan bisa mencatat transaksi pemesananlapangan untuk pemilik usaha futsal. Selain itu aplikasi ini sebagai promosipemilik futsal untuk meningkatkan pendapatan usahanya.
+Produk ini memiliki fungsi pemesanan lapangan futsal melalui_mobile apps_. Penggunaan sistem terbagi menjadi dua yaitu antar muka pelaggan menggunakan _mobile apps \*dan antarmuka admin menggunakan \*web apps_.Dibandingkan dengan aplikasi yang sudah ada sebagian besar berbasis website disamping itu belum ada aplikasi yang bernar-benar digunakan.Kemudian aplikasi memiliki keunggulan bisa mencatat transaksi pemesanan lapangan untuk pemilik usaha futsal. Selain itu aplikasi ini sebagai promosi pemilik futsal untuk meningkatkan pendapatan usahanya.
 
 2.1.1 Antarmuka sistem
 
 ![img9](https://lh3.googleusercontent.com/-ZHr32IgPcuc/Wp_HunwALqI/AAAAAAAAARE/0XQbDM7HrC4hppc7lRaCL5cYhV9lU7k6wCL0BGAs/w530-d-h187-n-rw/Antarmuka+Sistem.png)
 <div align="center">Gambar 2.1 Antarmuka sistem</div><br>
-Bagian sistem aplikasi untuk sisiuser menggunakan *mobile apps* yang bisa menampilkan menu daftar dan loginsebagai autentifikasi awal masuk ke sistem, kemudian bisa menampilkan formpemesanan lapangan kepada calon pelanggan, selanjutnya sistem mampu menampilkandaftar lapangan yang tersedia dan belum dipesan atau kosong. Disamping itusistem memliki fitur tampilan bukti pemesanan yang dapat dicetak oleh calonpelanggan kemudian mampu mengirim bukti pembayaran ke server.
+Bagian sistem aplikasi untuk sisi user menggunakan *mobile apps* yang bisa menampilkan menu daftar dan login sebagai autentifikasi awal masuk ke sistem, kemudian bisa menampilkan form pemesanan lapangan kepada calon pelanggan, selanjutnya sistem mampu menampilkan daftar lapangan yang tersedia dan belum dipesan atau kosong. Disamping itu sistem memliki fitur tampilan bukti pemesanan yang dapat dicetak oleh calon pelanggan kemudian mampu mengirim bukti pembayaran ke server.
 
-Bagian sistem aplikasi untuk sisiadmin menggunakan _web apps_. Sistem mampumenampilkan tampilan login admin. Kemudian menampilkan fitur menipulasi datalapangan dan tarif, kemudian memiliki fitur menampilkan konfirmasi pembayaran,selanjutnya sistem mampu menampilkan daftar pelanggan yang memesan. Disampingitu sistem melakukan transaksi pemesanan lapangan.
+Bagian sistem aplikasi untuk sisi admin menggunakan _web apps_. Sistem mampu menampilkan tampilan login admin. Kemudian menampilkan fitur manipulasi data lapangan dan tarif, kemudian memiliki fitur menampilkan konfirmasi pembayaran,selanjutnya sistem mampu menampilkan daftar pelanggan yang memesan. Disamping itu sistem melakukan transaksi pemesanan lapangan.
 
 2.1.2 Antarmuka pengguna
 
@@ -114,7 +115,7 @@ Bagian sistem aplikasi untuk sisiadmin menggunakan _web apps_. Sistem mampumenam
 
 ![img3](https://lh3.googleusercontent.com/-oBNUr2ecXmM/Wp9r1nNk8AI/AAAAAAAAAOM/slNzD-hEA8cWXpx9QV7D04ue047uR3DxACJoC/w530-h336-n/Antarmuka+Hardware+-+Antarmuka+Hardware%25281%2529.png)
 <div align="center">Gambar</div>
-Antarmuka perangkat keras calon pemesan menggunakandevice \*smartphone \*android untuk bisamemesan pertama kali device harus terhubung ke internet kemudian membukaaplikasi sistem maka terhubung ke server. Kemudiann antarmuka perangkat kerasadmin menggunakan device computer atau laptop dan pastikan terhubung denganinternet selanjutnya buka website sistem admin.
+Antarmuka perangkat keras calon pemesan menggunakan device \*smartphone \*android untuk bisa memesan pertama kali device harus terhubung ke internet kemudian membuka aplikasi sistem maka terhubung ke server. Kemudian antarmuka perangkat keras admin menggunakan device computer atau laptop dan pastikan terhubung dengan internet selanjutnya buka website sistem admin.
 
 2.1.4 Antarmuka perangkat lunak
 
@@ -145,9 +146,9 @@ Sebuah aplikasi web berkomunikasi dengan perangkat lunak client melalui HTTP. HT
 |Konfirmasi| Mengonfirmasi pembayaran pelanggan |
 |Transaksi| Melakukan pendataan transaksi |
 
-​ Sistem ke calon pelanggan mampu menampilkan menu login untuk autentifikasi pertama danmenampilkan form pendaftaran pelanggan yang belum memiliki akun, selanjutnya menampilkandaftar lapangan yang tersedia, menampilkan form pemesanan lapangan, menampilkanbukti pemesan untuk dicetak, dan mengirim bukti pembayaran lapangan.
+​ Sistem ke calon pelanggan mampu menampilkan menu login untuk autentifikasi pertama dan menampilkan form pendaftaran pelanggan yang belum memiliki akun, selanjutnya menampilkan daftar lapangan yang tersedia, menampilkan form pemesanan lapangan, menampilkan bukti pemesan untuk dicetak, dan mengirim bukti pembayaran lapangan.
 
-​ Sistemke admin menampilkan menu login admin. Kemudian menampilkan fiturr manipulasi datalapangan dan tarif harga, menampilan daftar pelanggan yang memesan lapangan. Kemudianmenampilkan konfirmasi pembayaran dan transaksi.
+​ Sistem ke admin menampilkan menu login admin. Kemudian menampilkan fitur manipulasi datalapangan dan tarif harga, menampilan daftar pelanggan yang memesan lapangan. Kemudian menampilkan konfirmasi pembayaran dan transaksi.
 
 2.1.7 Kebutuhan-kebutuhan dalam tahapan adaptasi
 
