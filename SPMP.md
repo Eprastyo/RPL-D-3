@@ -1,10 +1,10 @@
 
 <div align="center">
 SOFTWARE PROJECT MANAGEMENT PLAN<br>
-Version 1.0
+Version 1.1
  <br>
  <br>
-7 Maret 2018
+4 April 2018
  <br>
  <br>
  
@@ -33,45 +33,32 @@ PENDAHULUAN</b>
 
 **1.1 Gambaran Proyek**
 
-  Proyek yang sedang kami buat adalah membangun sebuah aplikasi *mobile* pemesanan lapangan Satria Shintia futsal. Dalam rencana pembangunan software,banyak hal yang harus diperhatikan oleh konsumen maupun produsen (programmer) terutama dalam hal pengelolaan waktu dan nilai yang harus dikeluarkan. Adanya kesalahan perhitungan tentu akan memberikan kerugian pada kedua pihak, hal-hal seperti yang harus kita minimalisir. Untuk itu sistem ini dibangun dengan fungsi utama melakukan planing terhadap proyek yang akan dibuat atau dipesan oleh konsumen. Dengan adanya fungsi tersebut, sistem ini dapat merencanakan pembuatan sebuah software dengan baik dan pasti. Tentunya dalam membangun sistem ini kami butuh sebuah tim yang solid agar dalam proses pembuatannya tidak mengalami banyak kendala, tim kami terdiri dari manager,programmer, sekertaris dan Designer. Dengan struktur tim tersebut, kami bermaksud membagi beberapa tugas sesuai kriteria kemampuan masing-masing, yang nantinya satu sama lain diharapkan dapat bekerja sama dan melengkapi satu sama lain, sehingga dapat membangun sistem yang baik sesuai yang konsumen/pasar butuhkan.
+Proyek yang sedang kami buat adalah membangun sebuah aplikasi *mobile* pemesanan lapangan Satria Shintia futsal. Dalam rencana pembangunan software,banyak hal yang harus diperhatikan oleh konsumen maupun produsen (programmer) terutama dalam hal pengelolaan waktu dan nilai yang harus dikeluarkan. Adanya kesalahan perhitungan tentu akan memberikan kerugian pada kedua pihak, hal-hal seperti yang harus kita minimalisir. Untuk itu sistem ini dibangun dengan fungsi utama melakukan planing terhadap proyek yang akan dibuat atau dipesan oleh konsumen. Dengan adanya fungsi tersebut, sistem ini dapat merencanakan pembuatan sebuah software dengan baik dan pasti. Tentunya dalam membangun sistem ini kami butuh sebuah tim yang solid agar dalam proses pembuatannya tidak mengalami banyak kendala, tim kami terdiri dari manager,programmer, sekertaris dan Designer. Dengan struktur tim tersebut, kami bermaksud membagi beberapa tugas sesuai kriteria kemampuan masing-masing, yang nantinya satu sama lain diharapkan dapat bekerja sama dan melengkapi satu sama lain, sehingga dapat membangun sistem yang baik sesuai yang konsumen/pasar butuhkan.
 
 **1.2 Dokumen-dokumen Dalam Proyek**
 
-  Saat mengerjakan projek ini, pencatatan kegiatan yang telah dilakukan ditulis didalam log book kelompok, anggota yang telah mengerjakan tugas sesuai projek kegiatannya dicatat dalam log book, selain log book dokumen yang berkaitan dengan projek ini meliputi requirtments, penjadwalan, pembagian tugas, dan referensi-referensi yang berkaitan dengan pembuatan projek kami.
+1. Proposal pengajuan
+2. MoU dengan mitra 
+3. Logbook
+4. Laporan
+5. SRS
+6. SDD
 
 **1.3 Revolusi SPMP**
 
 Dokumen ini bersifat freeware, jadi siapa saja boleh untuk memanfaatkan dokumen ini untuk hal yang positif. Tentu ada hal-hal yang tidak boleh dilakukan dalam  pemanfaatan dokumen ini, seperti menjual belikan dokumen ini secara ilegal,atapun mengubah dokumen tanpa dasar yang jelas.
 
 **1.4 Material Acuan**
-
-Materi yang menjadi acuan dalam pembuatan projek ini menggunakan standar ESA, karena menyediakan kerangka kerja yang menggabungkan seluruh spektrum proses siklus hidup perangkat lunak. Dan juga standar ESA untuk membentuk model yang diakui secara internasional dari kehidupan perangkat lunak umum, siklus proses yang dapat direferensikan oleh industri perangkat lunak diseluruh dunia, untuk mempromosikan pemahaman diantara pihak bisnis dengan aplikasi umum serta mengakui proses, kegiatan dan tugas.
-
-ESA *(European Space Agency)* merupakan standard perancangan rekayasa perangkat lunak dengan profesi Rekayasa Perangkat Lunak dan Standarisasi
-
-Dalam Divisi Sistem Perangkat Lunak, Bagian Rekayasa Perangkat Lunak dan Standarisasi bertanggung jawab atas teknologi dan standar rekayasa perangkat lunak.Bagian ini memiliki keahlian dalam metode perangkat lunak, peralatan, arsitektur dan standar. Rekayasa Perangkat Lunak dengan tanggung jawab bagian mencakup seluruh siklus hidup perangkat lunak, dengan penekanan pada fase awal seperti rekayasa ulang sistem perangkat lunak, teknik persyaratan, desain, bahasa pengkodean dan lingkungan kompilator, pembuatan generasi kode dan uji validasi.
-
-Beberapa studi memberikan blok bangunan untuk penggunaan potensial dalam arsitektur generik.Standarisasi perangkat lunak bagian ini sangat terlibat dalam standarisasi perangkat lunak, baik untuk standar ESA internal melalui co-chairmanship BSSC *(Board for Software Standardization andControl)*, dan untuk standar perangkat lunak eksternal - terutama dengan ECSS *(European Cooperation for SpaceStandardization)* dan terkadang dengan ISO. Kemudian Dukungan proyek bagian ini mendukung banyak proyek luar angkasa, termasuk Galileo (segmen ruang dandarat), EGNOS, percobaan gaya berat mikro dan muatan stasiun luar angkasa, ATV,ExoMars, Vega dan Ariane 5.
-
-**1.5 Definisi dan Akronim (singkatan)**
-
-Dalam  penulisan dokumen  pembuatan  projek ini,  ada  beberapa kata  yang mungkin akan sulit dipahami oleh orang awam berikut ini :
-
-Tabel 1.1 Akronim
-
-| Singkatan | Arti kata                   |
-| --------- | --------------------------- |
-| ESA       | *European Space  Agency*    |
-| APK       | *Application  Package File* |
-| BSSC      | *Board for Software Standardization andControl* |
-| ECSS      | *European Cooperation for SpaceStandardization* |
+Aplikasi pendukung yang digunakan dalam proyek ini adalah 
+<ul>
+ <li> Android Studio </li>
+ <li> Sublime Ttext </li>
+ <li> Balsamiq </li>
+ <li> Mockplus </li>
+ <li> XAMPP </li>
+</ul>
 
 
- 
-
-ESA (European SpaceAgency) merupakan standard perancangan rekayasa perangkat lunak dengan profesi Rekayasa Perangkat Lunak,Standarisasi,dan dukungan proyek.
-
-APK *file *adalah aplikasi mentah (bisa disebut *installer*) dari OS Android.
 
 ​<div align="center">
 <b>BAB 2<br>
@@ -110,29 +97,26 @@ Bentuk spiral memberikan gambaran bahwa makin iteraksinya membesar, maka menunju
 
 **2.2 Struktur Organisasi**
 
-![img](https://lh3.googleusercontent.com/-1wc-Rxvz5Q4/Wp9k0OL70zI/AAAAAAAAAJg/NQOauosBOwYQpEFvmQuhoU_O9bWhy5h1wCL0BGAs/w530-d-h193-n-rw/struktur%2Borganisasi.png)
+| Nama                | Tugas                                 |
+|---------------------|---------------------------------------|
+| Syahrul Gunawan     | manager Project , Android Development |
+| Eko Prastyo         | Web Development                       |
+| Tuti Nurafni Amalia | Document , Analisisment               |
+| Wulan Diani         | Designer , Tester                     |
 
-**2.3  Batasan dan Antarmuka Organisasi**
 
-Ketua/manager dimana harus mejadi pengawas dari anggotanya bilamana saat anggota lalai dengan tugasnya, Ketua berhak menegur dan bagi anggota tidak berhak melawan jika ditegur, dan untuk Ketua sendiri tidak berhak semena-mena dengan jabatanya. Tester dimana saat programmer melakukan kesalahan dalam mengkoding tester memiliki tanggung jawab untuk mengecek kesalahan koding yang dilakukan programmer.Designer bertugas membuat perancangan *mockup* aplikasi. Sekertaris  dimana  bertanggung jawab  untuk  menyimpan dokumen–dokumen yang diperlukan untuk penggarapan dan ahsil akhir project. Programmer dimana dia bertanggung jawab untuk membuat dan menyempurnakan suatu program. Analis dimana dia bertugas memberikan gambaran project dan alur pengkoding pada programmer. 
+**2.3 Lingkup dan Tanggungjawab**
 
-**2.4 Lingkup dan Tanggungjawab**
+| No | Tugas               | Penjelasan                                                                                                                                                                                                              |
+|----|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1  | Manager             | mejadi pengawas dari anggotanya bilamana saat anggota lalai dengan tugasnya, Ketua berhak menegur dan bagi anggota tidak berhak melawan jika ditegur, dan untuk Ketua sendiri tidak berhak semena-mena dengan jabatanya |
+| 2  | Android Development | penerapan Mockup Ke halaman Interface dan proses fungsi lain di Android Java                                                                                                                                            |
+| 3  | Web Development     | Penerapan Mockup Ke halaman Interface dan proses fungsi lain di Framework , CodeIgniter                                                                                                                                 |
+| 4  | Document            | merupakan orang yang bertanggung jawan untuk menyimpan dokumen-dokumen yang diperlukan untuk penggarapan dan hasil akhir project                                                                                        |
+| 5  | Analisisment        | Merupakan orang yang bertugas menganalisa sistem yang akan diimplementasikan, mulai dari menganalisa sistem yang ada, kelebihan dan kekurangannya, sampai studi kelayakan dan desain sistem yang akan dikembangkan      |
+| 6  | Designer            | Membuat desain aplikasi secara keseluruhan (output, input, proses, dan interface), berkoordinasi dengan analis dan developer, membuat dokumentasi hasil desain                                                          |
+| 7  | Tester              | merupakan orang yang bertugas saat programmer melakukan kesalahan dalam mengkoding , tester memiliki tanggung jawab untuk mengecek kesalahan koding yang dilakukan programmer                                           |
 
-**2.4.1 Penjelasan**
-
-Lingkup dan tanggungjawab ini berisi tugas dari setiap elemen anggota dalam pembuatan proyek RPL ini.
-
-**2.4.2 Manager**
-
-Manager adalah seseorang mempunyai tanggung jawab dan tugas yang besar dalam sebuah tim, tidak hanya terfokus pada hal-hal yang teknis sifatnya. Manager juga harus mampu memajemen tim dengan baik, agar target projek dapat tercapai. Selain itu memberi pengarahan, memonitoring kinerja tim, serta membagi tugas juga bagian tanggung jawab dari seorang manager.
-
-**2.4.3 Programmer**
-
-Dalam hal ini, seorang programer bertugas untuk mengimplementasikan dari sistem yang sudah dirancang didesain. Programmer dituntut dapat menuliskan code program dengan baik, dan efesien. Hal ini dimaksudakan untuk menghindari terjadinya banyak error dalam proses implementasinya.
-
-**2.4.4 Tester**
-
-Dalam proyek ini, tester bertugas untuk melakukan pengecekan terhadap sebuah software/aplikasi. Apakah ada error data bug didalamnya, seorang tester harus teliti dalam melakukan tugasnya, apabila ada error yang dilewatkan, maka konsumen akan dirugikan.
 
 ​<div align="center">
 <b>BAB 3<br>
@@ -191,12 +175,11 @@ Sedangkan proses dilaksanakan setiap hari jumat, hal ini dilakukan agar hasil ke
 
 ​Tabel 3.1 Perencanaan staf
 
-| Tim project     | Job                 |
-| --------------- | ------------------- |
-| Syahrul Gunawan | Manager             |
-| Eko Prastyo     | Programer           |
-| Tuti Nurafni Amalia     | Sekertaris |
-| Wulan Diani     | Designer |
+ketua : Syahrul Gunawan (1603113)
+Anggota : 
+1. Eko Prastyo (1603096)
+2. Tuti Nurafni Amallia (1603116)
+3. Wulan Diani (1603118)
 
 <div align="center">
 <b>BAB 4<br>
@@ -260,19 +243,12 @@ Kami membutuhkan technical support di bagian desain project. Kami membutuhkan te
 
 **5.1 Paket pekerjaan**
 
-| Nama             | Jabatan           | Modul                           | Pekerjaan                                            |
-| :--------------- | :---------------- | :------------------------------ | :--------------------------------------------------- |
-| Eko  Prastyo     | Programer         | Database  lapangan dan tarif    | Membuat  database menggunakan MySQL database         |
-|                  |                   | Management  data lapangan admin | CRUD  database data lapangan                         |
-|                  |                   | Konfirmasi  pembayaran          | Membuat  fungsi konfirmasi pebayaran calon pelanggan |
-|                  |                   | Transaksi                       | Membuat  fungsi transaksi pemesan lapangan           |
-|                  |                   | Kirim  bukti pembayaran         | Membuat  fungsi kirim bukti pemesanan                |
-| Syahrul  Gunawan | Manager,Programer | Form Login          | Menbuat  fungsi login user                           |
-|                  |                   | Data  lapangan kosong           | Membuat  fungsi tampilan data lapangan kosong        |
-|                  |                   | Pemesan  lapangan               | Membuat  fungsi booking lapangan                     |
-|                  |                   | Cetak  bukti pemesanan          | Membuat  fungsi   Cetak  bukti pemesanan             |
-| Tuti Nurafni Amalia | Sekertaris | Form Registrasi           |  Membuat  fungsi register user                           |
-| Wulandiani       | Designer          | Mockup                          | Membuat  rancangan tampilan                          |
+| Nama                | Paket Pekerjaan        |
+|---------------------|------------------------|
+| Syahrul Gunawan     | Code Program (Android) |
+| Eko Prastyo         | Code Program (Web)     |
+| Tuti Nurafni Amalia | Document               |
+| Wulan Diani         | Desain                 |
 
 **5.2 Ketergantungan dan Keterkaitan**
 
@@ -280,10 +256,15 @@ Kami membutuhkan technical support di bagian desain project. Kami membutuhkan te
 
 ​Tabel 5.1 Ketergantungan dan Keterkaitan
 
-| Dari    | Tugas untuk | Keterkaitan                                                  |
-| ------- | ----------- | ------------------------------------------------------------ |
-| Manager | Programer   | Tugas  manager adalah untuk memberi tugas programmer jika  saat mengerjakan projek anggotanya lalai  dengan tugasnya ketua tersebut berhak untuk menegur anggotanya dan yang  Menjadi anggota tidak berhak untuk melawan. |
-| Manager | Sekretaris  | Meminta  sekretaris untuk mencatat semua dokumentasi pembuatan poyek |
+kebutuhan ketertarikan : 
+1. Penentuan ide dan rumusan masalah 
+2. pembuatan rancangan sistem
+3. pembuatan sistem aplikasi Website
+4. pembuatan sistem aplikasi Android
+5. implementasi
+6. perbaikan
+7. laporan 
+
 
 **5.3 Kebutuhan Sumber Daya**
 
@@ -337,12 +318,7 @@ Tabel 5.5 Biaya hardware
 |         |                    | Keyboard                                        | Rp. 50.000,-    |
 |         |                    | Mouse                                           | Rp. 30.000,-    |
 
-**5.4.2 Estimasi Biaya Pekerja**
 
-| 1    | Manager    | Rp.8000.000  |
-| ---- | ---------- | ------------ |
-| 2    | Programer  | Rp.6000.000  |
-| 3    | Sekretaris | Rp.4.500.000 |
 
  5.5 Jadwal
 
