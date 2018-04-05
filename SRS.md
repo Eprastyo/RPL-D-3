@@ -428,7 +428,7 @@ Aplikasi ini dapat diakses jika terhubung dengan internet dan memiliki sistem op
 3.3 Struktur detail kebutuhan Non-Fungsional
 3.3.1 Logika Struktur Data
 
-![enter image description here](https://github.com/Eprastyo/RPL-D-3/blob/master/Gambar/IMG-20180328-WA0014.jpg)
+![enter image description here](https://lh3.googleusercontent.com/--It4zBbIa1M/WsXNN9DeRAI/AAAAAAAAA1g/Bsw3IzXfEg09kj4Nq9pYCDpoLxij_GixQCL0BGAs/w530-d-h372-n-rw/ERD.png)
 Pembayaran
 <html>
 <table>
