@@ -1,6 +1,6 @@
 
 <div align="center">
-SOFTWARE PROJECT MANAGEMENT PLAN<br>
+<h1 align="center" id="software-requirements-specification">SOFTWARE PROJECT MANAGEMENT PLAN</h1>  <br>
 Version 1.1
  <br>
  <br>
