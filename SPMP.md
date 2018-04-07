@@ -37,63 +37,37 @@ Proyek yang sedang kami buat adalah membangun sebuah aplikasi *mobile* pemesanan
 
 **1.2 Dokumen-dokumen Dalam Proyek**
 
-1. Proposal pengajuan
-2. MoU dengan mitra 
-3. Logbook
-4. Laporan
-5. SRS
-6. SDD
+1. SPMP (Software Project Management Plan)
+2. SRS  (Software Requirements Spesificatin)
+3. SDD	(Software Design Document)
 
 **1.3 Revolusi SPMP**
 
-Dokumen ini bersifat freeware, jadi siapa saja boleh untuk memanfaatkan dokumen ini untuk hal yang positif. Tentu ada hal-hal yang tidak boleh dilakukan dalam  pemanfaatan dokumen ini, seperti menjual belikan dokumen ini secara ilegal,atapun mengubah dokumen tanpa dasar yang jelas.
+Selama proyek, dokumen ini akan terus diperbarui karena rencana disempurnakan selama proyek. Pembaruan ini akan terbatas pada penyempurnaan lampiran yang berisi perencanaan yang lebih rinci untuk setiap fase.
 
 **1.4 Material Acuan**
-Aplikasi pendukung yang digunakan dalam proyek ini adalah 
-<ul>
- <li> Android Studio </li>
- <li> Sublime Ttext </li>
- <li> Balsamiq </li>
- <li> Mockplus </li>
- <li> XAMPP </li>
-</ul>
 
+[1] IEEE Software Engineering Standards Committee, “IEEE Std 830-1998, IEEERecommended
 
+**1.5 Definisi dan akronim**
+
+| Istilah | Arti                                             |
+| ------- | ------------------------------------------------ |
+| SPMP    | *Software Project Management Plan*           	 |
+| SRS     | *Software Requirement Specifications*            |
+| SDD     | *Software Design Document*				         |
+| IEEE    | *Institute of Electrical and Electronics Engineer* |
 
 ​<div align="center">
 <b>BAB 2<br>
-​ORGANISASI PROYEK</b>
-</div
+​ORGANISASI PROYEK</b></div>
 
 **2.1 Model Proses**
 
-Dalam kesempatan ini kami menggunakan model V-model untuk membuat aplikasinya     
+Dalam Proyek ini kami menggunakan model proses V-model untuk membuat aplikasinya     
 ![img](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/vmodel.PNG)
 
-
-**2.1.1 Definisi**
-
-Merupakan model pengembangan perangkat lunak yang didasarkan pada hubungan antara setiap fase pengembangan siklus hidup yang tercantum dalam model Watterfall yang merupakan pengembangan perangkat lunak dan fase yang terkait pengujian. Bisa dikatakan model ini merupakan perluasan dari model waterfall. Disebut sebagai perluasan karena tahap-tahapnya mirip dengan yang terdapat dalam model waterfall. Jika dalam model waterfall proses dijalankan secara linear, maka dalam model V proses dilakukan bercabang.
-
-**2.1.2 Kelebihan**
-
-1.*V Model* sangat fleksibel. *V Model* mendukung project tailoring dan penambahan dan pengurangan method dan tool secara dinamik. Akibatnya sangat mudah untuk melakukan tailoring pada V Model agar sesuai dengan suatu proyek tertentu dan sangat mudah untuk menambahkan method dan tool baru atau menghilangkan method dan tool yang dianggap sudah obsolete.
-
-2.*V Model* dikembangkan dan di-maintainoleh publik. Userdari *V Model* berpartisipasi dalam change control boardyang memproses semua change requestterhadap *V Model*.
-
-**2.1.3 Kekurangan**
-
-1.V Model adalah model yang project oriented sehingga hanya bisa digunakan sekalidalam suatu proyek.
-
-2.V Model terlalu fleksibel dalam arti ada beberapa activity dalam V Model yang digambarkan terlalu abstrak sehingga tidak bisa diketahui dengan jelas apa yang termasuk dalam activity tersebut dan apa yang tidak.
-
-**2.1.4 Tujuan**
-
-Untuk pengembangan versi pertambahan software secara cepat. untuk menyelesaikan sistem secara global terlebih dahulu, kemudian untuk feature dari sistem akan dikembangkan kemudian. Sehingga mempercepat dalam pengimplementasian project.
-
-**2.1.5 Cara kerja**
-
-Bentuk spiral memberikan gambaran bahwa makin iteraksinya membesar, maka menunjuk kan makin lengkapnya versi dari perangkat lunak yang digunakan. Selama awal  sirkuit, objektif,  alternatif dan  batasan didefinisikan  serta  resiko diidentifikasi dan dianalisa. Jika analisa resiko menunjukkan ada ketidak pastian terhadap kebutuhan, maka prototyping harus dibuat pada kuadran engineering. Simulasi dan pemodelan lain dapat digunakan untuk mendefinisikan masalah dan memperbaiki kebutuhan.Pelanggan mengevaluasi hasil engineering (kuadran customer evaluation) dan membuat usulan untuk perbaikan. Berdasarkan masukan dari pelanggan, fase berikutnya adalah planning dan analisis resiko. Setelah analisis resiko, selalu diperiksa apakah proyek diteruskan atau tidak, jika resiko terlalu besar, maka proyek dapat dihentikan.
+Ini merupakan model pengembangan perangkat lunak yang didasarkan pada hubungan antara setiap fase pengembangan siklus hidup yang tercantum dalam model Watterfall yang merupakan pengembangan perangkat lunak dan fase yang terkait pengujian. Bisa dikatakan model ini merupakan perluasan dari model waterfall. Disebut sebagai perluasan karena tahap-tahapnya mirip dengan yang terdapat dalam model waterfall. Jika dalam model waterfall proses dijalankan secara linear, maka dalam model V proses dilakukan bercabang.
 
 **2.2 Struktur Organisasi**
 
