@@ -14,10 +14,10 @@ Version 1.1
 Disusun oleh :
 
 
-Eko Prastyo (1603096)<br>
-Syahrul Gunaawan (1603113)<br>
+Eko Prastyo 		(1603096)<br>
+Syahrul Gunawan 	(1603113)<br>
 Tuti Nurafni Amalia (1603116)<br>
-Wulandiani (1603118)
+Wulandiani 			(1603118)
 
 
 JURUSAN TEKNIK INFORMATIKA <br>
