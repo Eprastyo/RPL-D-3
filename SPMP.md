@@ -1,39 +1,40 @@
+<html>
+<body>
+<div align="center"><h1> Software Project Management Plan</h1></div>
 
-<div align="center">
-<h1 align="center" id="software-requirements-specification">SOFTWARE PROJECT MANAGEMENT PLAN</h1>  <br>
-Version 1.1
- <br>
- <br>
-4 April 2018
- <br>
- <br>
- 
- 
-![img]( https://lh3.googleusercontent.com/f5f0-BxI6LDzD6bvooQXbVf8_EN2BxwaRxZdRM5CdSzp5OL9bh1lqaNDw8wCkIAYtjYvHENJuuo5=s300 "img01")        
+<p align="center"><b>Version 1.2 </b><br>
+<p align="center">11 April 2018</b>
+<p align="center">
+<img src="https://2.bp.blogspot.com/-dxdRgMQGbLk/WpA-Tp2rNGI/AAAAAAAAAh8/3_jBWFb7Cf48033QvB34D2WCwoN2sxZLgCLcBGAs/s1000/index.png"/>
+</p>
 
-Disusun oleh :
-
-
-Eko Prastyo 		(1603096)<br>
+<br><p align="center"><b> SSAL APPS </b><br>
+<p align="center"><b>Aplikasi Pemesanan Lapangan Futsal
+</b>
+<p align="center">Kelompok 3 <br>
+ Eko Prastyo 		(1603096)<br>
 Syahrul Gunawan 	(1603113)<br>
 Tuti Nurafni Amalia (1603116)<br>
-Wulandiani 			(1603118)
+Wulandiani 			(1603118) <br> <br> <br>
+ 
+<p align="center"><b>Jurusan Teknik Informatika</b><br>
+<p align="center"><b>Politeknik Negeri Indramayu</b>
+</p>
+</body>
+</html>
 
 
-JURUSAN TEKNIK INFORMATIKA <br>
-POLITEKNIK NEGERI INDRAMAYU 2018<br>
-</div>
+
 <br>
 <br>
 <br>
-<div align="center">
-<b>BAB 1<br>
-PENDAHULUAN</b>
-</div>
+
+
+### BAB 1. PENDAHULUAN
 
 **1.1 Gambaran Proyek**
 
-Proyek yang sedang kami buat adalah membangun sebuah aplikasi *mobile* pemesanan lapangan Satria Shintia futsal. Dalam rencana pembangunan software,banyak hal yang harus diperhatikan oleh konsumen maupun produsen (programmer) terutama dalam hal pengelolaan waktu dan nilai yang harus dikeluarkan. Adanya kesalahan perhitungan tentu akan memberikan kerugian pada kedua pihak, hal-hal seperti yang harus kita minimalisir. Untuk itu sistem ini dibangun dengan fungsi utama melakukan planing terhadap proyek yang akan dibuat atau dipesan oleh konsumen. Dengan adanya fungsi tersebut, sistem ini dapat merencanakan pembuatan sebuah software dengan baik dan pasti. Tentunya dalam membangun sistem ini kami butuh sebuah tim yang solid agar dalam proses pembuatannya tidak mengalami banyak kendala, tim kami terdiri dari manager,programmer, sekertaris dan Designer. Dengan struktur tim tersebut, kami bermaksud membagi beberapa tugas sesuai kriteria kemampuan masing-masing, yang nantinya satu sama lain diharapkan dapat bekerja sama dan melengkapi satu sama lain, sehingga dapat membangun sistem yang baik sesuai yang konsumen/pasar butuhkan.
+<p align="justify">Proyek yang sedang kami buat adalah membangun sebuah aplikasi *mobile* pemesanan lapangan Satria Shintia futsal. Dalam rencana pembangunan software,banyak hal yang harus diperhatikan oleh konsumen maupun produsen (programmer) terutama dalam hal pengelolaan waktu dan nilai yang harus dikeluarkan. Adanya kesalahan perhitungan tentu akan memberikan kerugian pada kedua pihak, hal-hal seperti yang harus kita minimalisir. Untuk itu sistem ini dibangun dengan fungsi utama melakukan planing terhadap proyek yang akan dibuat atau dipesan oleh konsumen. Dengan adanya fungsi tersebut, sistem ini dapat merencanakan pembuatan sebuah software dengan baik dan pasti. Tentunya dalam membangun sistem ini kami butuh sebuah tim yang solid agar dalam proses pembuatannya tidak mengalami banyak kendala, tim kami terdiri dari manager,programmer, sekertaris dan Designer. Dengan struktur tim tersebut, kami bermaksud membagi beberapa tugas sesuai kriteria kemampuan masing-masing, yang nantinya satu sama lain diharapkan dapat bekerja sama dan melengkapi satu sama lain, sehingga dapat membangun sistem yang baik sesuai yang konsumen/pasar butuhkan.</p>
 
 **1.2 Dokumen-dokumen Dalam Proyek**
 
@@ -41,13 +42,17 @@ Proyek yang sedang kami buat adalah membangun sebuah aplikasi *mobile* pemesanan
 2. SRS  (Software Requirements Spesificatin)
 3. SDD	(Software Design Document)
 
-**1.3 Revolusi SPMP**
+**1.3 Evolusi SPMP**
 
-Selama proyek, dokumen ini akan terus diperbarui karena rencana disempurnakan selama proyek. Pembaruan ini akan terbatas pada penyempurnaan lampiran yang berisi perencanaan yang lebih rinci untuk setiap fase.
+<p align="justify"> Dokumen ini dibuat bersifat freeware, jadi siapa saja boleh untuk memanfaatkan 
+dokumen ini untuk hal yang positif. Tentunya ada hal-hal yang tidak boleh dilakukan dalam pemanfaatan
+dokumen ini, misalkan diperjual belikan dokumen ini secara ilegal ataupun mengubah dokumen tanpa ada dasar yang jelas. </p>
 
 **1.4 Material Acuan**
 
-[1] IEEE Software Engineering Standards Committee, “IEEE Std 830-1998, IEEERecommended
+<p align="justify">Materi yang menjadi acuan dalam pembuatan projek ini menggunakan standar IEEE, karena menyediakan kerangka kerja yang menggabungkan seluruh spektrum proses siklus hidup perangkat lunak. Dan juga standar IEEE untuk membentuk model yang diakui secara internasional dari kehidupan perangkat lunak umum, siklus proses yang dapat direferensikan oleh industri perangkat lunak diseluruh dunia, untuk mempromosikan pemahaman diantara pihak bisnis dengan aplikasi umum serta mengakui proses, kegiatan dan tugas.</p>
+
+<p align="justify"> IEEE adalah sebuah organisasi profesi nirlaba yang terdiri dari banyak ahli dibidang teknik yang mempromosikan pengembangan standar-standar dan bertindak sebagai pihak yang mempercepat teknologi- teknologi baru dalam semua aspek dalam industry dan rekayasa (engineering), yang mencakup telekomunikasi,  jaringan komputer, kelistrikan, antariksa, dan elektronika. Tujuan inti IEEE adalah mendorong inovasi teknologi dan kesempurnaan untuk kepentingan kemanusiaan.Visi IEEE adalah akan menjadi penting untuk masyarakat teknis global dan professional teknis dimana-mana dan dikenal secara universal untuk kontribusi teknologi dan teknis yang professional dalam meningkatkan kondisi perkembangan global. Standar dalam IEEE adalah mengatur fungsi, kemampuan dan interoperabilitas dari berbagai macam produk dan layanan yang mengubah cara orang hidup, bekerja dan berkomunikasi. </p> 
 
 **1.5 Definisi dan akronim**
 
@@ -58,16 +63,16 @@ Selama proyek, dokumen ini akan terus diperbarui karena rencana disempurnakan se
 | SDD     | *Software Design Document*				         |
 | IEEE    | *Institute of Electrical and Electronics Engineer* |
 
-​<div align="center">
-<b>BAB 2<br>
-​ORGANISASI PROYEK</b></div>
+
+### BAB 2 ORGANISASI PROYEK
 
 **2.1 Model Proses**
 
 Dalam Proyek ini kami menggunakan model proses V-model untuk membuat aplikasinya     
-![img](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/vmodel.PNG)
+![img](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/vmodel.PNG)<br>
 
-Ini merupakan model pengembangan perangkat lunak yang didasarkan pada hubungan antara setiap fase pengembangan siklus hidup yang tercantum dalam model Watterfall yang merupakan pengembangan perangkat lunak dan fase yang terkait pengujian. Bisa dikatakan model ini merupakan perluasan dari model waterfall. Disebut sebagai perluasan karena tahap-tahapnya mirip dengan yang terdapat dalam model waterfall. Jika dalam model waterfall proses dijalankan secara linear, maka dalam model V proses dilakukan bercabang.
+<p align="justify">Model Proses yang digunakan pada aplikasi menggunakan V-Model. Dikarenakan v-model sangat fleksibel, yang mendukung pengurangan maupun penambahan project dalam prosesnya. Meminimalisasikan kesalahan pada hasil akhir karena  ada test pada setiap prosesnya. Model Proses yang digunakan pada aplikasi menggunakan V-Model. Dikarenakan v-model sangat fleksibel, yang mendukung pengurangan maupun penambahan project dalam prosesnya. Meminimalisasikan kesalahan pada hasil akhir karena  ada test pada setiap prosesnya.</p>
+
 
 **2.2 Struktur Organisasi**
 
