@@ -76,69 +76,70 @@ Dalam Proyek ini kami menggunakan model proses V-model untuk membuat aplikasinya
 
 **2.2 Struktur Organisasi**
 
-| Nama                | Tugas                                 |
-|---------------------|---------------------------------------|
-| Syahrul Gunawan     | manager Project , Android Development |
-| Eko Prastyo         | Web Development                       |
-| Tuti Nurafni Amalia | Document , Analisisment               |
-| Wulan Diani         | Designer , Tester                     |
+![img](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/struktur%20organisasi%20refisi.png)<br>
 
-
-**2.3 Lingkup dan Tanggungjawab**
+**2.3 Batasan dan Antarmuka Organisasi**
 
 | No | Tugas               | Penjelasan                                                                                                                                                                                                              |
 |----|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1  | Manager             | mejadi pengawas dari anggotanya bilamana saat anggota lalai dengan tugasnya, Ketua berhak menegur dan bagi anggota tidak berhak melawan jika ditegur, dan untuk Ketua sendiri tidak berhak semena-mena dengan jabatanya |
 | 2  | Android Development | penerapan Mockup Ke halaman Interface dan proses fungsi lain di Android Java                                                                                                                                            |
 | 3  | Web Development     | Penerapan Mockup Ke halaman Interface dan proses fungsi lain di Framework , CodeIgniter                                                                                                                                 |
-| 4  | Document            | merupakan orang yang bertanggung jawan untuk menyimpan dokumen-dokumen yang diperlukan untuk penggarapan dan hasil akhir project                                                                                        |
+| 4  | Sekertaris          | merupakan orang yang bertanggung jawan untuk menyimpan dokumen-dokumen yang diperlukan untuk penggarapan dan hasil akhir project                                                                                        |
 | 5  | Analisisment        | Merupakan orang yang bertugas menganalisa sistem yang akan diimplementasikan, mulai dari menganalisa sistem yang ada, kelebihan dan kekurangannya, sampai studi kelayakan dan desain sistem yang akan dikembangkan      |
 | 6  | Designer            | Membuat desain aplikasi secara keseluruhan (output, input, proses, dan interface), berkoordinasi dengan analis dan developer, membuat dokumentasi hasil desain                                                          |
 | 7  | Tester              | merupakan orang yang bertugas saat programmer melakukan kesalahan dalam mengkoding , tester memiliki tanggung jawab untuk mengecek kesalahan koding yang dilakukan programmer                                           |
 
+**2.4 Lingkup dan Tanggung jawab**
 
-​<div align="center">
-<b>BAB 3<br>
-​PROSES MANAJERIAL</b>
-</div>
+<p align="justify">Lingkup dan tanggung jawab ini berisi tugas dari setiap elemen anggota dalam 
+pembuatan proyelk ini. </p>
+
+| No | Tugas      |                                                                                                                                                                                                    Tanggung Jawab                                                                                                                                                                                                   |
+|----|------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 1  | Manager    | Manager adalah seseorang mempunyai tanggung jawab dan tugas yang besar dalam sebuah tim, tidak hanya terfokus pada hal-hal yang teknis sifatnya. Manager  juga harus mampu memajemen tim dengan baik, agar target projek dapat tercapai. Selain itu memberi pengarahan, memonitoring kinerja tim, serta serta membagi tugas juga bagian tanggung jawab dari seorang manager.                                        |
+| 2  | Sekertaris | Sekertaris adalah orang yang bertanggung jawab terhadap peraturan , pembuatan dan rekam jejak segala jenis dokumen yang terlibat dalam proyek.                                                                                                                                                                                                                                                                      |
+| 3  | Analisis   | Banyak hal yang harus dilakukan oleh seorang sistem analis, terutama yang berkaitan dengan pemecahan masalah. Seorang sistem analis harus mampu menganalisa segala kemungkinan dari pemasalahan yang ada, dan dapat mengasilkan solusi yang tepat dari permasalahan tersebut. Menentukan sistem yang tepat merupakan bagian dari tugas seorang sistem analis, sehingga kinerja tim dapat berjalasan secara efesien. |
+| 4  | Programmer | Dalam hal ini, seorang programer bertugas untuk mengimplementasikan dari sistem yang sudah dirancang didesain. Programmer dituntut dapat menuliskan code program dengan baik, dan efesien. Hal ini dimaksudakan untuk menghindari terjadinya banyak error dalam proses implementasinya.                                                                                                                             |
+| 5  | Tester     | Dalam proyek ini, tester bertugas untuk melakukan pengecekan terhadap sebuah software/aplikasi. Apakah ada error data bug didalamnya, seorang tester harus teliti dalam melakukan tugasnya, apabila ada error yang dilewatkan, maka konsumen akan dirugikan.                                                                                                                                                        |
+| 6  | Designer   | Designer adalah orang yang bertanggung jawab untuk pembuatan desain aplikasi                                                                                                                                                                                                                                                                                                                                        |
+
+
+
+
+### BAB 3 PROSES MANAJERIA
 
 **3.1 Tujuan dan Prioritas Manajemen**
 
-**3.1.1 Prioritas Jadwal**
+3.1.1 Prioritas Jadwal
 
-Prioritas jadwal yang dilakukan pada saat ini adalah membuat sistem yang akan dibuat,dokumen   projek, jadwal   kegiatan, struktur pembuatan projek dan organisasi
+<p align="justify">Prioritas jadwal yang dilakukan pada saat ini adalah membuat sistem yang akan dibuat,dokumen   projek, jadwal   kegiatan, struktur pembuatan projek dan organisasi</p>
 
-**3.1.2 Kemampuan (Kualitas dan Reusability)**
+3.1.2 Budged (Kualitas dan Reusability)
 
-Projek yang kami buat saat ini mempunyai kelebihan dalam memanajemen pembuatan proyek,juga berbasis desktop yang membuat konsumen merasa lebih budah dalam interaksinya.
+<p align="justify">Prioritas budget untuk project ini lebih ditekankan pada kualitas hardware dan requirtment proyek.</p>
 
+3.1.3 kemampuan (Kualitas dan Reusability)
+
+<p align="justify">Projek yang kami buat saat ini mempunyai kelebihan dalam memanajemen pembuatan proyek, 
+karena berbasis Android dan Web. Yang membuat konsumen merasa lebih budah dalam interaksinya.</p>
+ 
 **3.2 Asumsi, Keterkaitan, dan Batasan**
 
-**3.2.1 Asumsi**
+3.2.1 Asumsi
 
-Adapun aplikasi yang sejenis aplikasi manajemen berbasis dekstop, projek yang kami buat membutuhkan unit komputer sebagai media penghubungnya.
+<p align="justify">Adapun aplikasi yang sejenis aplikasi manajemen berbasis Android dan Web, projek yang kami buat membutuhkan unit komputer sebagai media penghubungnya.</p>
 
-**3.2.2 Keterkaitan dan Batasan**
+3.2.2 Keterkaitan dan Batasan
 
-Dalam projek yang kami buat adapun beberapa software desktop yang mendukungnya, seperti xampp sebagai perantara mysql database. namun ada batasannya. 
+Dalam projek yang kami buat adapun beberapa software desktop yang mendukungnya, seperti xampp sebagai perantara mysql database. </p>
 
 **3.3 Manajemen Resiko**
 
-**3.3.1 Dampak Positif**
+3.3.1 Dampak Negatif
 
-A.Resiko          
+![img](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/manajemenresiko.PNG)<br>
 
-1.Estimasi biaya dan waktu yang tidak realitis.
-
-2.Mengembangkan sofware yang salah.
-
-B.Penanganan Resiko
-
-1.Membuat timeline yang jelas untuk pembuatan proyek.
-
-2.Membuat berapa biaya etimasi Desain untuk biaya
-
-3.Merekam dan menganalisa project yang akan dibuat. 
 
 **3.4 Mekanisme Monitoring dan Kontroling**
 
