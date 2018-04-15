@@ -5,7 +5,7 @@
 <p align="center"><b>Version 1.2 </b><br>
 <p align="center">15 April 2018</b>
 <p align="center">
-<img src="https://2.bp.blogspot.com/-dxdRgMQGbLk/WpA-Tp2rNGI/AAAAAAAAAh8/3_jBWFb7Cf48033QvB34D2WCwoN2sxZLgCLcBGAs/s1000/index.png"/>
+![img](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/POLNDRA.png)
 </p>
 
 <br><p align="center"><b> SSAL APPS </b><br>
@@ -127,7 +127,7 @@ Keterkaitan dan Batasan Proyek ini adalah sebagai berikut :
 
 **3.3 Manajemen Resiko**
 
-3.3.1 Dampak Negatif
+Dampak Negatif
 
 ![img](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/manajemenresiko.PNG)<br>
 
