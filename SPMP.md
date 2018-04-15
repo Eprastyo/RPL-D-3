@@ -1,3 +1,4 @@
+
 <html>
 <body>
 <div align="center"><h1> Software Project Management Plan</h1></div>
@@ -44,15 +45,13 @@ Wulandiani 			(1603118) <br> <br> <br>
 
 **1.3 Evolusi SPMP**
 
-<p align="justify"> Dokumen ini dibuat bersifat freeware, jadi siapa saja boleh untuk memanfaatkan 
-dokumen ini untuk hal yang positif. Tentunya ada hal-hal yang tidak boleh dilakukan dalam pemanfaatan
-dokumen ini, misalkan diperjual belikan dokumen ini secara ilegal ataupun mengubah dokumen tanpa ada dasar yang jelas. </p>
+<p align="justify"> Selama proyek, dokumen ini akan diperbarui karena rencana disempurnakan selama proyek. Pembaruan ini akan terbatas pada penyempurnaan lampiran yang berisi perencanaan yang lebih rinci untuk setiap fase. yang memperbarui dokumen ini adalah anggota di proyek ini dan anggota yang terakhir memperbarui dokumen ini dia yang bertanggung jawab atas pembaruan dokumen ini</p>
 
 **1.4 Material Acuan**
 
 <p align="justify">Materi yang menjadi acuan dalam pembuatan projek ini menggunakan standar IEEE, karena menyediakan kerangka kerja yang menggabungkan seluruh spektrum proses siklus hidup perangkat lunak. Dan juga standar IEEE untuk membentuk model yang diakui secara internasional dari kehidupan perangkat lunak umum, siklus proses yang dapat direferensikan oleh industri perangkat lunak diseluruh dunia, untuk mempromosikan pemahaman diantara pihak bisnis dengan aplikasi umum serta mengakui proses, kegiatan dan tugas.</p>
 
-<p align="justify"> IEEE adalah sebuah organisasi profesi nirlaba yang terdiri dari banyak ahli dibidang teknik yang mempromosikan pengembangan standar-standar dan bertindak sebagai pihak yang mempercepat teknologi- teknologi baru dalam semua aspek dalam industry dan rekayasa (engineering), yang mencakup telekomunikasi,  jaringan komputer, kelistrikan, antariksa, dan elektronika. Tujuan inti IEEE adalah mendorong inovasi teknologi dan kesempurnaan untuk kepentingan kemanusiaan.Visi IEEE adalah akan menjadi penting untuk masyarakat teknis global dan professional teknis dimana-mana dan dikenal secara universal untuk kontribusi teknologi dan teknis yang professional dalam meningkatkan kondisi perkembangan global. Standar dalam IEEE adalah mengatur fungsi, kemampuan dan interoperabilitas dari berbagai macam produk dan layanan yang mengubah cara orang hidup, bekerja dan berkomunikasi. </p> 
+Materi yang menjadi acuan untuk Bab 4 Proses teknis adalah **Unified Modeling Language** (**UML**) adalah bahasa spesifikasi standar untuk mendokumentasikan, menspesifikasikan, dan membangun sistem perangkat lunak, UML adalah metodologi untuk mengembangkan sistemOOP dan sekelompok perangkat tool untuk mendukung pengembangan sistem tersebut. UML mulai diperkenalkan oleh Object Management Group, sebuah organisasi yang telah mengembangkan model, teknologi, dan standar OOP sejak tahun 1980-an. Sekarang UML sudah mulai banyak digunakan oleh para praktisi OOP. UML merupakan dasar bagi perangkat (_tool_) desain berorientasi objek dari IBM
 
 **1.5 Definisi dan akronim**
 
@@ -107,32 +106,25 @@ pembuatan proyelk ini. </p>
 
 
 
-### BAB 3 PROSES MANAJERIA
+### BAB 3 PROSES MANAJERIAL
 
 **3.1 Tujuan dan Prioritas Manajemen**
 
-3.1.1 Prioritas Jadwal
+Tujuan manajemen adalah memberikan produk tepat waktu dan berkualitas tinggi. dalam hal ini Ketua proyek dan anggota memeriksa bahwa kemajuan dibuat sesuai rencana dan pemantauan kualitas produk pada berbagai tahap.
 
-<p align="justify">Prioritas jadwal yang dilakukan pada saat ini adalah membuat sistem yang akan dibuat,dokumen   projek, jadwal   kegiatan, struktur pembuatan projek dan organisasi</p>
-
-3.1.2 Budged (Kualitas dan Reusability)
-
-<p align="justify">Prioritas budget untuk project ini lebih ditekankan pada kualitas hardware dan requirtment proyek.</p>
-
-3.1.3 kemampuan (Kualitas dan Reusability)
-
-<p align="justify">Projek yang kami buat saat ini mempunyai kelebihan dalam memanajemen pembuatan proyek, 
-karena berbasis Android dan Web. Yang membuat konsumen merasa lebih budah dalam interaksinya.</p>
- 
 **3.2 Asumsi, Keterkaitan, dan Batasan**
 
-3.2.1 Asumsi
+<p align="justify">Asumsi proyek ini adalah sebagai berikut :
 
-<p align="justify">Adapun aplikasi yang sejenis aplikasi manajemen berbasis Android dan Web, projek yang kami buat membutuhkan unit komputer sebagai media penghubungnya.</p>
+-   Tim terdiri dari 4 orang
+-   Ketersediaan peralatan dan perangkat lunak
+-   Persetujuan dan Perizinan dari mitra</p>
 
-3.2.2 Keterkaitan dan Batasan
+Keterkaitan dan Batasan Proyek ini adalah sebagai berikut :
 
-Dalam projek yang kami buat adapun beberapa software desktop yang mendukungnya, seperti xampp sebagai perantara mysql database. </p>
+-   Biaya
+-   Data - data dari mitra
+- Dalam projek yang kami buat adapun beberapa software desktop yang mendukungnya, seperti xampp sebagai perantara mysql database. Namun ada batasannya, yaitu tidak bisa digunakan secara online.
 
 **3.3 Manajemen Resiko**
 
@@ -143,70 +135,48 @@ Dalam projek yang kami buat adapun beberapa software desktop yang mendukungnya, 
 
 **3.4 Mekanisme Monitoring dan Kontroling**
 
-**3.4.1 Monitoring**
+Pemantauan kemajuan dilakukan oleh semua anggota tim menggunakan cara-cara berikut:
 
-Proses monitoring dilakukan secara tim, adapun proses pelaksanaannya dilakukan setiap satu minggu.
+- Rapat dan pengerjaan dilakukan setiap satu minggu dua kali, Rapat di laksankan setiap hari rabu dan kamis
 
-**3.4.2 Kontroling**
-
-Sedangkan proses dilaksanakan setiap hari jumat, hal ini dilakukan agar hasil kerja proyek dapat dievaluasi pada hari terakhir kerja.
+- Percobaan hasil pengerjaan setiap minggu nya
 
 **3.5 Perencanaan Staff**
 
-​Tabel 3.1 Perencanaan staf
+|         Nama        |   NIM   |            Email           |       Peran       |
+|:-------------------:|:-------:|:--------------------------:|:-----------------:|
+|   Syahrul Gunawan   | 1603113 | 1syahrulgunawan1@gmail.com |    Ketua Proyek   |
+|                     |         |                            | Android Developer |
+|     Eko Prastyo     | 1603096 |   eekoprastyoo@gmail.com   |   Web Developer   |
+| Tuti Nurafni Amalia | 1603116 |   1afniamalia1@gmail.com   |     Seketaris     |
+|      Wulandiani     | 1603118 |   wulandiani04@gmail.com   |      Designer     |
 
-ketua : Syahrul Gunawan (1603113)
-Anggota : 
-1. Eko Prastyo (1603096)
-2. Tuti Nurafni Amallia (1603116)
-3. Wulan Diani (1603118)
+### BAB 4 PROSES TEKNIS
 
-<div align="center">
-<b>BAB 4<br>
-​METODE,TOOLS,DAN TEKNIK</b>
-</div>
+**4.1 Metoda, Tools, dan Teknik**
 
-**4.1 Metoda**
+-	Metoda 
 
-Menguunakan Metoda standart UML ( Unified modeling Language ) digunakan untuk mendesain rancangan sistem dari aplikasi 
+Kami Mengunakan Metoda standart UML ( Unified modeling Language ) digunakan untuk mendesain rancangan sistem dari aplikasi 
 
-**4.1.1 Perangkat Keras**
+- Tools
+	1.	Perangkat Keras
+		- Laptop/Komputer
+		-	Perangkat smartphone        
 
-​            1. Laptop
+	2. Perangkat Lunak
 
-​            2. Perangkat smartphone        
+		-	Android studio
 
-**4.1.2 Perangkat Lunak**
+		- Sublime text
 
-1.Android studio
+		- Xampp
 
-2.Sublime text
+		- Web browser
+		
+- Teknik
 
-3.Xampp
-
-4.Web browser
-
-Android studio adalah lingkungan pengembangan terpadu
-
-Integrated Development Environment (IDE) untuk pengembangan aplikkasi Android, berdasarkan Intelli J IDEA . Selain merupakan editor kode Intelli J dan alat pengembang yang berdaya guna, Android Studio menawarkan fitur lebih banyak untuk meningkatkan produktivitas  saat membuat aplikasi android , Misalnya :
-
-1.Sistem versi berbasis Gradle yang fleksible 
-
-2.Emulator yang cepat dan kaya fitur
-
-3.Lingkungan yang menyatu untuk pengembangan bagi semua perangkat Android
-
-4.Instant Run untuk mendorong perubahan ke aplikasi yang berjalan tanpa membuatAPK baru
-
-5.Template kode dan integrasi GitHub untuk membuat fitur aplikasi yang sama dan mengimpor kode contoh
-
-6.Alat pengujian dan kerangka kerja yang ekstensif
-
-7.Alat Lint untuk meningkatkan kinerja, kegunaan, kompatibilitas versi, dan masalah-masalah lain
-
-8.Dukungan C++ dan NDK
-
-9.Dukungan bawaan untuk Google Cloud Platform, mempermudah pengintegrasian Google Cloud Messaging dan App Engine
+Teknik yang digunakan adalah pemrograman berbasis objek
 
 **4.2 Dokumentasi Perangkat Lunak**
 
@@ -216,95 +186,73 @@ Integrated Development Environment (IDE) untuk pengembangan aplikkasi Android, b
 
 Kami membutuhkan technical support di bagian desain project. Kami membutuhkan technical support di bagian coding program sebanyak 2 orang. Kami membutuhkan specialist di bagian database sebanyak 1 orang.
 
-<div align="center">
-<b>BAB 5<br>
-​PAKET PEKERJAAN,JADWAL,DAN BUDGET</b>
-</div>
+### BAB 5 PAKET PEKERJAAN,JADWAL,DAN BUDGET
 
 **5.1 Paket pekerjaan**
 
-| Nama                | Paket Pekerjaan        |
-|---------------------|------------------------|
-| Syahrul Gunawan     | Code Program (Android) |
-| Eko Prastyo         | Code Program (Web)     |
-| Tuti Nurafni Amalia | Document               |
-| Wulan Diani         | Desain                 |
+| NO |         Nama        |                Peran               |    Modul   | Rincian Pekerjaan                                                     |
+|:--:|:-------------------:|:----------------------------------:|:----------:|-----------------------------------------------------------------------|
+|  1 |   Syahrul Gunawan   | Ketua proyek dan Android developer | Otentikasi | Membuat Login pada mobile untuk calon pemesan lapangan                |
+|    |                     |                                    |  Pemesanan | Membuat pemesanan lapangan pada mobile untuk calon pemesan lapangan   |
+|    |                     |                                    |  Transaksi | Membuat Transaksi pembayaran pemesanan lapangan                       |
+|  2 |     Eko Prastyo     |            Web developer           |  Lapangan  | Membuat CRUD data lapangan dan interface nya pada web                 |
+|    |                     |                                    | Otentikasi | Membuat Login pada Web Operator atau Admin dan interface nya pada web |
+|    |                     |                                    | Otentikasi | CRUD data pelanggan dan interface nya pada web                        |
+|    |                     |                                    | Pemesanan  | CRUD data pemesanan dan interface nya pada web                        |
+|    |                     |                                    | Transaksi  | Membuat konfirmasi pembayaran lapangan dan interface nya pada web     |
+|    |                     |                                    | Laporan    | Membuat laporan transaksi dan pemesanan dan interface nya pada web    |
+| 3  | Tuti Nurafni Amalia | Sekertaris                         | Otentikasi | Membuat Register pada mobile untuk calon pemesan lapangan             |
+|    |                     |                                    | Lapangan   | Menampilkan jadwal lapangan pada mobile                               |
+| 4  | Wulandiani          | Designer                           | Lapangan   | Membuat interface jadwal lapangan pada mobile                         |
+|    |                     |                                    | Otentikasi | Membuat interface Login dan Register pada mobile                      |
+|    |                     |                                    | Pemesanan  | Membuat interface pemesanan lapangan pada mobil                       |
+|    |                     |                                    | Transaksi  | Mmebuat interface pembayaran lapangan pada mobile                     |
 
 **5.2 Ketergantungan dan Keterkaitan**
 
 ​            Dalam proses pengerjaan proyek yang kami buat ini,keterkaitan dari tugas masing-masing saling membantu agar terbentuknya ketelitian saat mengerjakan dan mendapatkan hasil yang bagus. Berikut adalah perinciaannya.
 
-​Tabel 5.1 Ketergantungan dan Keterkaitan
+| From | To | Kaitan |
+| ----------- | --------- | ---------- |  
+| Manager     | Anggota | Dimana manager menjadi pengawas dari anggota-anggotanya bilamana saat anggota lalai dengan tugas-tugasnya manager berhak menegur dan bagi anggota tidak berhak melawan jika ditegur, dan untuk manager sendiri tidak berhak semena-mena dengan jabatanya. |
+| Programmer  | Analysis | Dikala programmer melakukan kesalahan dalam mengkoding, analisis memiliki tanggung jawab untuk mengecek kesalahan koding-koding yg dilakukan programmer. |
+| Analysis    | Programmer | Betugas untuk memberi gambaran projek dan alur pengkodingan pada programmer.|
+| Design      | Programmer | Bertugas mendesain tampilan aplikasi yang dapat menarik konsumen saat aplikasi dirilis. |
 
-kebutuhan ketertarikan : 
-1. Penentuan ide dan rumusan masalah 
-2. pembuatan rancangan sistem
-3. pembuatan sistem aplikasi Website
-4. pembuatan sistem aplikasi Android
-5. implementasi
-6. perbaikan
-7. laporan 
+**5.3 Kebutuhan-kebutuhan sumber daya**
 
-
-**5.3 Kebutuhan Sumber Daya**
-
-Tabel 5.2 Kebutuhan Software
-
-| **No.** | **Jenis Software** | **Kebutuhan Software**        |
-| :-----: | ------------------ | ---------------------------- |
-|    1    | Sistem  Operasi    | Windows  8 or Higher         |
-|    2    | Bahasa Pemrograman | Java,HTML,PHP                |
-|    3    | Software Pengolah  | Android studio,Sublime  Text |
-|    4    | Database Engine    | Xampp                        |
-
- 
-
-​Tabel 5.3 Kebutuhan Hardware
-
-| **No.** | **Jenis  Hardware**  | **Kebutuhan Hardware**     |
-| ------- | -------------------- | -------------------------- |
-| 1       | Processor            | Minimal  Core i3 or Higher |
-| 2       | Memory(RAM)          | Minimal 4 GB or Higher     |
-| 3       | Penyimpanan(Hardisk) | 50 GB free space           |
-| 4       | Layar(Monitor)       | Resolusi 1240 x 768 colors |
-| 5       | Keyboard             | Compatible with Windows    |
-| 6       | Mouse                | Compatible with Windows    |
+| Sumber Daya | Jenis Kebutuhan | Alasan |
+| ----------- | --------- | ---------- | 
+| Sumber Daya Manusia | 4 Orang anggota pekerja projek | Mengajukan jumlah tersebut dikarenakan agar keseimbangan antara pengerjaan projek, dokumen-dokumen dan pencarian masukan dari pasar, dengan demikian kita dapat mempercepat proses pekerjaan projek. |
+| Sumber Daya Software | Android Studio | Pengajuan software android studio dikarenakan pengerjaan projek menggunakan bahasa pemrograman Java dan agar pengerjaan jauh lebih efisien. |
+| | MySql Phpmyadmin | Menggunakan software ini di gunakan untuk pembuatan database untuk mengaktifkan projeknya. |
+| | JDK dan plugin-pluginnya | Digunakan untuk pembuatan sistem capturing images. |
+|| Sublime Text 3| Digunakan untuk merancang web admin |
+| Sumber Daya Hardware | Perangkat Komputer | Perangkat induk yang di gunakan dalam pengerjaan projek. |
+| | Mobile | Perangkat yang digunakan untuk uji coba aplikasi. |
 
 **5.4 Alokasi Budget dan Sumber Daya**
 
 Berikut adalah rincian biaya yang diperlukan untuk pengerjaan proyek kami, dapat dilihat pada tabel dibawah ini.
 
-**5.4.1 Estimasi Biaya Software**
-
-Tabel 5.4 Biaya Software
-
-| **No.** | **Kebutuhan Software**  | **Biaya**       |
-| ------- | ------------------- | --------------- |
-| 1       | Windows 8 or Higher | Rp. 1.100.000,- |
-| 2       | Android Studio      | Rp. 750.000,-   |
-| 3       | Sublime Text        | Rp. 500.000,-   |
-| 4       | Xampp               | Rp. 500.000,-   |
-
-**5.4.2 Estimasi Biaya Hardware**
-
-Tabel 5.5 Biaya hardware
-
-| **No.** | **Jenis Hardware** | **Kebutuhan Hardware**                              | **Biaya**       |
-| ------- | ------------------ | ----------------------------------------------- | --------------- |
-| 1       | Komputer           | Minimal  Core i3 or     Higher                  | Rp. 7.000.000,- |
-|         |                    | Minimal 2 GB or Higher                          |                 |
-|         |                    | 4 GB free space                                 |                 |
-|         |                    | Layar (monitor)  Resolusi     1240 x 768 colors | Rp. 1.200.000,- |
-|         |                    | Keyboard                                        | Rp. 50.000,-    |
-|         |                    | Mouse                                           | Rp. 30.000,-    |
-
-
+| No | Keterangan                                  | Satuan  | Jumlah | Harga           | Total Harga      |
+|----|---------------------------------------------|---------|--------|-----------------|------------------|
+| 1  | Windows 8 or Higher                         | Bh      | 1      | Rp. 1.100.000,- | Rp. 1.100.000,-  |
+| 2  | Android Studio                              | Bh      | 1      | Rp. 750.000,-   | Rp. 750.000,-    |
+| 3  | Sublime Text                                | Bh      | 1      | Rp. 500.000,-   | Rp. 500.000,-    |
+| 4  | XAMPP                                       | Bh      | 1      | Rp. 500.000,-   | Rp. 500.000,-    |
+| 5  | Komputer Minimal,Core i3, RAM 4GB, HDD 80GB | Unit    | 1      | Rp. 7.000.000,- | Rp. 7.000.000,-  |
+| 6  | Konsumsi                                    | Bungkus | 90     | Rp. 20.000,-    | Rp. 1.800.000,-  |
+| 7  | Transportasi                                | Liter   | 4      | Rp. 30.000,-    | Rp. 120.000,-    |
+| 8  | Gaji Ketua                                  | bulan   | 1      | Rp. 200.000,-   | Rp. 200.000,-    |
+| 9  | Anggota                                     | bulan   | 3      | Rp. 150.000,-   | Rp. 450.000,-    |
+|    |                                             |         |        | Total Biaya     | Rp. 12.500.000,- |
+|    |                                             |         |        |                 |                  |
 
  5.5 Jadwal
 
 Untuk menyelesaikan aplikasi pemesanan lapangan futsal ini diperlukan waktu kurang lebih 4 bulan. Dimana rincian jadwal kerja pembuatan aplikasi ini dapat dilihat pada tabel estimasi kerja berikut:
 
-Tabel 5.6 Jadwal Perbulan
 
 | No | Kegiatan                  | Februari |    |     |    | Maret |    |     |    | April |    |     |    | Mei |    |     |    |
 |----|---------------------------|----------|----|-----|----|-------|----|-----|----|-------|----|-----|----|-----|----|-----|----|
@@ -319,27 +267,3 @@ Tabel 5.6 Jadwal Perbulan
 | 8  | Penyusunan Laporan        |          |    |     |    |       |    |     |    |       |    |     |    |     | *  |     |    |
 | 9  | Presentasi                |          |    |     |    |       |    |     |    |       |    |     |    |     |    | *   |    |
 | 10 | Revisi Laporan            |          |    |     |    |       |    |     |    |       |    |     |    |     |    |     | *  |
-
-
-Tabel 5.7 Jadwal Perminggu
-
-| No | Keterangan                                              | Minggu |   |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
-|----|---------------------------------------------------------|--------|---|---|---|---|---|---|---|---|----|----|----|----|----|----|----|
-|    |                                                         | 1      | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
-| 1  | Penyusunan proposal dan mencari mitra                   | *      | * |   |   |   |   |   |   |   |    |    |    |    |    |    |    |
-| 2  | Perancangan Aplikasi                                    |        |   | * |   |   |   |   |   |   |    |    |    |    |    |    |    |
-| 3  | Perancangan Database                                    |        |   | * |   |   |   |   |   |   |    |    |    |    |    |    |    |
-| 4  | Membuat model tampilan                                  |        |   |   | * |   |   |   |   |   |    |    |    |    |    |    |    |
-| 5  | Menyusun Database                                       |        |   |   |   | * |   |   |   |   |    |    |    |    |    |    |    |
-| 6  | Membuat form login                                      |        |   |   |   | * |   |   |   |   |    |    |    |    |    |    |    |
-| 7  | Mencoba dihubungkan dengan database dan input pemesanan |        |   |   |   |   | * |   |   |   |    |    |    |    |    |    |    |
-| 8  | Membuat form input data pemesan                         |        |   |   |   |   |   | * |   |   |    |    |    |    |    |    |    |
-| 9  | Mengecek jumlah pemesan di database                     |        |   |   |   |   |   |   | * |   |    |    |    |    |    |    |    |
-| 10 | Membuat tampilan untuk menampilkan jumlah pemesan       |        |   |   |   |   |   |   |   | * |    |    |    |    |    |    |    |
-| 11 | Membuat bentuk laporan pemesanan                        |        |   |   |   |   |   |   |   |   | *  |    |    |    |    |    |    |
-| 12 | Menambahkan fungsi dapat mencetak laporan pemesanan     |        |   |   |   |   |   |   |   |   |    | *  |    |    |    |    |    |
-| 13 | Mencoba keseluruhan fungsi-fungsi aplikasi              |        |   |   |   |   |   |   |   |   |    |    | *  |    |    |    |    |
-| 14 | Menambahkan fitur lupa password                         |        |   |   |   |   |   |   |   |   |    |    |    | *  |    |    |    |
-| 15 | Menguji kembali fitur-fitur dalam aplikasi              |        |   |   |   |   |   |   |   |   |    |    |    |    | *  |    |    |
-| 16 | Memperbaiki Apabila terjadi kesalahan                   |        |   |   |   |   |   |   |   |   |    |    |    |    |    | *  |    |
-| 17 | Membuat Laporan                                         |        |   |   |   |   |   |   |   |   |    |    |    |    |    |    | *  |
