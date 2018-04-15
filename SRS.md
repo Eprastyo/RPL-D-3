@@ -63,6 +63,7 @@ Produk ini memiliki fungsi pemesanan lapangan futsal melalui mobile apps. Penggu
 **2.1.1 Antarmuka sistem**  
  
 ![img](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/Antarmuka%20Sistem.png)
+
 Bagian sistem aplikasi untuk sisi user menggunakan mobile apps yang bisa menampilkan menu daftar dan login sebagai autentifikasi awal masuk ke sistem, kemudian bisa menampilkan form pemesanan lapangan kepada calon pelanggan, selanjutnya sistem mampu menampilkan daftar lapangan yang tersedia dan belum dipesan atau kosong. Disamping itu sistem memliki fitur tampilan bukti pemesanan yang dapat dicetak oleh calon pelanggan kemudian mampu mengirim bukti pembayaran ke server.  
   
 Bagian sistem aplikasi untuk sisi admin menggunakan web apps. Sistem mampu menampilkan tampilan login admin. Kemudian menampilkan fitur manipulasi data lapangan dan tarif, kemudian memiliki fitur menampilkan konfirmasi pembayaran,selanjutnya sistem mampu menampilkan daftar pelanggan yang memesan. Disamping itu sistem melakukan transaksi pemesanan lapangan.  
@@ -162,6 +163,11 @@ Bagian sistem aplikasi untuk sisi admin menggunakan web apps. Sistem mampu menam
 		</tr>
 		</table>
 
+  **2.1.3 Antarmuka perangkat keras**  
+  
+![img3](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/Antarmuka%20perangkat%20keras.PNG)
+  
+Antarmuka perangkat keras calon pemesan menggunakan device smartphone android untuk bisa memesan pertama kali device harus terhubung ke internet kemudian membuka aplikasi sistem maka terhubung ke server. Kemudian antarmuka perangkat keras admin menggunakan device computer atau laptop dan pastikan terhubung dengan internet selanjutnya buka website sistem admin.
   
 **2.1.4 Antarmuka perangkat lunak**  
   
@@ -323,10 +329,7 @@ Batasan-batasan yang digunakan pada pengembangan perangkat lunak ini adalah :
 **2.6 Asumsi-asumsi dan ketergantungan/keterkaitan**  
   
   
-<div align="center">  
-BAB 3<br>  
-PERSYARATAN KEBUTUHAN  
-</div>  
+### BAB 3 PERSYARATAN KEBUTUHAN 
   
 **3.1 Persyaratan antarmuka eksternal**  
   
