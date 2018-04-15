@@ -47,7 +47,9 @@ Aplikasi SSAL Pemesanan Lapangan Futsal ini adalah aplikasi berbasis android yan
 **1.4 Referensi**  
   
 [1]IEEE Software Engineering Standards Committee, IEEE Std 830-1998, IEEERecommended  
+
 [2]https://en.wikipedia.org/wiki/SDD
+
 [3]https://yohanesgunawan.files.wordpress.com/2007/10/sdd-aeromodeling-store_final.pdf  
     
 **1.5 Ikhtisar Dokumen**  
