@@ -199,7 +199,8 @@ Kami membutuhkan technical support di bagian desain project. Kami membutuhkan te
 | 4  | Wulandiani          | Designer                           | Lapangan   | Membuat interface jadwal lapangan pada mobile                         |
 |    |                     |                                    | Otentikasi | Membuat interface Login dan Register pada mobile                      |
 |    |                     |                                    | Pemesanan  | Membuat interface pemesanan lapangan pada mobil                       |
-|    |                     |                                    | Transaksi  | Mmebuat interface pembayaran lapangan pada mobile                     |
+|    |                     |                                    | Transaksi  | Mmebuat interface pembayaran lapangan pada mobile                 
+
 
 **5.2 Ketergantungan dan Keterkaitan**
 
