@@ -4,7 +4,7 @@
 <div align="center"><h1> Software Project Management Plan</h1></div>
 
 <p align="center"><b>Version 1.2 </b><br>
-<p align="center">11 April 2018</b>
+<p align="center">15 April 2018</b>
 <p align="center">
 <img src="https://2.bp.blogspot.com/-dxdRgMQGbLk/WpA-Tp2rNGI/AAAAAAAAAh8/3_jBWFb7Cf48033QvB34D2WCwoN2sxZLgCLcBGAs/s1000/index.png"/>
 </p>
@@ -253,17 +253,4 @@ Berikut adalah rincian biaya yang diperlukan untuk pengerjaan proyek kami, dapat
 
 Untuk menyelesaikan aplikasi pemesanan lapangan futsal ini diperlukan waktu kurang lebih 4 bulan. Dimana rincian jadwal kerja pembuatan aplikasi ini dapat dilihat pada tabel estimasi kerja berikut:
 
-
-| No | Kegiatan                  | Februari |    |     |    | Maret |    |     |    | April |    |     |    | Mei |    |     |    |
-|----|---------------------------|----------|----|-----|----|-------|----|-----|----|-------|----|-----|----|-----|----|-----|----|
-|    |                           | I        | II | III | IV | I     | II | III | IV | I     | II | III | IV | I   | II | III | IV |
-| 1  | Identifikasi Masalah      | *        | *  | *   |    |       |    |     |    |       |    |     |    |     |    |     |    |
-| 2  | Analisis Kebutuhan Sistem |          |    |     | *  | *     | *  |     |    |       |    |     |    |     |    |     |    |
-| 3  | Survey                    |          | *  |     |    |       |    |     |    |       |    |     |    |     |    |     |    |
-| 4  | Membuat Proyek            |          |    |     | *  | *     | *  | *   | *  | *     | *  | *   |    |     |    |     |    |
-| 5  | Uji Aplikasi              |          |    |     |    |       |    |     |    |       |    |     | *  |     |    |     |    |
-| 6  | Revisi Aplikasi           |          |    |     |    |       |    |     |    |       |    |     | *  |     |    |     |    |
-| 7  | Implementasi Aplikasi     |          |    |     |    |       |    |     |    |       |    |     |    | *   |    |     |    |
-| 8  | Penyusunan Laporan        |          |    |     |    |       |    |     |    |       |    |     |    |     | *  |     |    |
-| 9  | Presentasi                |          |    |     |    |       |    |     |    |       |    |     |    |     |    | *   |    |
-| 10 | Revisi Laporan            |          |    |     |    |       |    |     |    |       |    |     |    |     |    |     | *  |
+![img](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/jadwal.PNG)
