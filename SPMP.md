@@ -1,4 +1,3 @@
-
 <html>
 <body>
 <div align="center"><h1> Software Project Management Plan</h1></div>
@@ -49,7 +48,7 @@ Wulandiani 			(1603118) <br> <br> <br>
 
 **1.4 Material Acuan**
 
-<p align="justify">Materi yang menjadi acuan dalam pembuatan projek ini menggunakan standar IEEE, karena menyediakan kerangka kerja yang menggabungkan seluruh spektrum proses siklus hidup perangkat lunak. Dan juga standar IEEE untuk membentuk model yang diakui secara internasional dari kehidupan perangkat lunak umum, siklus proses yang dapat direferensikan oleh industri perangkat lunak diseluruh dunia, untuk mempromosikan pemahaman diantara pihak bisnis dengan aplikasi umum serta mengakui proses, kegiatan dan tugas.</p>
+<p align="justify">Materi yang menjadi acuan dalam pembuatan proyek ini menggunakan standar IEEE, karena menyediakan kerangka kerja yang menggabungkan seluruh spektrum proses siklus hidup perangkat lunak. Dan juga standar IEEE untuk membentuk model yang diakui secara internasional dari kehidupan perangkat lunak umum, siklus proses yang dapat direferensikan oleh industri perangkat lunak diseluruh dunia, untuk mempromosikan pemahaman diantara pihak bisnis dengan aplikasi umum serta mengakui proses, kegiatan dan tugas.</p>
 
 Materi yang menjadi acuan untuk Bab 4 Proses teknis adalah **Unified Modeling Language** (**UML**) adalah bahasa spesifikasi standar untuk mendokumentasikan, menspesifikasikan, dan membangun sistem perangkat lunak, UML adalah metodologi untuk mengembangkan sistemOOP dan sekelompok perangkat tool untuk mendukung pengembangan sistem tersebut. UML mulai diperkenalkan oleh Object Management Group, sebuah organisasi yang telah mengembangkan model, teknologi, dan standar OOP sejak tahun 1980-an. Sekarang UML sudah mulai banyak digunakan oleh para praktisi OOP. UML merupakan dasar bagi perangkat (_tool_) desain berorientasi objek dari IBM
 
@@ -96,7 +95,7 @@ pembuatan proyelk ini. </p>
 
 | No | Tugas      |                                                                                                                                                                                                    Tanggung Jawab                                                                                                                                                                                                   |
 |----|------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| 1  | Manager    | Manager adalah seseorang mempunyai tanggung jawab dan tugas yang besar dalam sebuah tim, tidak hanya terfokus pada hal-hal yang teknis sifatnya. Manager  juga harus mampu memajemen tim dengan baik, agar target projek dapat tercapai. Selain itu memberi pengarahan, memonitoring kinerja tim, serta serta membagi tugas juga bagian tanggung jawab dari seorang manager.                                        |
+| 1  | Manager    | Manager adalah seseorang mempunyai tanggung jawab dan tugas yang besar dalam sebuah tim, tidak hanya terfokus pada hal-hal yang teknis sifatnya. Manager  juga harus mampu memajemen tim dengan baik, agar target proyek dapat tercapai. Selain itu memberi pengarahan, memonitoring kinerja tim, serta serta membagi tugas juga bagian tanggung jawab dari seorang manager.                                        |
 | 2  | Sekertaris | Sekertaris adalah orang yang bertanggung jawab terhadap peraturan , pembuatan dan rekam jejak segala jenis dokumen yang terlibat dalam proyek.                                                                                                                                                                                                                                                                      |
 | 3  | Analisis   | Banyak hal yang harus dilakukan oleh seorang sistem analis, terutama yang berkaitan dengan pemecahan masalah. Seorang sistem analis harus mampu menganalisa segala kemungkinan dari pemasalahan yang ada, dan dapat mengasilkan solusi yang tepat dari permasalahan tersebut. Menentukan sistem yang tepat merupakan bagian dari tugas seorang sistem analis, sehingga kinerja tim dapat berjalasan secara efesien. |
 | 4  | Programmer | Dalam hal ini, seorang programer bertugas untuk mengimplementasikan dari sistem yang sudah dirancang didesain. Programmer dituntut dapat menuliskan code program dengan baik, dan efesien. Hal ini dimaksudakan untuk menghindari terjadinya banyak error dalam proses implementasinya.                                                                                                                             |
@@ -124,7 +123,7 @@ Keterkaitan dan Batasan Proyek ini adalah sebagai berikut :
 
 -   Biaya
 -   Data - data dari mitra
-- Dalam projek yang kami buat adapun beberapa software desktop yang mendukungnya, seperti xampp sebagai perantara mysql database. Namun ada batasannya, yaitu tidak bisa digunakan secara online.
+- Dalam proyek yang kami buat adapun beberapa software desktop yang mendukungnya, seperti xampp sebagai perantara mysql database. Namun ada batasannya, yaitu tidak bisa digunakan secara online.
 
 **3.3 Manajemen Resiko**
 
@@ -216,19 +215,19 @@ Kami membutuhkan technical support di bagian desain project. Kami membutuhkan te
 | ----------- | --------- | ---------- |  
 | Manager     | Anggota | Dimana manager menjadi pengawas dari anggota-anggotanya bilamana saat anggota lalai dengan tugas-tugasnya manager berhak menegur dan bagi anggota tidak berhak melawan jika ditegur, dan untuk manager sendiri tidak berhak semena-mena dengan jabatanya. |
 | Programmer  | Analysis | Dikala programmer melakukan kesalahan dalam mengkoding, analisis memiliki tanggung jawab untuk mengecek kesalahan koding-koding yg dilakukan programmer. |
-| Analysis    | Programmer | Betugas untuk memberi gambaran projek dan alur pengkodingan pada programmer.|
+| Analysis    | Programmer | Betugas untuk memberi gambaran proyek dan alur pengkodingan pada programmer.|
 | Design      | Programmer | Bertugas mendesain tampilan aplikasi yang dapat menarik konsumen saat aplikasi dirilis. |
 
 **5.3 Kebutuhan-kebutuhan sumber daya**
 
 | Sumber Daya | Jenis Kebutuhan | Alasan |
 | ----------- | --------- | ---------- | 
-| Sumber Daya Manusia | 4 Orang anggota pekerja projek | Mengajukan jumlah tersebut dikarenakan agar keseimbangan antara pengerjaan projek, dokumen-dokumen dan pencarian masukan dari pasar, dengan demikian kita dapat mempercepat proses pekerjaan projek. |
-| Sumber Daya Software | Android Studio | Pengajuan software android studio dikarenakan pengerjaan projek menggunakan bahasa pemrograman Java dan agar pengerjaan jauh lebih efisien. |
-| | MySql Phpmyadmin | Menggunakan software ini di gunakan untuk pembuatan database untuk mengaktifkan projeknya. |
+| Sumber Daya Manusia | 4 Orang anggota pekerja proyek | Mengajukan jumlah tersebut dikarenakan agar keseimbangan antara pengerjaan proyek, dokumen-dokumen dan pencarian masukan dari pasar, dengan demikian kita dapat mempercepat proses pekerjaan proyek. |
+| Sumber Daya Software | Android Studio | Pengajuan software android studio dikarenakan pengerjaan proyek menggunakan bahasa pemrograman Java dan agar pengerjaan jauh lebih efisien. |
+| | MySql Phpmyadmin | Menggunakan software ini di gunakan untuk pembuatan database untuk mengaktifkan proyeknya. |
 | | JDK dan plugin-pluginnya | Digunakan untuk pembuatan sistem capturing images. |
 || Sublime Text 3| Digunakan untuk merancang web admin |
-| Sumber Daya Hardware | Perangkat Komputer | Perangkat induk yang di gunakan dalam pengerjaan projek. |
+| Sumber Daya Hardware | Perangkat Komputer | Perangkat induk yang di gunakan dalam pengerjaan proyek. |
 | | Mobile | Perangkat yang digunakan untuk uji coba aplikasi. |
 
 **5.4 Alokasi Budget dan Sumber Daya**
