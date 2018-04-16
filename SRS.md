@@ -204,11 +204,11 @@ Sebuah aplikasi web berkomunikasi dengan perangkat lunak client melalui HTTP. HT
    
 **2.2 Spesifikasi kebutuhan Fungsional**  
   
-​ A. Usecase admin  
+A. Usecase admin <br>  
   
 ![](https://lh3.googleusercontent.com/-hgIXjw99-WY/WrK3akXSV7I/AAAAAAAAAKE/OWeRuaU9i_kSMU3b8sjcPnpluLW9PfvgACL0BGAs/w530-d-h431-n-rw/Use+Case+Admin.png)  
   
-B. Usecase calon pelanggan 
+B. Usecase calon pelanggan <br>
 ![](https://lh3.googleusercontent.com/-Vlo5snIVF6Y/WrK8QKFtiAI/AAAAAAAAALk/Msd2KO--qek-wooeuTxpGMHzn3V3doWCQCL0BGAs/w530-d-h441-n-rw/Use+Case+Member.png)  
   
 **2.2.1 Login Admin**  
