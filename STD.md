@@ -34,6 +34,7 @@ Dokumen ini digunakan sebagai panduan untuk melakukan pengujian terhadap perangk
 Perangkat lunak yang akan diuji adalah “Pemesanan Lapangan Futsal SSAL APPS”. Perangkat lunak ini adalah perangkat lunak yang digunakan untuk melakukan transaksi pemesanan lapangan futsal di Satria Shintia Futsal. Sistem ini diimplementasikan melalui komunikasi di media antara sesama pengguna dengan sistem.
 
 **1.3 Deskripsi Dokumen (Ikhtisar)**
+
 Dalam dokumen ini berisi 3 bagian utama yaitu Pendahuluan, Identifikasi dan Rencana Pengujian, Deskripsi dan Uji Hasil.
 
 **1.4 Definisi dan Singkatan**
@@ -54,20 +55,20 @@ Dalam dokumen ini berisi 3 bagian utama yaitu Pendahuluan, Identifikasi dan Renc
 **2.1 Perangkat Lunak Pengujian**
 
 Perangkat lunak ini (SPEK) diujikan dengan beberapa perangkat lunak lain, yaitu:
-- Sistem operasi: Windows 7
+- Sistem operasi: Windows 8
 - Bahasa pemrograman: PHP
 - Data base: XAMPP
 
 **2.2 Perangkat Keras Pengujian**
 
-Perangkat keras yang diperlukan untuk menguji aplikasi SPEK ini adalah satu set komputer dengan spesifikasi:
+Perangkat keras yang diperlukan untuk menguji aplikasi SPEK ini adalah satu set komputer dengan minimal spesifikasi:
 - Processor: Intel® Pentium Dual Core
 - Memory: 2 GB DDR3
 - Harddisk 100 GB
 
 **2.3 Material Pengujian**
 
-Pada program “Sistem Pentiketan Elektronik Konser” ini seorang pengunjung web dapat melakukan pendaftaran pembelian tiket tanpa melalui admin. Admin sendiri dapat memanipulasi data pengunjung. Pengunjung dapat langsung membeli tiket dengan memasukkan nomor Id yang di dapat saat pendaftaran, nomor Id tersebut dapat di minta kepada admin secara lisan. Setelah mengetahui Id tersebut pengunjung dapat memilih artis yang ingin ditonton oleh pengunjung tersebut. Pengunjung dapat mengetikkan harga tiket yang akan dibayarkan sesuai dengan harga yang tertera. Setelah itu pengunjung dapat mencetak bukti pembayaran dan menyerahkan ke petugas konser.
+Pada program “Pemesanan Lapangan Futsal SSAL APPS” ini seorang calon pemesan dapat melakukan pendaftaran dan pemesanan lapangan tanpa melalui admin. Admin sendiri dapat memanipulasi data pembayaran. Pelanggan dapat langsung memesan lapangan futsal dengan masuk ke menu pemesanan lapangan yang ada di menu utama. Pelanggan melakukan pembayaran setelah memesan lapangan. Setelah pelanggan melakukan pembayaran maka si admin akan mengkonfirmasi pembayaran tersebut setelah si admin mengkonfirmasi pembayaran maka si pelanggan bisa melakukan mencetak bukti pembayaran dan menyerahkan ke petugas futsal.
 
 **2.4 Sumber Daya Manusia**
 
