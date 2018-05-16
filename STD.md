@@ -50,8 +50,8 @@ Dalam dokumen ini berisi 3 bagian utama yaitu Pendahuluan, Identifikasi dan Renc
 - Sistem Pentiketan Elektronik Konser.2013. Spesifikasi Kebutuhan Perangkat Lunak (SKPL)SPEK. Bogor.
 - Sistem Pentiketan Elektronik Konser.2013. Dokumen Perancangan Perangkat Lunak (DPPL)SPEK. Bogor.
 
-###  BAB 2 Lingkungan Pengujian Perangkat Lunak
-
+###  BAB 2. LINGKUNGAN PENGUJIAN PERANGKAT LUNAK
+ 
 **2.1 Perangkat Lunak Pengujian**
 
 Perangkat lunak ini (SPEK) diujikan dengan beberapa perangkat lunak lain, yaitu:
@@ -98,3 +98,129 @@ Perangkat keras yang perlu dipesiapkan adalah : Sebuah perangkat komputer yang d
 **2.5.2.3 Persiapan Perangkat Lunak**
 
 Persiapan yang harus dilakukan untuk menyiapkan perangkat lunak untuk diuji di lingkungan sistem operasi Microsoft Windows 7 adalah sebagai berikut : 1. Persiapkan sistem operasi Microsoft Windows. 2. Perangkat lunak yang akan di uji di copy ke sebuah direktori, misalnya C:\XAMPP\htdocs. 3. Browser Google Chrome. 4. Database di import ke phpMyAdmin di database db_konser. 5. Adobe Dreamweaver atau notepad ++ untuk melihat source code.
+
+### BAB 3. IDENTIFIKASI DAN RENCANA PENGUJIAN 
+
+<table>  
+	<thead>  
+<tr>
+	<td rowspan="2" align="center"><strong>Kelas Uji</td>
+	<td rowspan="2" align="center"><strong>Butir Uji </td>
+	<td colspan="2" align="center"><strong>Identifikasi</td>
+	<td rowspan="2" align="center"><strong>Jenis Pengujian</td>
+	<td rowspan="2" align="center"><strong>Teknik Pengujian</td>
+	<td rowspan="2" align="center"><strong>Penguji</td>
+</tr>
+		<tr>
+			<td align="center"><strong>SRS/SDD</td>
+			<td align="center"><strong>SPMP</td>
+		</tr>
+<tr>
+	<td rowspan="2" align="center"><strong>Login Customer</td>
+	<td>Data user-id dan password benar</td>
+	<td></td>
+	<td></td>
+	<td>sistem</td>
+	<td>black box</td>
+	<td>wulan</td>
+<tr>
+	<td>Data user-id dan password salah</td>
+	<td>--------</td>
+	<td></td>
+	<td>sistem</td>
+	<td>black box</td>
+	<td>wulan</td>
+</tr>
+
+</thead>  
+</table>
+
+
+### BAB 4. DESKRIPSI DAN HASIL UJI
+
+<table>  
+	<thead> 
+		<tr>
+			<td rowspan="1"><strong>Identifikasi</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Nama Butir Uji</td>
+			<td colspan="3">Login Customer dengan data user-id dan password benar</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tujuan</td>
+			<td colspan="3">untuk mengecek apakah user sudah </td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Kondisi Awal</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tanggal Pengujian</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Penguji</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Skenario</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>1.Ketikkan email dan password</li>
+					<li>2.Tekan button login</li>
+				</ul>
+</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Hasil</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Data yang Diberikan</td>
+			<td rowspan="1"><strong>Yang Diharapkan</td>
+			<td rowspan="1"><strong>Pengamatan</td>
+			<td rowspan="1"><strong>Kesimpulan</td>
+		</tr>
+		<tr>
+			<td rowspan="1">
+				<ul>
+					<li>email : 1syahrulgunawan1@gmail.com</li>
+					<li>password : polindra</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>customer berhasil masuk ke aplikasi dengan akun yang benar</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>button login dapat di-klik jika field email dan password sudah terisi</li>
+					<li>jika field belum di isi kemudian menekan button login maka sistem akan menampilkan peringatan "kolom tidak boleh kosong"</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>Ok</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Catatan</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+	</thead>
+</table>
+
+
+
