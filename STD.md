@@ -115,7 +115,7 @@ Persiapan yang harus dilakukan untuk menyiapkan perangkat lunak untuk diuji di l
 
 ## BAB 3. IDENTIFIKASI DAN RENCANA PENGUJIAN 
 
-###  Tabel Pengujian Pada Android 
+###  Tabel Identifikasi dan rencana pengujian
 
 <table>  
 	<thead>  
@@ -123,73 +123,66 @@ Persiapan yang harus dilakukan untuk menyiapkan perangkat lunak untuk diuji di l
 	<td rowspan="2" align="center"><strong>Kelas Uji</td>
 	<td rowspan="2" align="center"><strong>Butir Uji </td>
 	<td colspan="2" align="center"><strong>Identifikasi</td>
-	<td rowspan="2" align="center"><strong>Jenis Pengujian</td>
+	<td rowspan="2" align="center"><strong>Tingkat Pengujian</td>
 	<td rowspan="2" align="center"><strong>Teknik Pengujian</td>
 	<td rowspan="2" align="center"><strong>Penguji</td>
 </tr>
 		<tr>
 			<td align="center"><strong>SRS/SDD</td>
-			<td align="center"><strong>SPMP</td>
+			<td align="center"><strong>STD</td>
 		</tr>
 <tr>
-	<td rowspan="2" align="center"><strong>Login Member</td>
-	<td>Data user-id dan password benar</td>
-	<td></td>
-	<td></td>
+	<td rowspan="3" align="center"><strong>Login Web</td>
+	<td>Email dan password yang di inputkan sudah terdaftar</td>
+	<td>SRS 2.2.1 Login Admin</td>
+	<td>STD 1.0</td>
 	<td>Sistem</td>
-	<td>Black box</td>
+	<td>Black Box</td>
+	<td>Eko</td>
+<tr>
+	<td>Email dan password yang di inputkan belum terdaftar</td>
+	<td>SRS 2.2.1 Login Admin</td>
+	<td>STD 1.1</td>
+	<td>Sistem</td>
+	<td>Black Box</td>
+	<td>Eko</td>
+</tr>
+<tr>
+	<td>Kolom Email dan password kosong</td>
+	<td>SRS 2.2.1 Login Admin</td>
+	<td>STD 1.2</td>
+	<td>Sistem</td>
+	<td>Black Box</td>
+	<td>Eko</td>
+</tr>
+<tr>
+	<td rowspan="3" align="center"><strong>Login Mobile</td>
+	<td>Email dan password yang di inputkan sudah terdaftar</td>
+	<td>SRS 2.2.7 Login calon pelanggan</td>
+	<td>STD 1.0</td>
+	<td>Sistem</td>
+	<td>Black Box</td>
 	<td>Wulan</td>
 <tr>
-	<td>Data user-id dan password salah</td>
-	<td>--------</td>
-	<td></td>
+	<td>Email dan password yang di inputkan belum terdaftar</td>
+	<td>SRS 2.2.7 Login calon pelanggan</td>
+	<td>STD 1.1</td>
 	<td>Sistem</td>
-	<td>Black box</td>
+	<td>Black Box</td>
 	<td>Wulan</td>
 </tr>
+<tr>
+	<td>Kolom Email dan password kosong</td>
+	<td>SRS 2.2.7 Login calon pelanggan</td>
+	<td>STD 1.2</td>
+	<td>Sistem</td>
+	<td>Black Box</td>
+	<td>Wulan</td>
+</tr>
+
 
 </thead>  
 </table>
-
-<br>
-<br> 
-<br> 
-
-<table>  
-	<thead>  
-<tr>
-	<td rowspan="2" align="center"><strong>Kelas Uji</td>
-	<td rowspan="2" align="center"><strong>Butir Uji </td>
-	<td colspan="2" align="center"><strong>Identifikasi</td>
-	<td rowspan="2" align="center"><strong>Jenis Pengujian</td>
-	<td rowspan="2" align="center"><strong>Teknik Pengujian</td>
-	<td rowspan="2" align="center"><strong>Penguji</td>
-</tr>
-		<tr>
-			<td align="center"><strong>SRS/SDD</td>
-			<td align="center"><strong>SPMP</td>
-		</tr>
-<tr>
-	<td rowspan="2" align="center"><strong>Register Member</td>
-	<td>Data user-id dan password benar</td>
-	<td></td>
-	<td></td>
-	<td>Sistem</td>
-	<td>Black box</td>
-	<td>Wulan</td>
-<tr>
-	<td>Data user-id dan password salah</td>
-	<td>--------</td>
-	<td></td>
-	<td>Sistem</td>
-	<td>Black box</td>
-	<td>Wulan</td>
-</tr>
-
-</thead>  
-</table>
-
-
 
 ## BAB 4. DESKRIPSI DAN HASIL UJI
 
@@ -276,3 +269,4 @@ Persiapan yang harus dilakukan untuk menyiapkan perangkat lunak untuk diuji di l
 		</tr>
 	</thead>
 </table>
+
