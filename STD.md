@@ -1,3 +1,4 @@
+
 <html>
 <body>
 <div align="center"><h2>Software Testing Document</h2></div>
@@ -188,6 +189,7 @@ Persiapan yang harus dilakukan untuk menyiapkan perangkat lunak untuk diuji di l
 
 <table>  
 	<thead> 
+	4.1 Login Customer Android <br><br>
 		<tr>
 			<td rowspan="1"><strong>Identifikasi</td>
 			<td colspan="3">-------</td>
@@ -248,6 +250,522 @@ Persiapan yang harus dilakukan untuk menyiapkan perangkat lunak untuk diuji di l
 				<ul>
 					<li>button login dapat di-klik jika field email dan password sudah terisi</li>
 					<li>jika field belum di isi kemudian menekan button login maka sistem akan menampilkan peringatan "kolom tidak boleh kosong"</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>Ok</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Catatan</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+	</thead>
+</table>
+
+<table>  
+	<thead> 
+	4.2 Login Admin Benar<br><br>
+		<tr>
+			<td rowspan="1"><strong>Identifikasi</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Nama Butir Uji</td>
+			<td colspan="3">Login Admin menggunkan username dan password</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tujuan</td>
+			<td colspan="3">Apakah fungsi login berfungsi dengan benar </td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Kondisi Awal</td>
+			<td colspan="3">Admin mengakses halaman login</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tanggal Pengujian</td>
+			<td colspan="3">18 Mei 2018</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Penguji</td>
+			<td colspan="3">Eko Prastyo</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Skenario</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>1.Mengakses halaman login</li>
+					<li>2.Menginputkan username dan password</li>
+					<li>2.Kemudian tekan tombol login</li>
+				</ul>
+</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Hasil</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Data yang Diberikan</td>
+			<td rowspan="1"><strong>Yang Diharapkan</td>
+			<td rowspan="1"><strong>Pengamatan</td>
+			<td rowspan="1"><strong>Kesimpulan</td>
+		</tr>
+		<tr>
+			<td rowspan="1">
+				<ul>
+					<li>username : admin</li>
+					<li>password : admin123</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>Admin berhasil masuk ke aplikasi dengan akun yang benar</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>Jika username dan password yang dimasukan salah tidak sesuai yang terdaftar di database maka terdapat peringatan username dan password salah</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>Ok</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Catatan</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+	</thead>
+</table>
+
+<table>  
+	<thead> 
+	4.3 Login Admin Salah<br><br>
+		<tr>
+			<td rowspan="1"><strong>Identifikasi</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Nama Butir Uji</td>
+			<td colspan="3">Login Admin menggunkan username dan password yang salah</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tujuan</td>
+			<td colspan="3">Apakah fungsi login berfungsi dengan benar</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Kondisi Awal</td>
+			<td colspan="3">Admin mengakses halaman login</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tanggal Pengujian</td>
+			<td colspan="3">18 Mei 2018</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Penguji</td>
+			<td colspan="3">Eko Prastyo</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Skenario</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>1.Mengakses halaman login</li>
+					<li>2.Menginputkan username dan password</li>
+					<li>2.Kemudian tekan tombol login</li>
+				</ul>
+</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Hasil</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Data yang Diberikan</td>
+			<td rowspan="1"><strong>Yang Diharapkan</td>
+			<td rowspan="1"><strong>Pengamatan</td>
+			<td rowspan="1"><strong>Kesimpulan</td>
+		</tr>
+		<tr>
+			<td rowspan="1">
+				<ul>
+					<li>username : asd</li>
+					<li>password : asd</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>Admin tidak bisa masuk ke sistem</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>Jika username dan password yang dimasukan salah tidak sesuai yang terdaftar di database maka terdapat peringatan username dan password salah sehingga tidak bisa masuk ke sistem</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>Gagal</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Catatan</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+	</thead>
+</table>
+
+<table>  
+	<thead> 
+	4.4 Input data lapangan benar<br><br>
+		<tr>
+			<td rowspan="1"><strong>Identifikasi</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Nama Butir Uji</td>
+			<td colspan="3">Tambah data lapangan</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tujuan</td>
+			<td colspan="3">Apakah fungsi tambah data lapangan berfungsi dengan benar</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Kondisi Awal</td>
+			<td colspan="3">Admin mengakses input data lapangan</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tanggal Pengujian</td>
+			<td colspan="3">18 Mei 2018</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Penguji</td>
+			<td colspan="3">Eko Prastyo</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Skenario</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>1.Masuk ke form input lapangan</li>
+					<li>2.Menginputkan data lapangan</li>
+					<li>3.Kemudian tekan tombol upload</li>
+				</ul>
+</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Hasil</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Data yang Diberikan</td>
+			<td rowspan="1"><strong>Yang Diharapkan</td>
+			<td rowspan="1"><strong>Pengamatan</td>
+			<td rowspan="1"><strong>Kesimpulan</td>
+		</tr>
+		<tr>
+			<td rowspan="1">
+				<ul>
+					<li>Nama Lapangan : Lapangan A</li>
+					<li>Harga Sewa : 80000</li>
+					<li>Keterangan : Baik</li>
+					<li>Jumlah : 2</li>
+					<li>Upload gambar  lapangan</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>Data lapangan tersimpan ke database</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>Jika data lapangan yang diinputkan berhasil maka langsung reload  ke daftar lapangan keseluruhan</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>Ok</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Catatan</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+	</thead>
+</table>
+
+<table>  
+	<thead> 
+	4.5 Input data lapangan salah<br><br>
+		<tr>
+			<td rowspan="1"><strong>Identifikasi</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Nama Butir Uji</td>
+			<td colspan="3">Pengujian kesalahan input data lapangan</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tujuan</td>
+			<td colspan="3">Apakah fungsi kesalahan jika tidak terdapat gambar yang diupload </td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Kondisi Awal</td>
+			<td colspan="3">Admin mengakses form input data lapangan</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tanggal Pengujian</td>
+			<td colspan="3">18 Mei 2018</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Penguji</td>
+			<td colspan="3">Eko Prastyo</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Skenario</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>1.Masuk ke form input lapangan</li>
+					<li>2.Menginputkan data lapangan</li>
+					<li>3.Upload gambar dikosongkan</li>
+					<li>4.Kemudian tekan tombol upload</li>
+				</ul>
+</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Hasil</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Data yang Diberikan</td>
+			<td rowspan="1"><strong>Yang Diharapkan</td>
+			<td rowspan="1"><strong>Pengamatan</td>
+			<td rowspan="1"><strong>Kesimpulan</td>
+		</tr>
+		<tr>
+			<td rowspan="1">
+				<ul>
+					<li>Nama Lapangan : Lapangan A</li>
+					<li>Harga Sewa : 80000</li>
+					<li>Keterangan : Baik</li>
+					<li>Jumlah : 2</li>
+					<li>Upload gambar  lapangan kosong</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>Data tidak tersimpan ke database</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>Jika gambar lapangan kosong maka terdapat peringatan kamu belum memilih gambar untuk diupload</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>Gagal</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Catatan</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+	</thead>
+</table>
+
+<table>  
+	<thead> 
+	4.6 Hapus data lapangan<br><br>
+		<tr>
+			<td rowspan="1"><strong>Identifikasi</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Nama Butir Uji</td>
+			<td colspan="3">Pengujian fungsi hapus lapangan</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tujuan</td>
+			<td colspan="3">Apakah fungsi hapus berfungsi dengan benar</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Kondisi Awal</td>
+			<td colspan="3">Admin mengakses data lapangan</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tanggal Pengujian</td>
+			<td colspan="3">18 Mei 2018</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Penguji</td>
+			<td colspan="3">Eko Prastyo</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Skenario</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>1.Masuk data lapangan</li>
+					<li>2.Menekan tombol hapus</li>
+				</ul>
+</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Hasil</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Data yang Diberikan</td>
+			<td rowspan="1"><strong>Yang Diharapkan</td>
+			<td rowspan="1"><strong>Pengamatan</td>
+			<td rowspan="1"><strong>Kesimpulan</td>
+		</tr>
+		<tr>
+			<td rowspan="1">
+				<ul>
+					<li>Menekan tombol hapus</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>Data lapangan dapat dihapus</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>Setelah data lapangan terhapu maka daftar lapangan berkurang </li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>Gagal</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Catatan</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+	</thead>
+</table>
+
+<table>  
+	<thead> 
+	4.7 Edit data lapangan<br><br>
+		<tr>
+			<td rowspan="1"><strong>Identifikasi</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Nama Butir Uji</td>
+			<td colspan="3">Pengujian fungsi edit lapangan</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tujuan</td>
+			<td colspan="3">Apakah fungsi edit lapanganberfungsi dengan benar</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Kondisi Awal</td>
+			<td colspan="3">Admin mengakses data lapangan</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tanggal Pengujian</td>
+			<td colspan="3">18 Mei 2018</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Penguji</td>
+			<td colspan="3">Eko Prastyo</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Skenario</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>1.Masuk data lapangan</li>
+					<li>2.Menekan tombol edit</li>
+				</ul>
+</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Hasil</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Data yang Diberikan</td>
+			<td rowspan="1"><strong>Yang Diharapkan</td>
+			<td rowspan="1"><strong>Pengamatan</td>
+			<td rowspan="1"><strong>Kesimpulan</td>
+		</tr>
+		<tr>
+			<td rowspan="1">
+				<ul>
+					<li>1.Menekan tombol edit</li>
+					<li>2.Masuk ke form edit lapangan</li>
+					<li>3.Memilih data lapangan yang diupdate</li>
+					<li>4.Menekan tombol simpan</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>Data lapangan dapat diedit</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>Setelah data lapangan diedit maka langsung direload ke daftar lapangan </li>
 				</ul>
 			</td>
 			<td rowspan="1">
