@@ -151,12 +151,13 @@ Sistem Operasi yang digunakan adalah :
 #### 3.1.1 Diagram Konteks
 
 <p align="justify">Diagram konteks adalah diagram yang terdiri dari suatu proses dan menggambarkan ruang lingkup suatu sistem. Diagram konteks merupakan level tertinggi dari DFD yang menggambarkan seluruh input ke dalam sistem atau output dari sistem yang memberi gambaran tentang keseluruhan sistem. Sistem dibatasi oleh boundary (Digambarkan dengan garis putus - putus). Dalam diagram konteks hanya ada satu proses, tidak boleh ada store dalam diagram konteks. Berikut ini adalah gambar diagram konteks dari sistem Aplikasi SSAL</p>
-![enter image description here](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/DFD%20CONTEX.PNG)  
+
+![Diagram](https://raw.githubusercontent.com/Eprastyo/RPL-D-3/master/Gambar/DFD%20CONTEX.PNG)  
   
 #### 3.1.2 DFD level 0
 
 Data Flow Diagram merupakan cara untuk memodelkan proses dalam analisis dan perancangan perangkat lunak, dan merupakan penjelasan dari context diagram.
-![enter image description here](https://github.com/Eprastyo/RPL-D-3/raw/master/Gambar/DFD%20LEVEL%200.PNG)  
+![level0](https://github.com/Eprastyo/RPL-D-3/raw/master/Gambar/DFD%20LEVEL%200.PNG)  
 
 ### Dekomposisi proses konkuren 
 
