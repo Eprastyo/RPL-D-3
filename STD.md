@@ -314,6 +314,7 @@ Persiapan yang harus dilakukan untuk menyiapkan perangkat lunak untuk diuji di l
 	<td>Pelanggan memesan lapangan belum benar</td>
 	<td>SRS 2.2.9 Memesan lapangan </td>
 	<td>Sistem</td>
+	<td>Black Box</td>
 	<td>STD 1.1</td>
 	<td>Eko</td>
 </tr>
