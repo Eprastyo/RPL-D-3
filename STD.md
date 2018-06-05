@@ -102,7 +102,7 @@ Pengujian ini dilakukan di luar lingkungan kampus. Dimana pengujian ini dilakuka
 Perangkat keras yang perlu dipesiapkan adalah : Sebuah perangkat komputer yang dilengkapi dengan :
 
 • Processor: Intel® Pentium Dual Core
-• Memory: 2 GB DDR3
+• Memory: 4 GB DDR3
 • Harddisk 100 GB
 
 ##### 2.5.2.3 Persiapan Perangkat Lunak
@@ -157,29 +157,200 @@ Persiapan yang harus dilakukan untuk menyiapkan perangkat lunak untuk diuji di l
 	<td>Eko</td>
 </tr>
 <tr>
-	<td rowspan="3" align="center"><strong>Login Mobile</td>
-	<td>Email dan password yang di inputkan sudah terdaftar</td>
-	<td>SRS 2.2.7 Login calon pelanggan</td>
+	<td rowspan="3" align="center"><strong>Mengelola data lapangan Web</td>
+	<td>Mengelola data lapangan sudah benar</td>
+	<td>SRS 2.2.2 Mengelola data lapangan</td>
 	<td>STD 1.0</td>
 	<td>Sistem</td>
 	<td>Black Box</td>
-	<td>Wulan</td>
+	<td>Syahrul</td>
 <tr>
-	<td>Email dan password yang di inputkan belum terdaftar</td>
-	<td>SRS 2.2.7 Login calon pelanggan</td>
+	<td>Mengelola data lapangan belum benar</td>
+	<td>SRS 2.2.2 Mengelola data lapangan</td>
 	<td>STD 1.1</td>
 	<td>Sistem</td>
 	<td>Black Box</td>
-	<td>Wulan</td>
+	<td>Syahrul</td>
 </tr>
 <tr>
-	<td>Kolom Email dan password kosong</td>
-	<td>SRS 2.2.7 Login calon pelanggan</td>
+	<td>Data lapangan kosong</td>
+	<td>SRS 2.2.2 Mengelola data lapangan</td>
 	<td>STD 1.2</td>
 	<td>Sistem</td>
 	<td>Black Box</td>
-	<td>Wulan</td>
+	<td>Syahrul</td>
 </tr>
+<tr>
+	<td rowspan="3" align="center"><strong>Transaksi Pembayaran Web</td>
+	<td>Mengelola data Transaksi sudah benar</td>
+	<td>SRS 2.2.5 Transaksi Pembayaran</td>
+	<td>STD 1.0</td>
+	<td>Sistem</td>
+	<td>Black Box</td>
+	<td>Tuti</td>
+<tr>
+	<td>Mengelola data Transaksi belum benar</td>
+	<td>SRS 2.2.5 Transaksi Pembayaran</td>
+	<td>STD 1.1</td>
+	<td>Sistem</td>
+	<td>Black Box</td>
+	<td>Tuti</td>
+</tr>
+<tr>
+	<td> Data Transaksi kosong</td>
+	<td>SRS 2.2.5 Transaksi Pembayaran</td>
+	<td>STD 1.2</td>
+	<td>Sistem</td>
+	<td>Black Box</td>
+	<td>Tuti</td>
+</tr>
+<tr>
+	<td rowspan="3" align="center"><strong>Penampilkan data Pemesanan Web</td>
+	<td>Penampilkan daftar pemesanan sudah benar</td>
+	<td>SRS 2.2.4 Menampilkan daftar pemesanan</td>
+	<td>STD 1.0</td>
+	<td>Sistem</td>
+	<td>Black Box</td>
+	<td>Syahrul</td>
+<tr>
+	<td>Penampilkan daftar pemesanan belum benar</td>
+	<td>SRS 2.2.4 Menampilkan daftar pemesanan</td>
+	<td>STD 1.1</td>
+	<td>Sistem</td>
+	<td>Black Box</td>
+	<td>Syahrul</td>
+</tr>
+<tr>
+	<td>Daftar Pemesanan kosong</td>
+	<td>SRS 2.2.4 Menampilkan daftar pemesanan</td>
+	<td>STD 1.2</td>
+	<td>Sistem</td>
+	<td>Black Box</td>
+	<td>Syahrul</td>
+</tr>
+<tr>
+	<td rowspan="3" align="center"><strong>Konfirmasi Pembayaran Web</td>
+	<td>Konfirmasi data pembayaran sudah benar</td>
+	<td>SRS 2.2.3 Konfirmasi Pembayaran</td>
+	<td>STD 1.0</td>
+	<td>Sistem</td>
+	<td>Black Box</td>
+	<td>Tuti</td>
+<tr>
+	<td>Konfirmasi data pembayaran belum benar</td>
+	<td>SRS 2.2.3 Konfirmasi data pembayaran</td>
+	<td>STD 1.1</td>
+	<td>Sistem</td>
+	<td>Black Box</td>
+	<td>Tuti</td>
+</tr>
+<tr>
+	<td>Konfirmasi data pembayaran kosong</td>
+	<td>SRS 2.2.3 Konfirmasi pembayaran</td>
+	<td>STD 1.2</td>
+	<td>Sistem</td>
+	<td>Black Box</td>
+	<td>Tuti</td>
+</tr>
+<tr>
+<td rowspan="3" align="center"><strong>Login Mobile</td>
+<td>Email dan password yang di inputkan sudah terdaftar</td>
+<td>SRS 2.2.7 Login calon pelanggan</td>
+<td>STD 1.0</td>
+<td>Sistem</td>
+<td>Black Box</td>
+<td>Wulan</td>
+</tr>
+<tr>
+<td>Email dan password yang di inputkan belum terdaftar</td>
+<td>SRS 2.2.7 Login calon pelanggan</td>
+<td>STD 1.1</td>
+<td>Sistem</td>
+<td>Black Box</td>
+<td>Wulan</td>
+</tr>
+<tr>
+<td>Kolom Email dan password kosong</td>
+<td>SRS 2.2.7 Login calon pelanggan</td>
+<td>STD 1.2</td>
+<td>Sistem</td>
+<td>Black Box</td>
+<td>Wulan</td>
+</tr>
+	<tr>
+	<td rowspan="3" align="center"><strong>Konfirmasi Pembayaran Mobile</td>
+	<td>Mengkonfirmasi Pembayaran sudah benar</td>
+	<td>SRS 2.2.3  Konfirmasi Pembayaran</td>
+	<td>STD 1.0</td>
+	<td>Sistem</td>
+	<td>Black Box</td>
+	<td>Eko</td>
+	</tr>
+<tr>
+	<td>Mengkonfirmasi Pembayaran belum benar</td>
+	<td>SRS 2.2.3 Konfirmasi Pembayaran</td>
+	<td>STD 1.1</td>
+	<td>Sistem</td>
+	<td>Black Box</td>
+	<td>Eko</td>
+</tr>
+<tr>
+	<td>Mengkonfirmasi Pembayaran Kosong</td>
+	<td>SRS 2.2.3 Konfirmasi Pembayaran</td>
+	<td>STD 1.2</td>
+	<td>Sistem</td>
+	<td>Black Box</td>
+	<td>Eko</td>
+</tr>
+<tr>
+	<td rowspan="3" align="center"><strong>Pemesanan Lapangan Futsal Mobile</td>
+	<td>Pelanggan memesan lapangan sudah benar</td>
+	<td>SRS 2.2.9 Memesan lapangan</td>
+	<td>STD 1.0</td>
+	<td>Sistem</td>
+	<td>Black Box</td>
+	<td>Eko</td>
+<tr>
+	<td>Pelanggan memesan lapangan belum benar</td>
+	<td>SRS 2.2.9 Memesan lapangan </td>
+	<td>Sistem</td>
+	<td>STD 1.1</td>
+	<td>Eko</td>
+</tr>
+<tr>
+	<td>Pemesanan lapangan futsal Kosong</td>
+	<td>SRS 2.2.9 Memesan lapangan</td>
+	<td>STD 1.2</td>
+	<td>Sistem</td>
+	<td>Black Box</td>
+	<td>Eko</td>
+</tr>
+<tr>
+	<td rowspan="3" align="center"><strong>Mengirim bukti pembayaran Mobile</td>
+	<td>Mengunggah gambar  bukti pembayaran sudah benar</td>
+	<td>SRS 2.2.11 Mengirim bukti pembayaran</td>
+	<td>STD 1.0</td>
+	<td>Sistem</td>
+	<td>Black Box</td>
+	<td>Tuti</td>
+<tr>
+	<td>Mengunggah gambar bukti pembayaran belum benar </td>
+	<td>SRS 2.2.11 Mengirim bukti pembayaran</td>
+	<td>STD 1.1</td>
+	<td>Sistem</td>
+	<td>Black Box</td>
+	<td>Tuti</td>
+</tr>
+<tr>
+	<td>Bukti pembayaran kosong</td>
+	<td>SRS 2.2.11 Mengirim bukti pembayaran</td>
+	<td>STD 1.2</td>
+	<td>Sistem</td>
+	<td>Black Box</td>
+	<td>Tuti</td>
+</tr>
+
+
 
 
 </thead>  
@@ -788,3 +959,169 @@ Persiapan yang harus dilakukan untuk menyiapkan perangkat lunak untuk diuji di l
 	</thead>
 </table>
 
+<table>  
+	<thead> 
+	4.8 Daftar Pemesanan Lapangan<br><br>
+		<tr>
+			<td rowspan="1"><strong>Identifikasi</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Nama Butir Uji</td>
+			<td colspan="3">Pengujian fungsi Daftar Pemesanan lapangan</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tujuan</td>
+			<td colspan="3">Apakah fungsi Daftar lapangan berfungsi dengan benar</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Kondisi Awal</td>
+			<td colspan="3">Admin mengakses daftar lapangan</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tanggal Pengujian</td>
+			<td colspan="3">20 Mei 2018</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Penguji</td>
+			<td colspan="3">Eko Prastyo</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Skenario</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>1.Masuk daftar lapangan</li>
+				</ul>
+</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Hasil</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Data yang Diberikan</td>
+			<td rowspan="1"><strong>Yang Diharapkan</td>
+			<td rowspan="1"><strong>Pengamatan</td>
+			<td rowspan="1"><strong>Kesimpulan</td>
+		</tr>
+		<tr>
+			<td rowspan="1">
+				<ul>
+					<li>1.Menekan tombol daftar lapangan</li>
+					<li>3.Memilih daftar lapangan yang diupdate</li>
+					<li>4.Menekan tombol simpan</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>Data daftar lapangan dapat di CRUD</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>Setelah data lapangan di CRUD maka langsung muncul pembaruan daftar lapangan yang sudah memesan lapangan atau yang sudah selesai memesan lapangan</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>Ok</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Catatan</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+	</thead>
+</table>
+<table>  
+	<thead> 
+	4.9 Transaksi Pembayaran Benar<br><br>
+		<tr>
+			<td rowspan="1"><strong>Identifikasi</td>
+			<td colspan="3">-------</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Nama Butir Uji</td>
+			<td colspan="3">Admin mengecek halaman bukti transaksi</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tujuan</td>
+			<td colspan="3">Apakah fungsi Transaksi berfungsi dengan benar </td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Kondisi Awal</td>
+			<td colspan="3">Admin mengakses halaman Transaksi</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Tanggal Pengujian</td>
+			<td colspan="3">20 Mei 2018</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Penguji</td>
+			<td colspan="3">Eko Prastyo</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Skenario</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>1.Mengakses halaman Transaksi</li>
+					<li>2.Mengecek Bukti Transaksi</li>
+					<li>2.Kemudian tekan tombol Konfirmasi</li>
+				</ul>
+</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Hasil</td>
+		</tr>
+		<tr>
+			<td rowspan="1"><strong>Data yang Diberikan</td>
+			<td rowspan="1"><strong>Yang Diharapkan</td>
+			<td rowspan="1"><strong>Pengamatan</td>
+			<td rowspan="1"><strong>Kesimpulan</td>
+		</tr>
+		<tr>
+			<td rowspan="1">
+				<ul>
+					<li>Konfirmasi Transaksi</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>Admin berhasil untuk mengkonfirmasi Transaksi untuk pemesanan yang di lakukan oleh pelanggan</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>Jika bukti tidak di upload maka pemesanan lapangan dibatalkan</li>
+				</ul>
+			</td>
+			<td rowspan="1">
+				<ul>
+					<li>Ok</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="4" align="center"><strong>Catatan</td>
+		</tr>
+		<tr>
+			<td colspan="4">
+				<ul>
+					<li>------</li>
+					<li>------</li>
+				</ul>
+			</td>
+		</tr>
+	</thead>
+</table>
